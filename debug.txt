@@ -1,0 +1,3472 @@
+Texts [0] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Texts [1] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Texts [2] : X = 3.750000 Y = 815.260000 Text = PB
+
+Texts [3] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Texts [4] : X = 435.750000 Y = 91.400000 Text = Page No: 1 of 5
+
+Texts [5] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Texts [6] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Texts [7] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Texts [8] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Texts [9] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Texts [10] : X = 2.250000 Y = 455.060000 Text = 22
+
+Texts [11] : X = 9.750000 Y = 247.510000 Text = IUA
+
+Texts [12] : X = 0.000000 Y = 275.410000 Text = 32
+
+Texts [13] : X = 9.750000 Y = 361.510000 Text = 14418
+
+Texts [14] : X = 11.250000 Y = 79.660000 Text = D20
+
+Texts [15] : X = 10.500000 Y = 42.910000 Text = 1075
+
+Texts [16] : X = 0.000000 Y = 679.850000 Text = N
+
+Texts [17] : X = 0.000000 Y = 488.600000 Text = 9
+
+Texts [18] : X = 3.750000 Y = 447.910000 Text = Br
+
+Texts [19] : X = 0.000000 Y = 380.410000 Text = 13
+
+Texts [20] : X = 9.750000 Y = 290.410000 Text = 13
+
+Texts [21] : X = 1.500000 Y = 349.510000 Text = A
+
+Texts [22] : X = 2.250000 Y = 363.010000 Text = A
+
+Texts [23] : X = 4.500000 Y = 188.410000 Text = 1003
+
+Texts [24] : X = 0.750000 Y = 600.910000 Text = 10
+
+Texts [25] : X = 0.000000 Y = 509.500000 Text = 844.15
+
+Texts [26] : X = 3.000000 Y = 304.510000 Text = A
+
+Texts [27] : X = 0.000000 Y = 622.750000 Text = 4689.74
+
+Texts [28] : X = 6.750000 Y = 272.410000 Text = 46
+
+Texts [29] : X = 0.750000 Y = 369.010000 Text = A
+
+Texts [30] : X = 0.000000 Y = 603.910000 Text = M
+
+Texts [31] : X = 3.750000 Y = 534.160000 Text = MA
+
+Texts [32] : X = 6.000000 Y = 381.010000 Text = A
+
+Texts [33] : X = 0.000000 Y = 634.660000 Text = G0
+
+Texts [34] : X = 12.000000 Y = 13.510000 Text = 1
+
+Texts [35] : X = 3.000000 Y = 602.260000 Text = 1
+
+Texts [36] : X = 6.000000 Y = 612.160000 Text = P
+
+Texts [37] : X = 0.000000 Y = 559.000000 Text = 59.4
+
+Texts [38] : X = 0.000000 Y = 441.160000 Text = 1
+
+Texts [39] : X = 0.750000 Y = 583.000000 Text = 23.58
+
+Texts [40] : X = 2.250000 Y = 370.510000 Text = A1
+
+Texts [41] : X = 4.500000 Y = 263.410000 Text = 10
+
+Texts [42] : X = 7.500000 Y = 296.410000 Text = 100
+
+Texts [43] : X = 0.000000 Y = 369.250000 Text = IGST
+
+Texts [44] : X = 8.250000 Y = 565.310000 Text = 614.8
+
+Texts [45] : X = 4.500000 Y = 585.010000 Text = 1
+
+Texts [46] : X = 6.000000 Y = 474.910000 Text = fal
+
+Texts [47] : X = 3.000000 Y = 349.510000 Text = A
+
+Texts [48] : X = 0.000000 Y = 272.410000 Text = 136
+
+Texts [49] : X = 2.250000 Y = 657.010000 Text = 01
+
+Texts [50] : X = 373.280000 Y = 699.130000 Text = PARTNER DETAILSYOUR DETAILS
+
+Texts [51] : X = 384.750000 Y = 561.170000 Text = contactus@heuteandmorgen.com
+
+Texts [52] : X = 426.000000 Y = 595.670000 Text = 8601654647
+
+Texts [53] : X = 387.000000 Y = 629.420000 Text = 1075248
+
+Texts [54] : X = 384.000000 Y = 662.870000 Text = HEUTE AND MORGEN INSURANCE 
+
+Texts [55] : X = 384.000000 Y = 656.920000 Text = BROKER PRIVATE LIMITED
+
+Texts [56] : X = 321.000000 Y = 560.840000 Text = Partner Email :
+
+Texts [57] : X = 321.000000 Y = 596.090000 Text = Partner Mobile Number:
+
+Texts [58] : X = 321.000000 Y = 629.840000 Text = Partner Code :
+
+Texts [59] : X = 321.000000 Y = 662.840000 Text = Partner Name:
+
+Texts [60] : X = 120.750000 Y = 610.670000 Text = D272363175 / 10092026
+
+Texts [61] : X = 82.500000 Y = 555.170000 Text = mxxxxxxxxxx4@gxxxxxcom
+
+Texts [62] : X = 126.750000 Y = 582.920000 Text = xxxxxxxxx3771
+
+Texts [63] : X = 141.000000 Y = 638.420000 Text = DL2CBB8461
+
+Texts [64] : X = 90.750000 Y = 661.770000 Text = MAAN SINGH
+
+Texts [65] : X = 53.250000 Y = 554.840000 Text = Email:
+
+Texts [66] : X = 53.250000 Y = 583.340000 Text = Mobile Number:
+
+Texts [67] : X = 53.250000 Y = 611.090000 Text = Policy Number:
+
+Texts [68] : X = 53.250000 Y = 638.590000 Text = Registration Number:
+
+Texts [69] : X = 53.250000 Y = 665.090000 Text = Name: 
+
+Texts [70] : X = 48.000000 Y = 329.590000 Text = YOUR POLICY DETAILS
+
+Texts [71] : X = 48.000000 Y = 312.200000 Text = Policy Issue Date
+
+Texts [72] : X = 144.050000 Y = 312.200000 Text = 10-Sep-2026
+
+Texts [73] : X = 209.760000 Y = 312.200000 Text = Invoice No.
+
+Texts [74] : X = 270.420000 Y = 312.200000 Text = IA263463879
+
+Texts [75] : X = 336.140000 Y = 312.200000 Text = Invoice Date
+
+Texts [76] : X = 457.460000 Y = 312.200000 Text = 10-Sep-2026
+
+Texts [77] : X = 144.050000 Y = 295.700000 Text = From
+
+Texts [78] : X = 209.760000 Y = 295.700000 Text = 19-Sep-202600:00:01
+
+Texts [79] : X = 336.140000 Y = 295.700000 Text = NCB % (Current Policy)
+
+Texts [80] : X = 457.460000 Y = 295.700000 Text = 45%
+
+Texts [81] : X = 48.000000 Y = 291.150000 Text = Period of Policy for
+
+Texts [82] : X = 48.000000 Y = 283.750000 Text = Own Damage CoverTo
+
+Texts [83] : X = 209.760000 Y = 279.200000 Text = 18-Sep-202723:59:59
+
+Texts [84] : X = 336.140000 Y = 279.200000 Text = Additional Excess (
+
+Texts [85] : X = 404.120000 Y = 279.200000 Text = `
+
+Texts [86] : X = 407.870000 Y = 279.200000 Text = )
+
+Texts [87] : X = 457.460000 Y = 278.590000 Text = --
+
+Texts [88] : X = 144.050000 Y = 262.700000 Text = From
+
+Texts [89] : X = 209.760000 Y = 262.700000 Text = 19-Sep-202600:00:01
+
+Texts [90] : X = 336.140000 Y = 262.700000 Text = Voluntary Deductible (
+
+Texts [91] : X = 416.430000 Y = 262.700000 Text = `
+
+Texts [92] : X = 420.180000 Y = 262.700000 Text = )
+
+Texts [93] : X = 457.460000 Y = 262.700000 Text = 0.00
+
+Texts [94] : X = 48.000000 Y = 258.150000 Text = Period of Policy for
+
+Texts [95] : X = 48.000000 Y = 250.750000 Text = Third Party LiabilityTo
+
+Texts [96] : X = 209.760000 Y = 246.200000 Text = 18-Sep-202723:59:59
+
+Texts [97] : X = 336.140000 Y = 246.200000 Text = Compulsory Deductible (
+
+Texts [98] : X = 423.740000 Y = 246.200000 Text = `
+
+Texts [99] : X = 427.490000 Y = 246.200000 Text = )
+
+Texts [100] : X = 457.460000 Y = 246.960000 Text = 1000
+
+Texts [101] : X = 144.050000 Y = 229.700000 Text = From
+
+Texts [102] : X = 209.760000 Y = 229.700000 Text = 19-Sep-202600:00:01
+
+Texts [103] : X = 336.140000 Y = 228.690000 Text =   
+
+Texts [104] : X = 48.000000 Y = 225.150000 Text = Period of Policy for
+
+Texts [105] : X = 48.000000 Y = 217.750000 Text = PA Owner-DriverTo
+
+Texts [106] : X = 209.760000 Y = 213.200000 Text = 18-Sep-202723:59:59
+
+Texts [107] : X = 336.140000 Y = 212.490000 Text =   
+
+Texts [108] : X = 49.000000 Y = 195.900000 Text = Address
+
+Texts [109] : X = 133.930000 Y = 194.400000 Text = H NO-WB-120 A GALI NO-5 SHAKARPUR  EAST DELHI 110092,New Delhi-110001
+
+Texts [110] : X = 108.530000 Y = 176.960000 Text = Optional CoverOptional Coverage Details
+
+Texts [111] : X = 458.150000 Y = 176.200000 Text = UIN
+
+Texts [112] : X = 47.500000 Y = 161.900000 Text = Digit Private Car Consumable CoverCover Unlimited ClaimsIRDAN158RP0005V01201718/A0008V01201718
+
+Texts [113] : X = 47.500000 Y = 147.400000 Text = Digit Private Car Breakdown Assistance IRDAN158RP0005V01201718/A0014V02201718
+
+Texts [114] : X = 47.500000 Y = 132.900000 Text = Digit Private Car Engine and Gear Box ProtectMaximum of one claim would be payableIRDAN158RP0005V01201718/A0010V01201718
+
+Texts [115] : X = 47.500000 Y = 118.400000 Text = Digit Private Car Parts Depreciation ProtectCover Unlimited ClaimsIRDAN158RP0005V01201718/A0009V01201718
+
+Texts [116] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Texts [117] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Texts [118] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Texts [119] : X = 3.750000 Y = 815.260000 Text = PB
+
+Texts [120] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Texts [121] : X = 435.750000 Y = 91.400000 Text = Page No: 2 of 5
+
+Texts [122] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Texts [123] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Texts [124] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Texts [125] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Texts [126] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Texts [127] : X = 47.500000 Y = 720.150000 Text = Digit Private Car Loss of Personal BelongingsCover Only 1 Claims Per Year/Max SI-30000IRDAN158RP0005V01201718/A0069V01202021
+
+Texts [128] : X = 47.500000 Y = 705.650000 Text = Digit Private Car Key & Lock ProtectCover Only 1 Claims Per Year/Max SI-30000IRDAN158RP0005V01201718/A0068V01202021
+
+Texts [129] : X = 47.250000 Y = 691.870000 Text = Digit Private Car Pay As You Drive and 12000 KM plan (IRDAN158RP0005V01201718/A0036V01202425) also comes under the above Addon cover
+
+Texts [130] : X = 42.750000 Y = 667.100000 Text = YOUR VEHICLE DETAILS
+
+Texts [131] : X = 48.750000 Y = 647.990000 Text = RTO Location
+
+Texts [132] : X = 114.460000 Y = 648.710000 Text = DL2C
+
+Texts [133] : X = 205.460000 Y = 647.990000 Text = Make
+
+Texts [134] : X = 256.010000 Y = 647.990000 Text = JEEP
+
+Texts [135] : X = 341.940000 Y = 651.450000 Text = Model/Vehicle Variant (Sub-
+
+Texts [136] : X = 341.940000 Y = 644.540000 Text = Type)
+
+Texts [137] : X = 443.040000 Y = 651.450000 Text = COMPASS/1.4 SPORT MAIR 
+
+Texts [138] : X = 443.040000 Y = 644.540000 Text = DDCT
+
+Texts [139] : X = 48.750000 Y = 627.670000 Text = Seating Capacity
+
+Texts [140] : X = 114.460000 Y = 627.670000 Text = 5
+
+Texts [141] : X = 205.460000 Y = 627.670000 Text = Fuel Type
+
+Texts [142] : X = 256.010000 Y = 627.670000 Text = Petrol
+
+Texts [143] : X = 341.940000 Y = 631.130000 Text = Year of Regn./ 
+
+Texts [144] : X = 341.940000 Y = 624.220000 Text = Manufacturing
+
+Texts [145] : X = 443.040000 Y = 627.670000 Text = 2020/0001-01-01
+
+Texts [146] : X = 48.750000 Y = 607.360000 Text = Engine No.
+
+Texts [147] : X = 114.460000 Y = 607.360000 Text = 2719485
+
+Texts [148] : X = 205.460000 Y = 607.360000 Text = Chassis No.
+
+Texts [149] : X = 256.010000 Y = 610.810000 Text = MCAAJPBH8LFA655468
+
+Texts [150] : X = 256.010000 Y = 603.900000 Text = L
+
+Texts [151] : X = 341.940000 Y = 607.360000 Text = Cubic Capacity
+
+Texts [152] : X = 443.040000 Y = 607.360000 Text = 1368 CC
+
+Texts [153] : X = 48.750000 Y = 587.040000 Text = Odometer
+
+Texts [154] : X = 114.460000 Y = 587.040000 Text = 58512
+
+Texts [155] : X = 205.460000 Y = 590.490000 Text = FASTag 
+
+Texts [156] : X = 205.460000 Y = 583.580000 Text = Number.
+
+Texts [157] : X = 256.010000 Y = 587.040000 Text = NA
+
+Texts [158] : X = 341.940000 Y = 587.040000 Text = Financier Details
+
+Texts [159] : X = 48.000000 Y = 564.200000 Text = FASTag NUMBER DECLARATION
+
+Texts [160] : X = 48.000000 Y = 546.400000 Text = The Policy has been issued subject to your affirmative declaration that a valid FASTag has been affixed on the insured vehicle.
+
+Texts [161] : X = 45.000000 Y = 524.000000 Text = Call us at 
+
+Texts [162] : X = 89.870000 Y = 524.000000 Text = 1800-258-5956
+
+Texts [163] : X = 164.640000 Y = 524.000000 Text =  to update your contact details. This will help us give you a smooth claim process.
+
+Texts [164] : X = 45.000000 Y = 418.850000 Text = YOUR VEHICLE IDV 
+
+Texts [165] : X = 47.500000 Y = 400.300000 Text = YearVechicle IDV
+
+Texts [166] : X = 82.880000 Y = 397.570000 Text = (`)
+
+Texts [167] : X = 133.430000 Y = 404.000000 Text = Non-Electrical 
+
+Texts [168] : X = 133.430000 Y = 396.600000 Text = Accessories IDV 
+
+Texts [169] : X = 192.790000 Y = 396.600000 Text = (`)
+
+Texts [170] : X = 244.640000 Y = 404.000000 Text = Electrical 
+
+Texts [171] : X = 244.640000 Y = 396.600000 Text = Accessories IDV 
+
+Texts [172] : X = 304.000000 Y = 396.600000 Text = (`)
+
+Texts [173] : X = 340.690000 Y = 404.000000 Text = CNG/LPG 
+
+Texts [174] : X = 340.690000 Y = 396.600000 Text = IDV 
+
+Texts [175] : X = 355.990000 Y = 396.600000 Text = (`)
+
+Texts [176] : X = 401.350000 Y = 404.000000 Text = Trailer 
+
+Texts [177] : X = 401.350000 Y = 396.600000 Text = IDV 
+
+Texts [178] : X = 416.650000 Y = 396.600000 Text = (`)
+
+Texts [179] : X = 446.850000 Y = 404.000000 Text = Total 
+
+Texts [180] : X = 446.850000 Y = 396.600000 Text = IDV
+
+Texts [181] : X = 460.090000 Y = 396.600000 Text =  
+
+Texts [182] : X = 461.620000 Y = 396.600000 Text = (`)
+
+Texts [183] : X = 492.340000 Y = 404.000000 Text = PA Owner 
+
+Texts [184] : X = 492.340000 Y = 396.600000 Text = Driver
+
+Texts [185] : X = 47.500000 Y = 381.550000 Text = Year 1929485
+
+Texts [186] : X = 133.430000 Y = 381.470000 Text = --------
+
+Texts [187] : X = 446.850000 Y = 381.550000 Text = 929485.001500000
+
+Texts [188] : X = 47.500000 Y = 366.550000 Text = Year 2
+
+Texts [189] : X = 82.880000 Y = 366.470000 Text = --
+
+Texts [190] : X = 133.430000 Y = 366.550000 Text = ------------
+
+Texts [191] : X = 47.500000 Y = 351.550000 Text = Year 3--------------
+
+Texts [192] : X = 276.750000 Y = 291.400000 Text = Legal Liability to Paid Driver (
+
+Texts [193] : X = 369.490000 Y = 291.400000 Text = `
+
+Texts [194] : X = 372.990000 Y = 291.400000 Text = )
+
+Texts [195] : X = 276.750000 Y = 279.780000 Text = PA cover for 5 passengers 0 (
+
+Texts [196] : X = 370.370000 Y = 279.780000 Text = `
+
+Texts [197] : X = 373.870000 Y = 279.780000 Text = )
+
+Texts [198] : X = 343.500000 Y = 268.150000 Text = (
+
+Texts [199] : X = 345.600000 Y = 268.150000 Text = `
+
+Texts [200] : X = 349.100000 Y = 268.150000 Text = )
+
+Texts [201] : X = 276.750000 Y = 256.150000 Text = PA cover for Paid Driver (
+
+Texts [202] : X = 356.800000 Y = 256.150000 Text = `
+
+Texts [203] : X = 360.300000 Y = 256.150000 Text = )
+
+Texts [204] : X = 46.500000 Y = 215.650000 Text = IGST @18%=(
+
+Texts [205] : X = 90.570000 Y = 215.650000 Text = `
+
+Texts [206] : X = 94.070000 Y = 215.650000 Text = 1773.04)
+
+Texts [207] : X = 245.450000 Y = 291.730000 Text = 6054.25
+
+Texts [208] : X = 478.700000 Y = 325.850000 Text = 3416.0032039.00
+
+Texts [209] : X = 46.500000 Y = 316.910000 Text = NCB Discount Amount
+
+Texts [210] : X = 46.500000 Y = 325.100000 Text = Total Basic Own Damage Premium
+
+Texts [211] : X = 278.250000 Y = 219.350000 Text = 1773.04
+
+Texts [212] : X = 238.480000 Y = 303.350000 Text = -16387.49
+
+Texts [213] : X = 278.250000 Y = 193.100000 Text = 11623.29
+
+Texts [214] : X = 245.450000 Y = 243.350000 Text = 6054.25
+
+Texts [215] : X = 340.500000 Y = 245.560000 Text = (`)
+
+Texts [216] : X = 278.250000 Y = 231.350000 Text = 9850.25
+
+Texts [217] : X = 478.700000 Y = 243.350000 Text = 3796.00
+
+Texts [218] : X = 276.750000 Y = 303.350000 Text = Legal Liability to Employees 
+
+Texts [219] : X = 98.250000 Y = 230.910000 Text = (`)
+
+Texts [220] : X = 111.000000 Y = 244.410000 Text = (`)
+
+Texts [221] : X = 47.250000 Y = 230.600000 Text = Net Premium 
+
+Texts [222] : X = 46.500000 Y = 193.100000 Text = Final Premium
+
+Texts [223] : X = 276.750000 Y = 325.850000 Text = Basic Third-Party Liability 
+
+Texts [224] : X = 276.750000 Y = 314.600000 Text = PA cover for Owner-Driver
+
+Texts [225] : X = 276.750000 Y = 268.850000 Text = CNG/LPG Premium
+
+Texts [226] : X = 47.250000 Y = 243.350000 Text = Total OD Premium Total Act Premium 
+
+Texts [227] : X = 46.500000 Y = 292.100000 Text = Own Damage Premium 
+
+Texts [228] : X = 46.500000 Y = 303.350000 Text = Others
+
+Texts [229] : X = 46.500000 Y = 339.500000 Text = OWN DAMAGE PREMIUM [A] 
+
+Texts [230] : X = 276.750000 Y = 334.090000 Text = LIABILITY PREMIUM [B]
+
+Texts [231] : X = 160.500000 Y = 334.800000 Text = (`)(`)
+
+Texts [232] : X = 128.250000 Y = 293.560000 Text = (`)
+
+Texts [233] : X = 74.250000 Y = 303.660000 Text = (`)
+
+Texts [234] : X = 99.750000 Y = 195.310000 Text = (`)
+
+Texts [235] : X = 371.250000 Y = 303.660000 Text = (`)
+
+Texts [236] : X = 365.250000 Y = 326.160000 Text = (`)
+
+Texts [237] : X = 367.500000 Y = 314.910000 Text = (`)
+
+Texts [238] : X = 498.670000 Y = 279.800000 Text = --
+
+Texts [239] : X = 167.250000 Y = 328.060000 Text = (`)
+
+Texts [240] : X = 129.000000 Y = 316.810000 Text = (`)
+
+Texts [241] : X = 238.480000 Y = 316.910000 Text = -14418.00
+
+Texts [242] : X = 507.000000 Y = 223.510000 Text = 50
+
+Texts [243] : X = 518.450000 Y = 211.850000 Text = 1233.51
+
+Texts [244] : X = 481.680000 Y = 233.660000 Text = 1234
+
+Texts [245] : X = 512.450000 Y = 220.100000 Text = 1009.24
+
+Texts [246] : X = 531.180000 Y = 232.100000 Text = 3416
+
+Texts [247] : X = 487.240000 Y = 294.410000 Text = 50.00
+
+Texts [248] : X = 482.590000 Y = 317.660000 Text = 330.00
+
+Texts [249] : X = 46.000000 Y = 174.700000 Text = Note: 
+
+Texts [250] : X = 63.790000 Y = 174.700000 Text = The above total OD premium is inclusive of all applicable loading / discounts viz (automobile association memberships, voluntary excess, anti-theft 
+
+Texts [251] : X = 46.000000 Y = 167.790000 Text = handicap person, driver tuition, fiber glass, CNG/ LPG unit, geographical extension, imported vehicle etc., wherever applicable). GDD -  Subject to successful 
+
+Texts [252] : X = 46.000000 Y = 160.880000 Text = vehicle inspection
+
+Texts [253] : X = 46.000000 Y = 152.970000 Text = In case of an accident to your vehicle, please intimate us immediately for SPOT SURVEY. Failure to intimate in time could prejudice your claim. In case of Total 
+
+Texts [254] : X = 46.000000 Y = 146.060000 Text = Loss and/or Theft claim, applicable subsidy amount availed as per government policy will be reduced from IDV for claim settlement.
+
+Texts [255] : X = 46.000000 Y = 139.230000 Text = If the “Own Damage Cover” under your policy is cancelled during the policy period, then your policy shall be governed by the standard terms and conditions of “Act only” policy for the Third Party Cover during the 
+
+Texts [256] : X = 46.000000 Y = 134.040000 Text = remaining period of policy .
+
+Texts [257] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Texts [258] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Texts [259] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Texts [260] : X = 3.750000 Y = 815.260000 Text = PB
+
+Texts [261] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Texts [262] : X = 435.750000 Y = 91.400000 Text = Page No: 3 of 5
+
+Texts [263] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Texts [264] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Texts [265] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Texts [266] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Texts [267] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Texts [268] : X = 48.250000 Y = 718.050000 Text = Nominee Details
+
+Texts [269] : X = 48.500000 Y = 703.210000 Text = Name of 
+
+Texts [270] : X = 48.500000 Y = 695.070000 Text = Nominee
+
+Texts [271] : X = 94.000000 Y = 703.210000 Text = Mobile 
+
+Texts [272] : X = 94.000000 Y = 695.070000 Text = number 
+
+Texts [273] : X = 94.000000 Y = 686.920000 Text = of 
+
+Texts [274] : X = 94.000000 Y = 678.780000 Text = Nominee
+
+Texts [275] : X = 139.490000 Y = 703.210000 Text = E-mail Id 
+
+Texts [276] : X = 139.490000 Y = 695.070000 Text = of 
+
+Texts [277] : X = 139.490000 Y = 686.920000 Text = Nominee
+
+Texts [278] : X = 190.040000 Y = 703.210000 Text = Present 
+
+Texts [279] : X = 190.040000 Y = 695.070000 Text = Address of
+
+Texts [280] : X = 190.040000 Y = 686.920000 Text = the 
+
+Texts [281] : X = 190.040000 Y = 678.780000 Text = Nominee
+
+Texts [282] : X = 240.590000 Y = 703.210000 Text = Permanent
+
+Texts [283] : X = 240.590000 Y = 695.070000 Text = Address of
+
+Texts [284] : X = 240.590000 Y = 686.920000 Text = Nominee 
+
+Texts [285] : X = 240.590000 Y = 678.780000 Text = (Not 
+
+Texts [286] : X = 240.590000 Y = 670.630000 Text = required, if
+
+Texts [287] : X = 240.590000 Y = 662.490000 Text = same as 
+
+Texts [288] : X = 240.590000 Y = 654.350000 Text = present 
+
+Texts [289] : X = 240.590000 Y = 646.200000 Text = address)
+
+Texts [290] : X = 291.140000 Y = 703.210000 Text = Relationship 
+
+Texts [291] : X = 291.140000 Y = 695.070000 Text = of Nominee 
+
+Texts [292] : X = 291.140000 Y = 686.920000 Text = with Insured 
+
+Texts [293] : X = 291.140000 Y = 678.780000 Text = Person
+
+Texts [294] : X = 351.800000 Y = 703.210000 Text = Details of 
+
+Texts [295] : X = 351.800000 Y = 695.070000 Text = authorized
+
+Texts [296] : X = 351.800000 Y = 686.920000 Text = person (If 
+
+Texts [297] : X = 351.800000 Y = 678.780000 Text = Nominee is
+
+Texts [298] : X = 351.800000 Y = 670.630000 Text = minor)
+
+Texts [299] : X = 402.350000 Y = 703.210000 Text = Percentag
+
+Texts [300] : X = 402.350000 Y = 695.070000 Text = e of claim 
+
+Texts [301] : X = 402.350000 Y = 686.920000 Text = amount
+
+Texts [302] : X = 452.900000 Y = 703.210000 Text = Details of Bank 
+
+Texts [303] : X = 452.900000 Y = 695.070000 Text = Account of Nominee
+
+Texts [304] : X = 48.500000 Y = 624.830000 Text = JAISHREE 
+
+Texts [305] : X = 48.500000 Y = 617.430000 Text = SINGH .   - -   - -Spouse
+
+Texts [306] : X = 351.800000 Y = 620.420000 Text =  
+
+Texts [307] : X = 402.350000 Y = 621.130000 Text = 100
+
+Texts [308] : X = 452.900000 Y = 632.230000 Text = i. Bank a/c no : 
+
+Texts [309] : X = 452.900000 Y = 624.830000 Text = ii. IFSC code : 
+
+Texts [310] : X = 452.900000 Y = 617.430000 Text = iii. Branch : 
+
+Texts [311] : X = 452.900000 Y = 610.020000 Text = iv. Bank Name : 
+
+Texts [312] : X = 48.500000 Y = 585.020000 Text =    
+
+Texts [313] : X = 351.800000 Y = 584.300000 Text =  
+
+Texts [314] : X = 452.900000 Y = 596.120000 Text = i. Bank a/c no : 
+
+Texts [315] : X = 452.900000 Y = 588.720000 Text = ii. IFSC code : 
+
+Texts [316] : X = 452.900000 Y = 581.310000 Text = iii. Branch : 
+
+Texts [317] : X = 452.900000 Y = 573.910000 Text = iv. Bank Name : 
+
+Texts [318] : X = 48.500000 Y = 548.900000 Text =    
+
+Texts [319] : X = 351.800000 Y = 548.190000 Text =  
+
+Texts [320] : X = 452.900000 Y = 560.010000 Text = i. Bank a/c no : 
+
+Texts [321] : X = 452.900000 Y = 552.600000 Text = ii. IFSC code : 
+
+Texts [322] : X = 452.900000 Y = 545.200000 Text = iii. Branch : 
+
+Texts [323] : X = 452.900000 Y = 537.800000 Text = iv. Bank Name : 
+
+Texts [324] : X = 48.000000 Y = 519.950000 Text = ENDORSEMENT
+
+Texts [325] : X = 48.000000 Y = 501.950000 Text = Invoice NumberInvoice DateNet Premium    Igst   Cgst   Sgst   Utgst   CessGross Premium
+
+Texts [326] : X = 48.000000 Y = 485.250000 Text = IA2634638792026-09-109850.251773.040.000.000.000.0011623.29
+
+Texts [327] : X = 154.500000 Y = 346.560000 Text = 1974-05-02
+
+Texts [328] : X = 155.250000 Y = 354.350000 Text = Spouse
+
+Texts [329] : X = 429.000000 Y = 384.720000 Text = --
+
+Texts [330] : X = 222.750000 Y = 373.100000 Text = RA314737726Receipt Number
+
+Texts [331] : X = 429.000000 Y = 397.100000 Text = 12_dp-DIC996A9077F24-1
+
+Texts [332] : X = 155.250000 Y = 363.350000 Text = JAISHREE SINGH .
+
+Texts [333] : X = 155.250000 Y = 396.720000 Text = Online
+
+Texts [334] : X = 430.500000 Y = 412.850000 Text = 7
+
+Texts [335] : X = 155.250000 Y = 427.850000 Text = IMT-22,IMT-28
+
+Texts [336] : X = 155.250000 Y = 413.680000 Text = Unregistered
+
+Texts [337] : X = 155.250000 Y = 441.350000 Text = D207592836
+
+Texts [338] : X = 155.250000 Y = 452.600000 Text = Go Digit General Insurance Limited
+
+Texts [339] : X = 329.250000 Y = 385.100000 Text = IFSC/MICR No
+
+Texts [340] : X = 329.250000 Y = 397.100000 Text = Cheque/Transation No
+
+Texts [341] : X = 47.250000 Y = 385.100000 Text = Bank Name
+
+Texts [342] : X = 47.250000 Y = 397.100000 Text = Payment Mode
+
+Texts [343] : X = 47.250000 Y = 452.600000 Text = Previous Insurer
+
+Texts [344] : X = 47.250000 Y = 427.850000 Text = IMT - Endorsements
+
+Texts [345] : X = 47.250000 Y = 412.850000 Text = GSTIN/UIN No. 
+
+Texts [346] : X = 47.250000 Y = 361.850000 Text = Nominee Details
+
+Texts [347] : X = 47.250000 Y = 441.350000 Text = Previous Policy No.Previous Policy Expiry Date
+
+Texts [348] : X = 329.250000 Y = 373.850000 Text = Receipt DatePremium Payment Details
+
+Texts [349] : X = 329.250000 Y = 412.850000 Text = State Code
+
+Texts [350] : X = 46.500000 Y = 463.850000 Text = OTHER DETAILS
+
+Texts [351] : X = 429.000000 Y = 376.160000 Text = 10-Sep-2026
+
+Texts [352] : X = 429.000000 Y = 441.350000 Text = 18-Sep-2026
+
+Texts [353] : X = 48.000000 Y = 330.950000 Text = Other Details
+
+Texts [354] : X = 159.210000 Y = 330.650000 Text = --
+
+Texts [355] : X = 48.000000 Y = 314.450000 Text = Details of Existing Damages
+
+Texts [356] : X = 159.210000 Y = 314.150000 Text = --
+
+Texts [357] : X = 45.000000 Y = 281.750000 Text = Geographical Area: Any accidental loss, damage and/or liability caused, sustained or incurred within India  shall be covered subject to Policy Terms and Conditions, unless specifically agreed and endorsed.. Limitation as to use The policy covers use of the vehicle for any purpose other than hire or reward, racing, pace making, reliability trial, speed testing and use for any purpose in connection with the Motor Trade. Person or Class of persons 
+
+Texts [358] : X = 45.000000 Y = 271.880000 Text = entitled to drive: Any person including the insured 1) Provided that a person driving holds a valid &  effective driving license at the time of the accident and is not disqualified from holding or obtaining such a license. 2) Provided also that the person holding a valid &  effective Learner’s License may also drive the vehicle and that such a person satisfies the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989 and any subsequent 
+
+Texts [359] : X = 45.000000 Y = 262.010000 Text = amendment as applicable. Limits of Liability: 1) Under Section I of the policy _ IDV as shown in the schedule. 2) Under Section II - 1 (i)of the policy: Death of or bodily injury _ Such amount as is necessary to meet the requirements of the Motor Vehicles Act, 1988. 3) Under Section II _ 1 (ii)of the policy: Damage to Third Party Property _ `750000 4) P.A. Cover for Owner Driver under Section III (CSI) - `1500000 
+
+Texts [360] : X = 45.000000 Y = 252.140000 Text =  NCB Declaration: The premium has been charged and policy has been issued subject to NCB declared by you as an insured. In the event of NCB found wrongly declared at any point of time during policy period, all benefits 
+
+Texts [361] : X = 45.000000 Y = 242.260000 Text = and coverages under the Policy in respect of section I of the Policy will stand forfeited. If there is any disagreement, write to us within 7 days from the date of issuance of policy or before the start date of period of insurance whichever is earlier.PUC Declaration: The Policy has been issued subject to valid Pollution Under Control (PUC) Certificate disclosed by you as an insured on or before the date of commencement of the Policy . Cheque 
+
+Texts [362] : X = 45.000000 Y = 232.390000 Text = dishonor / Non-receipt of payment premium paid through Cheque, the policy is void ab-initio in case of dishonor of Cheque or non-receipt of payment. Violation of Motor Vehicle Act: This policy is issued in accordance with the provision of Chapter X and Chapter XI of MV act, 1988 and any subsequent amendment as applicable. Any violation will forfeit all benefits and coverages under the Policy. The insured is not indemnified if the vehicle is used 
+
+Texts [363] : X = 45.000000 Y = 222.520000 Text = or driven otherwise than in accordance with this Schedule. Any payment made by the Company by reason of wider terms appearing in Certificate in order to comply with the Motor Vehicle Act, 1988 is recoverable from the insured. See the Clause headed (Avoidance Of Certain Terms And Right Of Recovery) in the policy. Pre-existing Damages: All types of pre-existing damages or cost of repair of such damage will be excluded at the time of 
+
+Texts [364] : X = 45.000000 Y = 212.650000 Text = claim settlement,as per the attached images. Important Notice: The company may cancel the policy by sending 7 days notice in case of fraud, misrepresentation, non disclosure of material fact or non co-operation of the insured. This policy is subject to the standard policy wordings, warranties and conditions applicable for this product in addition to Indian Motor Tariff. Break in Insurance: In case of a break-in, the company may conduct pre-
+
+Texts [365] : X = 45.000000 Y = 202.780000 Text = inspection of the vehicle and in such a case, Own Damage cover (Section -I) of the policy would not commence unless the pre-inspection of the vehicle has been done and the acceptance of risk is subject to evaluation of the vehicle inspection report. In case of any adverse findings in the report, the Company, at its discretion, may cancel the Policy as per the Motor Tariff. 
+
+Texts [366] : X = 45.000000 Y = 192.910000 Text = Note: The policy is issued in utmost good faith, relying on the information shared by insured at the time of obtaining the policy. The terms and conditions detailed in this policy schedule as well as the policy document sent by Digit shall prevail in case of any dispute.
+
+Texts [367] : X = 45.000000 Y = 292.410000 Text = Follow these rules like you follow the rules of the road.
+
+Texts [368] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Texts [369] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Texts [370] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Texts [371] : X = 3.750000 Y = 815.260000 Text = PB
+
+Texts [372] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Texts [373] : X = 435.750000 Y = 91.400000 Text = Page No: 4 of 5
+
+Texts [374] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Texts [375] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Texts [376] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Texts [377] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Texts [378] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Texts [379] : X = 46.500000 Y = 699.170000 Text = Wish to go through your detailed policy wordings, click here. 
+
+Texts [380] : X = 46.500000 Y = 693.240000 Text = In case of claim or any other query, please contact our 24-hour 
+
+Texts [381] : X = 46.500000 Y = 687.320000 Text = Call Centre at 1800-258-5956 or email us at 
+
+Texts [382] : X = 46.500000 Y = 681.400000 Text = hello@godigit.com or visit our website Digit Insurance: Car, 
+
+Texts [383] : X = 46.500000 Y = 675.470000 Text = Bike, Health & Travel Insurance Online . 
+
+Texts [384] : X = 46.500000 Y = 669.550000 Text = For instant resolution, you can ping us “Hi” on WhatsApp at 
+
+Texts [385] : X = 46.500000 Y = 663.630000 Text = 702 606 1234 
+
+Texts [386] : X = 46.500000 Y = 657.710000 Text = For Claims Notification and Procedure click here.
+
+Texts [387] : X = 411.750000 Y = 685.100000 Text = Praveen Bhat 
+
+Texts [388] : X = 411.750000 Y = 679.180000 Text = Senior Vice President - Customer Experience 
+
+Texts [389] : X = 411.750000 Y = 673.250000 Text = praveen.bhat@godigit.com 
+
+Texts [390] : X = 411.750000 Y = 667.330000 Text = Authorized Signatory 
+
+Texts [391] : X = 411.750000 Y = 661.410000 Text = Printed, Signed, and Executed at Bengaluru 
+
+Texts [392] : X = 411.750000 Y = 655.490000 Text = Consolidated Stamp Duty has been paid as per 
+
+Texts [393] : X = 411.750000 Y = 649.560000 Text = Letter of Authorization No.67-B/04/2017-18 Date: 
+
+Texts [394] : X = 411.750000 Y = 643.640000 Text = 30th May 2017 issued by Department of Stamps 
+
+Texts [395] : X = 411.750000 Y = 637.720000 Text = and Registration , Bengaluru- 560009  - 
+
+Texts [396] : X = 411.750000 Y = 631.800000 Text = KARNATAKA. 
+
+Texts [397] : X = 411.750000 Y = 625.870000 Text = Hey, our document is now digitally signed 
+
+Texts [398] : X = 411.750000 Y = 619.950000 Text = Click here to view the certificate. 
+
+Texts [399] : X = 411.750000 Y = 614.030000 Text =  For instant resolution, you can ping us “Hi” on 
+
+Texts [400] : X = 411.750000 Y = 608.100000 Text = WhatsApp at 
+
+Texts [401] : X = 450.470000 Y = 608.100000 Text = 702 606 1234
+
+Texts [402] : X = 411.750000 Y = 723.220000 Text = For & On Behalf of Go Digit General Insurance Ltd.
+
+Texts [403] : X = 45.750000 Y = 522.200000 Text = Photographs and documents submitted by you 
+
+Texts [404] : X = 204.030000 Y = 522.200000 Text =  
+
+Texts [405] : X = 45.750000 Y = 515.290000 Text =  
+
+Texts [406] : X = 45.750000 Y = 508.380000 Text = 1. Images of photographs of Insured Vehicle, RTO Registration Certificate (RC) and any other document submitted by you during pre-inspection are reproduced 
+
+Texts [407] : X = 45.750000 Y = 501.470000 Text = below. 
+
+Texts [408] : X = 45.750000 Y = 494.560000 Text = 2. Pre-existing Damages: All types of pre-existing damages or cost of repair of such damage shall be excluded at the time of claim settlement. 
+
+Texts [409] : X = 45.750000 Y = 487.650000 Text = 3. Please note that the Company reserves the right to deny a claim as well as cancel the policy in case of fraud, misrepresentation, non-disclosure of material 
+
+Texts [410] : X = 45.750000 Y = 480.740000 Text = fact as per policy terms and conditions. 
+
+Texts [411] : X = 45.750000 Y = 473.830000 Text = 4. In case you have any queries or note any discrepancies in the photographs/RC/any other document, please reach out to us at 1800-258-5956 within 7 days 
+
+Texts [412] : X = 45.750000 Y = 466.920000 Text = from Policy Issue Date. 
+
+Texts [413] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Texts [414] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Texts [415] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Texts [416] : X = 3.750000 Y = 815.260000 Text = PB
+
+Texts [417] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Texts [418] : X = 435.750000 Y = 91.400000 Text = Page No: 5 of 5
+
+Texts [419] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Texts [420] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Texts [421] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Texts [422] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Texts [423] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Texts [424] : X = 46.500000 Y = 611.700000 Text = • Complete cashless facility                   • 6 Months warranty on repairs                • Complimentary Pick-up & Drop
+
+Texts [425] : X = 46.500000 Y = 597.520000 Text = *Facilities mentioned above are offered by the garages. List of garages is subject to change in future. Please 
+
+Texts [426] : X = 46.500000 Y = 588.880000 Text = call on 1800-258-5956 in case you require further help.
+
+Texts [427] : X = 46.500000 Y = 671.700000 Text = We hope that you do not get in a situation when you have to file a claim. However, if that happens, we are always there for 
+
+Texts [428] : X = 46.500000 Y = 663.930000 Text = you. That’s a promise!
+
+Texts [429] : X = 46.500000 Y = 656.160000 Text = Stay Calm and just relax! We will take care of everything!
+
+Texts [430] : X = 46.500000 Y = 648.380000 Text = You can take your car to any of the listed network garages in case anything happens, and we assure you a hassle-free claim 
+
+Texts [431] : X = 46.500000 Y = 640.610000 Text = process.
+
+Texts [432] : X = 113.210000 Y = 695.940000 Text = This is the end of the document and the beginning of a wonderful relationship.
+
+Texts [433] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Line [0] : X = 12.000000 Y = 13.510000 Text = 1
+
+Line [1] : X = 10.500000 Y = 42.910000 Text = 1075
+
+Line [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Line [3] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Line [4] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Line [5] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Line [6] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+Line [7] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Line [8] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Line [9] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Line [10] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Line [11] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+Line [12] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Line [13] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Line [14] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Line [15] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Line [16] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+Line [17] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Line [18] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Line [19] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Line [20] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Line [21] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+Line [22] : X = 11.250000 Y = 79.660000 Text = D20
+
+Line [23] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Line [24] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Line [25] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Line [26] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Line [27] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+Line [28] : X = 435.750000 Y = 91.400000 Text = Page No: 1 of 5
+
+Line [29] : X = 435.750000 Y = 91.400000 Text = Page No: 2 of 5
+
+Line [30] : X = 435.750000 Y = 91.400000 Text = Page No: 3 of 5
+
+Line [31] : X = 435.750000 Y = 91.400000 Text = Page No: 4 of 5
+
+Line [32] : X = 435.750000 Y = 91.400000 Text = Page No: 5 of 5
+
+Line [33] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Line [34] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Line [35] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Line [36] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Line [37] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+Line [38] : X = 47.500000 Y = 118.400000 Text = Digit Private Car Parts Depreciation ProtectCover Unlimited ClaimsIRDAN158RP0005V01201718/A0009V01201718
+
+Line [39] : X = 47.500000 Y = 132.900000 Text = Digit Private Car Engine and Gear Box ProtectMaximum of one claim would be payableIRDAN158RP0005V01201718/A0010V01201718
+
+Line [40] : X = 46.000000 Y = 134.040000 Text = remaining period of policy .
+
+Line [41] : X = 46.000000 Y = 139.230000 Text = If the “Own Damage Cover” under your policy is cancelled during the policy period, then your policy shall be governed by the standard terms and conditions of “Act only” policy for the Third Party Cover during the 
+
+Line [42] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Line [43] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Line [44] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Line [45] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Line [46] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+Line [47] : X = 46.000000 Y = 146.060000 Text = Loss and/or Theft claim, applicable subsidy amount availed as per government policy will be reduced from IDV for claim settlement.
+
+Line [48] : X = 47.500000 Y = 147.400000 Text = Digit Private Car Breakdown Assistance IRDAN158RP0005V01201718/A0014V02201718
+
+Line [49] : X = 46.000000 Y = 152.970000 Text = In case of an accident to your vehicle, please intimate us immediately for SPOT SURVEY. Failure to intimate in time could prejudice your claim. In case of Total 
+
+Line [50] : X = 46.000000 Y = 160.880000 Text = vehicle inspection
+
+Line [51] : X = 47.500000 Y = 161.900000 Text = Digit Private Car Consumable CoverCover Unlimited ClaimsIRDAN158RP0005V01201718/A0008V01201718
+
+Line [52] : X = 46.000000 Y = 167.790000 Text = handicap person, driver tuition, fiber glass, CNG/ LPG unit, geographical extension, imported vehicle etc., wherever applicable). GDD -  Subject to successful 
+
+Line [53] : X = 46.000000 Y = 174.700000 Text = Note: 
+
+Line [54] : X = 63.790000 Y = 174.700000 Text = The above total OD premium is inclusive of all applicable loading / discounts viz (automobile association memberships, voluntary excess, anti-theft 
+
+Line [55] : X = 458.150000 Y = 176.200000 Text = UIN
+
+Line [56] : X = 108.530000 Y = 176.960000 Text = Optional CoverOptional Coverage Details
+
+Line [57] : X = 4.500000 Y = 188.410000 Text = 1003
+
+Line [58] : X = 45.000000 Y = 192.910000 Text = Note: The policy is issued in utmost good faith, relying on the information shared by insured at the time of obtaining the policy. The terms and conditions detailed in this policy schedule as well as the policy document sent by Digit shall prevail in case of any dispute.
+
+Line [59] : X = 278.250000 Y = 193.100000 Text = 11623.29
+
+Line [60] : X = 46.500000 Y = 193.100000 Text = Final Premium
+
+Line [61] : X = 133.930000 Y = 194.400000 Text = H NO-WB-120 A GALI NO-5 SHAKARPUR  EAST DELHI 110092,New Delhi-110001
+
+Line [62] : X = 99.750000 Y = 195.310000 Text = (`)
+
+Line [63] : X = 49.000000 Y = 195.900000 Text = Address
+
+Line [64] : X = 45.000000 Y = 202.780000 Text = inspection of the vehicle and in such a case, Own Damage cover (Section -I) of the policy would not commence unless the pre-inspection of the vehicle has been done and the acceptance of risk is subject to evaluation of the vehicle inspection report. In case of any adverse findings in the report, the Company, at its discretion, may cancel the Policy as per the Motor Tariff. 
+
+Line [65] : X = 518.450000 Y = 211.850000 Text = 1233.51
+
+Line [66] : X = 336.140000 Y = 212.490000 Text =   
+
+Line [67] : X = 45.000000 Y = 212.650000 Text = claim settlement,as per the attached images. Important Notice: The company may cancel the policy by sending 7 days notice in case of fraud, misrepresentation, non disclosure of material fact or non co-operation of the insured. This policy is subject to the standard policy wordings, warranties and conditions applicable for this product in addition to Indian Motor Tariff. Break in Insurance: In case of a break-in, the company may conduct pre-
+
+Line [68] : X = 209.760000 Y = 213.200000 Text = 18-Sep-202723:59:59
+
+Line [69] : X = 46.500000 Y = 215.650000 Text = IGST @18%=(
+
+Line [70] : X = 90.570000 Y = 215.650000 Text = `
+
+Line [71] : X = 94.070000 Y = 215.650000 Text = 1773.04)
+
+Line [72] : X = 48.000000 Y = 217.750000 Text = PA Owner-DriverTo
+
+Line [73] : X = 278.250000 Y = 219.350000 Text = 1773.04
+
+Line [74] : X = 512.450000 Y = 220.100000 Text = 1009.24
+
+Line [75] : X = 45.000000 Y = 222.520000 Text = or driven otherwise than in accordance with this Schedule. Any payment made by the Company by reason of wider terms appearing in Certificate in order to comply with the Motor Vehicle Act, 1988 is recoverable from the insured. See the Clause headed (Avoidance Of Certain Terms And Right Of Recovery) in the policy. Pre-existing Damages: All types of pre-existing damages or cost of repair of such damage will be excluded at the time of 
+
+Line [76] : X = 507.000000 Y = 223.510000 Text = 50
+
+Line [77] : X = 48.000000 Y = 225.150000 Text = Period of Policy for
+
+Line [78] : X = 336.140000 Y = 228.690000 Text =   
+
+Line [79] : X = 144.050000 Y = 229.700000 Text = From
+
+Line [80] : X = 209.760000 Y = 229.700000 Text = 19-Sep-202600:00:01
+
+Line [81] : X = 47.250000 Y = 230.600000 Text = Net Premium 
+
+Line [82] : X = 98.250000 Y = 230.910000 Text = (`)
+
+Line [83] : X = 278.250000 Y = 231.350000 Text = 9850.25
+
+Line [84] : X = 531.180000 Y = 232.100000 Text = 3416
+
+Line [85] : X = 45.000000 Y = 232.390000 Text = dishonor / Non-receipt of payment premium paid through Cheque, the policy is void ab-initio in case of dishonor of Cheque or non-receipt of payment. Violation of Motor Vehicle Act: This policy is issued in accordance with the provision of Chapter X and Chapter XI of MV act, 1988 and any subsequent amendment as applicable. Any violation will forfeit all benefits and coverages under the Policy. The insured is not indemnified if the vehicle is used 
+
+Line [86] : X = 481.680000 Y = 233.660000 Text = 1234
+
+Line [87] : X = 45.000000 Y = 242.260000 Text = and coverages under the Policy in respect of section I of the Policy will stand forfeited. If there is any disagreement, write to us within 7 days from the date of issuance of policy or before the start date of period of insurance whichever is earlier.PUC Declaration: The Policy has been issued subject to valid Pollution Under Control (PUC) Certificate disclosed by you as an insured on or before the date of commencement of the Policy . Cheque 
+
+Line [88] : X = 245.450000 Y = 243.350000 Text = 6054.25
+
+Line [89] : X = 478.700000 Y = 243.350000 Text = 3796.00
+
+Line [90] : X = 47.250000 Y = 243.350000 Text = Total OD Premium Total Act Premium 
+
+Line [91] : X = 111.000000 Y = 244.410000 Text = (`)
+
+Line [92] : X = 340.500000 Y = 245.560000 Text = (`)
+
+Line [93] : X = 209.760000 Y = 246.200000 Text = 18-Sep-202723:59:59
+
+Line [94] : X = 336.140000 Y = 246.200000 Text = Compulsory Deductible (
+
+Line [95] : X = 423.740000 Y = 246.200000 Text = `
+
+Line [96] : X = 427.490000 Y = 246.200000 Text = )
+
+Line [97] : X = 457.460000 Y = 246.960000 Text = 1000
+
+Line [98] : X = 9.750000 Y = 247.510000 Text = IUA
+
+Line [99] : X = 48.000000 Y = 250.750000 Text = Third Party LiabilityTo
+
+Line [100] : X = 45.000000 Y = 252.140000 Text =  NCB Declaration: The premium has been charged and policy has been issued subject to NCB declared by you as an insured. In the event of NCB found wrongly declared at any point of time during policy period, all benefits 
+
+Line [101] : X = 276.750000 Y = 256.150000 Text = PA cover for Paid Driver (
+
+Line [102] : X = 356.800000 Y = 256.150000 Text = `
+
+Line [103] : X = 360.300000 Y = 256.150000 Text = )
+
+Line [104] : X = 48.000000 Y = 258.150000 Text = Period of Policy for
+
+Line [105] : X = 45.000000 Y = 262.010000 Text = amendment as applicable. Limits of Liability: 1) Under Section I of the policy _ IDV as shown in the schedule. 2) Under Section II - 1 (i)of the policy: Death of or bodily injury _ Such amount as is necessary to meet the requirements of the Motor Vehicles Act, 1988. 3) Under Section II _ 1 (ii)of the policy: Damage to Third Party Property _ `750000 4) P.A. Cover for Owner Driver under Section III (CSI) - `1500000 
+
+Line [106] : X = 144.050000 Y = 262.700000 Text = From
+
+Line [107] : X = 209.760000 Y = 262.700000 Text = 19-Sep-202600:00:01
+
+Line [108] : X = 336.140000 Y = 262.700000 Text = Voluntary Deductible (
+
+Line [109] : X = 416.430000 Y = 262.700000 Text = `
+
+Line [110] : X = 420.180000 Y = 262.700000 Text = )
+
+Line [111] : X = 457.460000 Y = 262.700000 Text = 0.00
+
+Line [112] : X = 4.500000 Y = 263.410000 Text = 10
+
+Line [113] : X = 343.500000 Y = 268.150000 Text = (
+
+Line [114] : X = 345.600000 Y = 268.150000 Text = `
+
+Line [115] : X = 349.100000 Y = 268.150000 Text = )
+
+Line [116] : X = 276.750000 Y = 268.850000 Text = CNG/LPG Premium
+
+Line [117] : X = 45.000000 Y = 271.880000 Text = entitled to drive: Any person including the insured 1) Provided that a person driving holds a valid &  effective driving license at the time of the accident and is not disqualified from holding or obtaining such a license. 2) Provided also that the person holding a valid &  effective Learner’s License may also drive the vehicle and that such a person satisfies the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989 and any subsequent 
+
+Line [118] : X = 6.750000 Y = 272.410000 Text = 46
+
+Line [119] : X = 0.000000 Y = 272.410000 Text = 136
+
+Line [120] : X = 0.000000 Y = 275.410000 Text = 32
+
+Line [121] : X = 457.460000 Y = 278.590000 Text = --
+
+Line [122] : X = 209.760000 Y = 279.200000 Text = 18-Sep-202723:59:59
+
+Line [123] : X = 336.140000 Y = 279.200000 Text = Additional Excess (
+
+Line [124] : X = 404.120000 Y = 279.200000 Text = `
+
+Line [125] : X = 407.870000 Y = 279.200000 Text = )
+
+Line [126] : X = 276.750000 Y = 279.780000 Text = PA cover for 5 passengers 0 (
+
+Line [127] : X = 370.370000 Y = 279.780000 Text = `
+
+Line [128] : X = 373.870000 Y = 279.780000 Text = )
+
+Line [129] : X = 498.670000 Y = 279.800000 Text = --
+
+Line [130] : X = 45.000000 Y = 281.750000 Text = Geographical Area: Any accidental loss, damage and/or liability caused, sustained or incurred within India  shall be covered subject to Policy Terms and Conditions, unless specifically agreed and endorsed.. Limitation as to use The policy covers use of the vehicle for any purpose other than hire or reward, racing, pace making, reliability trial, speed testing and use for any purpose in connection with the Motor Trade. Person or Class of persons 
+
+Line [131] : X = 48.000000 Y = 283.750000 Text = Own Damage CoverTo
+
+Line [132] : X = 9.750000 Y = 290.410000 Text = 13
+
+Line [133] : X = 48.000000 Y = 291.150000 Text = Period of Policy for
+
+Line [134] : X = 276.750000 Y = 291.400000 Text = Legal Liability to Paid Driver (
+
+Line [135] : X = 369.490000 Y = 291.400000 Text = `
+
+Line [136] : X = 372.990000 Y = 291.400000 Text = )
+
+Line [137] : X = 245.450000 Y = 291.730000 Text = 6054.25
+
+Line [138] : X = 46.500000 Y = 292.100000 Text = Own Damage Premium 
+
+Line [139] : X = 45.000000 Y = 292.410000 Text = Follow these rules like you follow the rules of the road.
+
+Line [140] : X = 128.250000 Y = 293.560000 Text = (`)
+
+Line [141] : X = 487.240000 Y = 294.410000 Text = 50.00
+
+Line [142] : X = 144.050000 Y = 295.700000 Text = From
+
+Line [143] : X = 209.760000 Y = 295.700000 Text = 19-Sep-202600:00:01
+
+Line [144] : X = 336.140000 Y = 295.700000 Text = NCB % (Current Policy)
+
+Line [145] : X = 457.460000 Y = 295.700000 Text = 45%
+
+Line [146] : X = 7.500000 Y = 296.410000 Text = 100
+
+Line [147] : X = 238.480000 Y = 303.350000 Text = -16387.49
+
+Line [148] : X = 276.750000 Y = 303.350000 Text = Legal Liability to Employees 
+
+Line [149] : X = 46.500000 Y = 303.350000 Text = Others
+
+Line [150] : X = 74.250000 Y = 303.660000 Text = (`)
+
+Line [151] : X = 371.250000 Y = 303.660000 Text = (`)
+
+Line [152] : X = 3.000000 Y = 304.510000 Text = A
+
+Line [153] : X = 48.000000 Y = 312.200000 Text = Policy Issue Date
+
+Line [154] : X = 144.050000 Y = 312.200000 Text = 10-Sep-2026
+
+Line [155] : X = 209.760000 Y = 312.200000 Text = Invoice No.
+
+Line [156] : X = 270.420000 Y = 312.200000 Text = IA263463879
+
+Line [157] : X = 336.140000 Y = 312.200000 Text = Invoice Date
+
+Line [158] : X = 457.460000 Y = 312.200000 Text = 10-Sep-2026
+
+Line [159] : X = 159.210000 Y = 314.150000 Text = --
+
+Line [160] : X = 48.000000 Y = 314.450000 Text = Details of Existing Damages
+
+Line [161] : X = 276.750000 Y = 314.600000 Text = PA cover for Owner-Driver
+
+Line [162] : X = 367.500000 Y = 314.910000 Text = (`)
+
+Line [163] : X = 129.000000 Y = 316.810000 Text = (`)
+
+Line [164] : X = 46.500000 Y = 316.910000 Text = NCB Discount Amount
+
+Line [165] : X = 238.480000 Y = 316.910000 Text = -14418.00
+
+Line [166] : X = 482.590000 Y = 317.660000 Text = 330.00
+
+Line [167] : X = 46.500000 Y = 325.100000 Text = Total Basic Own Damage Premium
+
+Line [168] : X = 478.700000 Y = 325.850000 Text = 3416.0032039.00
+
+Line [169] : X = 276.750000 Y = 325.850000 Text = Basic Third-Party Liability 
+
+Line [170] : X = 365.250000 Y = 326.160000 Text = (`)
+
+Line [171] : X = 167.250000 Y = 328.060000 Text = (`)
+
+Line [172] : X = 48.000000 Y = 329.590000 Text = YOUR POLICY DETAILS
+
+Line [173] : X = 159.210000 Y = 330.650000 Text = --
+
+Line [174] : X = 48.000000 Y = 330.950000 Text = Other Details
+
+Line [175] : X = 276.750000 Y = 334.090000 Text = LIABILITY PREMIUM [B]
+
+Line [176] : X = 160.500000 Y = 334.800000 Text = (`)(`)
+
+Line [177] : X = 46.500000 Y = 339.500000 Text = OWN DAMAGE PREMIUM [A] 
+
+Line [178] : X = 154.500000 Y = 346.560000 Text = 1974-05-02
+
+Line [179] : X = 1.500000 Y = 349.510000 Text = A
+
+Line [180] : X = 3.000000 Y = 349.510000 Text = A
+
+Line [181] : X = 47.500000 Y = 351.550000 Text = Year 3--------------
+
+Line [182] : X = 155.250000 Y = 354.350000 Text = Spouse
+
+Line [183] : X = 9.750000 Y = 361.510000 Text = 14418
+
+Line [184] : X = 47.250000 Y = 361.850000 Text = Nominee Details
+
+Line [185] : X = 2.250000 Y = 363.010000 Text = A
+
+Line [186] : X = 155.250000 Y = 363.350000 Text = JAISHREE SINGH .
+
+Line [187] : X = 82.880000 Y = 366.470000 Text = --
+
+Line [188] : X = 47.500000 Y = 366.550000 Text = Year 2
+
+Line [189] : X = 133.430000 Y = 366.550000 Text = ------------
+
+Line [190] : X = 0.750000 Y = 369.010000 Text = A
+
+Line [191] : X = 0.000000 Y = 369.250000 Text = IGST
+
+Line [192] : X = 2.250000 Y = 370.510000 Text = A1
+
+Line [193] : X = 222.750000 Y = 373.100000 Text = RA314737726Receipt Number
+
+Line [194] : X = 329.250000 Y = 373.850000 Text = Receipt DatePremium Payment Details
+
+Line [195] : X = 429.000000 Y = 376.160000 Text = 10-Sep-2026
+
+Line [196] : X = 0.000000 Y = 380.410000 Text = 13
+
+Line [197] : X = 6.000000 Y = 381.010000 Text = A
+
+Line [198] : X = 133.430000 Y = 381.470000 Text = --------
+
+Line [199] : X = 47.500000 Y = 381.550000 Text = Year 1929485
+
+Line [200] : X = 446.850000 Y = 381.550000 Text = 929485.001500000
+
+Line [201] : X = 429.000000 Y = 384.720000 Text = --
+
+Line [202] : X = 329.250000 Y = 385.100000 Text = IFSC/MICR No
+
+Line [203] : X = 47.250000 Y = 385.100000 Text = Bank Name
+
+Line [204] : X = 133.430000 Y = 396.600000 Text = Accessories IDV 
+
+Line [205] : X = 192.790000 Y = 396.600000 Text = (`)
+
+Line [206] : X = 244.640000 Y = 396.600000 Text = Accessories IDV 
+
+Line [207] : X = 304.000000 Y = 396.600000 Text = (`)
+
+Line [208] : X = 340.690000 Y = 396.600000 Text = IDV 
+
+Line [209] : X = 355.990000 Y = 396.600000 Text = (`)
+
+Line [210] : X = 401.350000 Y = 396.600000 Text = IDV 
+
+Line [211] : X = 416.650000 Y = 396.600000 Text = (`)
+
+Line [212] : X = 446.850000 Y = 396.600000 Text = IDV
+
+Line [213] : X = 460.090000 Y = 396.600000 Text =  
+
+Line [214] : X = 461.620000 Y = 396.600000 Text = (`)
+
+Line [215] : X = 492.340000 Y = 396.600000 Text = Driver
+
+Line [216] : X = 155.250000 Y = 396.720000 Text = Online
+
+Line [217] : X = 429.000000 Y = 397.100000 Text = 12_dp-DIC996A9077F24-1
+
+Line [218] : X = 329.250000 Y = 397.100000 Text = Cheque/Transation No
+
+Line [219] : X = 47.250000 Y = 397.100000 Text = Payment Mode
+
+Line [220] : X = 82.880000 Y = 397.570000 Text = (`)
+
+Line [221] : X = 47.500000 Y = 400.300000 Text = YearVechicle IDV
+
+Line [222] : X = 133.430000 Y = 404.000000 Text = Non-Electrical 
+
+Line [223] : X = 244.640000 Y = 404.000000 Text = Electrical 
+
+Line [224] : X = 340.690000 Y = 404.000000 Text = CNG/LPG 
+
+Line [225] : X = 401.350000 Y = 404.000000 Text = Trailer 
+
+Line [226] : X = 446.850000 Y = 404.000000 Text = Total 
+
+Line [227] : X = 492.340000 Y = 404.000000 Text = PA Owner 
+
+Line [228] : X = 430.500000 Y = 412.850000 Text = 7
+
+Line [229] : X = 47.250000 Y = 412.850000 Text = GSTIN/UIN No. 
+
+Line [230] : X = 329.250000 Y = 412.850000 Text = State Code
+
+Line [231] : X = 155.250000 Y = 413.680000 Text = Unregistered
+
+Line [232] : X = 45.000000 Y = 418.850000 Text = YOUR VEHICLE IDV 
+
+Line [233] : X = 155.250000 Y = 427.850000 Text = IMT-22,IMT-28
+
+Line [234] : X = 47.250000 Y = 427.850000 Text = IMT - Endorsements
+
+Line [235] : X = 0.000000 Y = 441.160000 Text = 1
+
+Line [236] : X = 155.250000 Y = 441.350000 Text = D207592836
+
+Line [237] : X = 47.250000 Y = 441.350000 Text = Previous Policy No.Previous Policy Expiry Date
+
+Line [238] : X = 429.000000 Y = 441.350000 Text = 18-Sep-2026
+
+Line [239] : X = 3.750000 Y = 447.910000 Text = Br
+
+Line [240] : X = 155.250000 Y = 452.600000 Text = Go Digit General Insurance Limited
+
+Line [241] : X = 47.250000 Y = 452.600000 Text = Previous Insurer
+
+Line [242] : X = 2.250000 Y = 455.060000 Text = 22
+
+Line [243] : X = 46.500000 Y = 463.850000 Text = OTHER DETAILS
+
+Line [244] : X = 45.750000 Y = 466.920000 Text = from Policy Issue Date. 
+
+Line [245] : X = 45.750000 Y = 473.830000 Text = 4. In case you have any queries or note any discrepancies in the photographs/RC/any other document, please reach out to us at 1800-258-5956 within 7 days 
+
+Line [246] : X = 6.000000 Y = 474.910000 Text = fal
+
+Line [247] : X = 45.750000 Y = 480.740000 Text = fact as per policy terms and conditions. 
+
+Line [248] : X = 48.000000 Y = 485.250000 Text = IA2634638792026-09-109850.251773.040.000.000.000.0011623.29
+
+Line [249] : X = 45.750000 Y = 487.650000 Text = 3. Please note that the Company reserves the right to deny a claim as well as cancel the policy in case of fraud, misrepresentation, non-disclosure of material 
+
+Line [250] : X = 0.000000 Y = 488.600000 Text = 9
+
+Line [251] : X = 45.750000 Y = 494.560000 Text = 2. Pre-existing Damages: All types of pre-existing damages or cost of repair of such damage shall be excluded at the time of claim settlement. 
+
+Line [252] : X = 45.750000 Y = 501.470000 Text = below. 
+
+Line [253] : X = 48.000000 Y = 501.950000 Text = Invoice NumberInvoice DateNet Premium    Igst   Cgst   Sgst   Utgst   CessGross Premium
+
+Line [254] : X = 45.750000 Y = 508.380000 Text = 1. Images of photographs of Insured Vehicle, RTO Registration Certificate (RC) and any other document submitted by you during pre-inspection are reproduced 
+
+Line [255] : X = 0.000000 Y = 509.500000 Text = 844.15
+
+Line [256] : X = 45.750000 Y = 515.290000 Text =  
+
+Line [257] : X = 48.000000 Y = 519.950000 Text = ENDORSEMENT
+
+Line [258] : X = 45.750000 Y = 522.200000 Text = Photographs and documents submitted by you 
+
+Line [259] : X = 204.030000 Y = 522.200000 Text =  
+
+Line [260] : X = 45.000000 Y = 524.000000 Text = Call us at 
+
+Line [261] : X = 89.870000 Y = 524.000000 Text = 1800-258-5956
+
+Line [262] : X = 164.640000 Y = 524.000000 Text =  to update your contact details. This will help us give you a smooth claim process.
+
+Line [263] : X = 3.750000 Y = 534.160000 Text = MA
+
+Line [264] : X = 452.900000 Y = 537.800000 Text = iv. Bank Name : 
+
+Line [265] : X = 452.900000 Y = 545.200000 Text = iii. Branch : 
+
+Line [266] : X = 48.000000 Y = 546.400000 Text = The Policy has been issued subject to your affirmative declaration that a valid FASTag has been affixed on the insured vehicle.
+
+Line [267] : X = 351.800000 Y = 548.190000 Text =  
+
+Line [268] : X = 48.500000 Y = 548.900000 Text =    
+
+Line [269] : X = 452.900000 Y = 552.600000 Text = ii. IFSC code : 
+
+Line [270] : X = 53.250000 Y = 554.840000 Text = Email:
+
+Line [271] : X = 82.500000 Y = 555.170000 Text = mxxxxxxxxxx4@gxxxxxcom
+
+Line [272] : X = 0.000000 Y = 559.000000 Text = 59.4
+
+Line [273] : X = 452.900000 Y = 560.010000 Text = i. Bank a/c no : 
+
+Line [274] : X = 321.000000 Y = 560.840000 Text = Partner Email :
+
+Line [275] : X = 384.750000 Y = 561.170000 Text = contactus@heuteandmorgen.com
+
+Line [276] : X = 48.000000 Y = 564.200000 Text = FASTag NUMBER DECLARATION
+
+Line [277] : X = 8.250000 Y = 565.310000 Text = 614.8
+
+Line [278] : X = 452.900000 Y = 573.910000 Text = iv. Bank Name : 
+
+Line [279] : X = 452.900000 Y = 581.310000 Text = iii. Branch : 
+
+Line [280] : X = 126.750000 Y = 582.920000 Text = xxxxxxxxx3771
+
+Line [281] : X = 0.750000 Y = 583.000000 Text = 23.58
+
+Line [282] : X = 53.250000 Y = 583.340000 Text = Mobile Number:
+
+Line [283] : X = 205.460000 Y = 583.580000 Text = Number.
+
+Line [284] : X = 351.800000 Y = 584.300000 Text =  
+
+Line [285] : X = 4.500000 Y = 585.010000 Text = 1
+
+Line [286] : X = 48.500000 Y = 585.020000 Text =    
+
+Line [287] : X = 48.750000 Y = 587.040000 Text = Odometer
+
+Line [288] : X = 114.460000 Y = 587.040000 Text = 58512
+
+Line [289] : X = 256.010000 Y = 587.040000 Text = NA
+
+Line [290] : X = 341.940000 Y = 587.040000 Text = Financier Details
+
+Line [291] : X = 452.900000 Y = 588.720000 Text = ii. IFSC code : 
+
+Line [292] : X = 46.500000 Y = 588.880000 Text = call on 1800-258-5956 in case you require further help.
+
+Line [293] : X = 205.460000 Y = 590.490000 Text = FASTag 
+
+Line [294] : X = 426.000000 Y = 595.670000 Text = 8601654647
+
+Line [295] : X = 321.000000 Y = 596.090000 Text = Partner Mobile Number:
+
+Line [296] : X = 452.900000 Y = 596.120000 Text = i. Bank a/c no : 
+
+Line [297] : X = 46.500000 Y = 597.520000 Text = *Facilities mentioned above are offered by the garages. List of garages is subject to change in future. Please 
+
+Line [298] : X = 0.750000 Y = 600.910000 Text = 10
+
+Line [299] : X = 3.000000 Y = 602.260000 Text = 1
+
+Line [300] : X = 256.010000 Y = 603.900000 Text = L
+
+Line [301] : X = 0.000000 Y = 603.910000 Text = M
+
+Line [302] : X = 48.750000 Y = 607.360000 Text = Engine No.
+
+Line [303] : X = 114.460000 Y = 607.360000 Text = 2719485
+
+Line [304] : X = 205.460000 Y = 607.360000 Text = Chassis No.
+
+Line [305] : X = 341.940000 Y = 607.360000 Text = Cubic Capacity
+
+Line [306] : X = 443.040000 Y = 607.360000 Text = 1368 CC
+
+Line [307] : X = 411.750000 Y = 608.100000 Text = WhatsApp at 
+
+Line [308] : X = 450.470000 Y = 608.100000 Text = 702 606 1234
+
+Line [309] : X = 452.900000 Y = 610.020000 Text = iv. Bank Name : 
+
+Line [310] : X = 120.750000 Y = 610.670000 Text = D272363175 / 10092026
+
+Line [311] : X = 256.010000 Y = 610.810000 Text = MCAAJPBH8LFA655468
+
+Line [312] : X = 53.250000 Y = 611.090000 Text = Policy Number:
+
+Line [313] : X = 46.500000 Y = 611.700000 Text = • Complete cashless facility                   • 6 Months warranty on repairs                • Complimentary Pick-up & Drop
+
+Line [314] : X = 6.000000 Y = 612.160000 Text = P
+
+Line [315] : X = 411.750000 Y = 614.030000 Text =  For instant resolution, you can ping us “Hi” on 
+
+Line [316] : X = 48.500000 Y = 617.430000 Text = SINGH .   - -   - -Spouse
+
+Line [317] : X = 452.900000 Y = 617.430000 Text = iii. Branch : 
+
+Line [318] : X = 411.750000 Y = 619.950000 Text = Click here to view the certificate. 
+
+Line [319] : X = 351.800000 Y = 620.420000 Text =  
+
+Line [320] : X = 402.350000 Y = 621.130000 Text = 100
+
+Line [321] : X = 0.000000 Y = 622.750000 Text = 4689.74
+
+Line [322] : X = 341.940000 Y = 624.220000 Text = Manufacturing
+
+Line [323] : X = 48.500000 Y = 624.830000 Text = JAISHREE 
+
+Line [324] : X = 452.900000 Y = 624.830000 Text = ii. IFSC code : 
+
+Line [325] : X = 411.750000 Y = 625.870000 Text = Hey, our document is now digitally signed 
+
+Line [326] : X = 48.750000 Y = 627.670000 Text = Seating Capacity
+
+Line [327] : X = 114.460000 Y = 627.670000 Text = 5
+
+Line [328] : X = 205.460000 Y = 627.670000 Text = Fuel Type
+
+Line [329] : X = 256.010000 Y = 627.670000 Text = Petrol
+
+Line [330] : X = 443.040000 Y = 627.670000 Text = 2020/0001-01-01
+
+Line [331] : X = 387.000000 Y = 629.420000 Text = 1075248
+
+Line [332] : X = 321.000000 Y = 629.840000 Text = Partner Code :
+
+Line [333] : X = 341.940000 Y = 631.130000 Text = Year of Regn./ 
+
+Line [334] : X = 411.750000 Y = 631.800000 Text = KARNATAKA. 
+
+Line [335] : X = 452.900000 Y = 632.230000 Text = i. Bank a/c no : 
+
+Line [336] : X = 0.000000 Y = 634.660000 Text = G0
+
+Line [337] : X = 411.750000 Y = 637.720000 Text = and Registration , Bengaluru- 560009  - 
+
+Line [338] : X = 141.000000 Y = 638.420000 Text = DL2CBB8461
+
+Line [339] : X = 53.250000 Y = 638.590000 Text = Registration Number:
+
+Line [340] : X = 46.500000 Y = 640.610000 Text = process.
+
+Line [341] : X = 411.750000 Y = 643.640000 Text = 30th May 2017 issued by Department of Stamps 
+
+Line [342] : X = 341.940000 Y = 644.540000 Text = Type)
+
+Line [343] : X = 443.040000 Y = 644.540000 Text = DDCT
+
+Line [344] : X = 240.590000 Y = 646.200000 Text = address)
+
+Line [345] : X = 48.750000 Y = 647.990000 Text = RTO Location
+
+Line [346] : X = 205.460000 Y = 647.990000 Text = Make
+
+Line [347] : X = 256.010000 Y = 647.990000 Text = JEEP
+
+Line [348] : X = 46.500000 Y = 648.380000 Text = You can take your car to any of the listed network garages in case anything happens, and we assure you a hassle-free claim 
+
+Line [349] : X = 114.460000 Y = 648.710000 Text = DL2C
+
+Line [350] : X = 411.750000 Y = 649.560000 Text = Letter of Authorization No.67-B/04/2017-18 Date: 
+
+Line [351] : X = 341.940000 Y = 651.450000 Text = Model/Vehicle Variant (Sub-
+
+Line [352] : X = 443.040000 Y = 651.450000 Text = COMPASS/1.4 SPORT MAIR 
+
+Line [353] : X = 240.590000 Y = 654.350000 Text = present 
+
+Line [354] : X = 411.750000 Y = 655.490000 Text = Consolidated Stamp Duty has been paid as per 
+
+Line [355] : X = 46.500000 Y = 656.160000 Text = Stay Calm and just relax! We will take care of everything!
+
+Line [356] : X = 384.000000 Y = 656.920000 Text = BROKER PRIVATE LIMITED
+
+Line [357] : X = 2.250000 Y = 657.010000 Text = 01
+
+Line [358] : X = 46.500000 Y = 657.710000 Text = For Claims Notification and Procedure click here.
+
+Line [359] : X = 411.750000 Y = 661.410000 Text = Printed, Signed, and Executed at Bengaluru 
+
+Line [360] : X = 90.750000 Y = 661.770000 Text = MAAN SINGH
+
+Line [361] : X = 240.590000 Y = 662.490000 Text = same as 
+
+Line [362] : X = 321.000000 Y = 662.840000 Text = Partner Name:
+
+Line [363] : X = 384.000000 Y = 662.870000 Text = HEUTE AND MORGEN INSURANCE 
+
+Line [364] : X = 46.500000 Y = 663.630000 Text = 702 606 1234 
+
+Line [365] : X = 46.500000 Y = 663.930000 Text = you. That’s a promise!
+
+Line [366] : X = 53.250000 Y = 665.090000 Text = Name: 
+
+Line [367] : X = 42.750000 Y = 667.100000 Text = YOUR VEHICLE DETAILS
+
+Line [368] : X = 411.750000 Y = 667.330000 Text = Authorized Signatory 
+
+Line [369] : X = 46.500000 Y = 669.550000 Text = For instant resolution, you can ping us “Hi” on WhatsApp at 
+
+Line [370] : X = 240.590000 Y = 670.630000 Text = required, if
+
+Line [371] : X = 351.800000 Y = 670.630000 Text = minor)
+
+Line [372] : X = 46.500000 Y = 671.700000 Text = We hope that you do not get in a situation when you have to file a claim. However, if that happens, we are always there for 
+
+Line [373] : X = 411.750000 Y = 673.250000 Text = praveen.bhat@godigit.com 
+
+Line [374] : X = 46.500000 Y = 675.470000 Text = Bike, Health & Travel Insurance Online . 
+
+Line [375] : X = 94.000000 Y = 678.780000 Text = Nominee
+
+Line [376] : X = 190.040000 Y = 678.780000 Text = Nominee
+
+Line [377] : X = 240.590000 Y = 678.780000 Text = (Not 
+
+Line [378] : X = 291.140000 Y = 678.780000 Text = Person
+
+Line [379] : X = 351.800000 Y = 678.780000 Text = Nominee is
+
+Line [380] : X = 411.750000 Y = 679.180000 Text = Senior Vice President - Customer Experience 
+
+Line [381] : X = 0.000000 Y = 679.850000 Text = N
+
+Line [382] : X = 46.500000 Y = 681.400000 Text = hello@godigit.com or visit our website Digit Insurance: Car, 
+
+Line [383] : X = 411.750000 Y = 685.100000 Text = Praveen Bhat 
+
+Line [384] : X = 94.000000 Y = 686.920000 Text = of 
+
+Line [385] : X = 139.490000 Y = 686.920000 Text = Nominee
+
+Line [386] : X = 190.040000 Y = 686.920000 Text = the 
+
+Line [387] : X = 240.590000 Y = 686.920000 Text = Nominee 
+
+Line [388] : X = 291.140000 Y = 686.920000 Text = with Insured 
+
+Line [389] : X = 351.800000 Y = 686.920000 Text = person (If 
+
+Line [390] : X = 402.350000 Y = 686.920000 Text = amount
+
+Line [391] : X = 46.500000 Y = 687.320000 Text = Call Centre at 1800-258-5956 or email us at 
+
+Line [392] : X = 47.250000 Y = 691.870000 Text = Digit Private Car Pay As You Drive and 12000 KM plan (IRDAN158RP0005V01201718/A0036V01202425) also comes under the above Addon cover
+
+Line [393] : X = 46.500000 Y = 693.240000 Text = In case of claim or any other query, please contact our 24-hour 
+
+Line [394] : X = 48.500000 Y = 695.070000 Text = Nominee
+
+Line [395] : X = 94.000000 Y = 695.070000 Text = number 
+
+Line [396] : X = 139.490000 Y = 695.070000 Text = of 
+
+Line [397] : X = 190.040000 Y = 695.070000 Text = Address of
+
+Line [398] : X = 240.590000 Y = 695.070000 Text = Address of
+
+Line [399] : X = 291.140000 Y = 695.070000 Text = of Nominee 
+
+Line [400] : X = 351.800000 Y = 695.070000 Text = authorized
+
+Line [401] : X = 402.350000 Y = 695.070000 Text = e of claim 
+
+Line [402] : X = 452.900000 Y = 695.070000 Text = Account of Nominee
+
+Line [403] : X = 113.210000 Y = 695.940000 Text = This is the end of the document and the beginning of a wonderful relationship.
+
+Line [404] : X = 373.280000 Y = 699.130000 Text = PARTNER DETAILSYOUR DETAILS
+
+Line [405] : X = 46.500000 Y = 699.170000 Text = Wish to go through your detailed policy wordings, click here. 
+
+Line [406] : X = 48.500000 Y = 703.210000 Text = Name of 
+
+Line [407] : X = 94.000000 Y = 703.210000 Text = Mobile 
+
+Line [408] : X = 139.490000 Y = 703.210000 Text = E-mail Id 
+
+Line [409] : X = 190.040000 Y = 703.210000 Text = Present 
+
+Line [410] : X = 240.590000 Y = 703.210000 Text = Permanent
+
+Line [411] : X = 291.140000 Y = 703.210000 Text = Relationship 
+
+Line [412] : X = 351.800000 Y = 703.210000 Text = Details of 
+
+Line [413] : X = 402.350000 Y = 703.210000 Text = Percentag
+
+Line [414] : X = 452.900000 Y = 703.210000 Text = Details of Bank 
+
+Line [415] : X = 47.500000 Y = 705.650000 Text = Digit Private Car Key & Lock ProtectCover Only 1 Claims Per Year/Max SI-30000IRDAN158RP0005V01201718/A0068V01202021
+
+Line [416] : X = 48.250000 Y = 718.050000 Text = Nominee Details
+
+Line [417] : X = 47.500000 Y = 720.150000 Text = Digit Private Car Loss of Personal BelongingsCover Only 1 Claims Per Year/Max SI-30000IRDAN158RP0005V01201718/A0069V01202021
+
+Line [418] : X = 411.750000 Y = 723.220000 Text = For & On Behalf of Go Digit General Insurance Ltd.
+
+Line [419] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Line [420] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Line [421] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Line [422] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Line [423] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+Line [424] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Line [425] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Line [426] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Line [427] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Line [428] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+Line [429] : X = 3.750000 Y = 815.260000 Text = PB
+
+Line [430] : X = 3.750000 Y = 815.260000 Text = PB
+
+Line [431] : X = 3.750000 Y = 815.260000 Text = PB
+
+Line [432] : X = 3.750000 Y = 815.260000 Text = PB
+
+Line [433] : X = 3.750000 Y = 815.260000 Text = PB
+
+GroupedByY [0] : X = 12.000000 Y = 13.510000 Text = 1
+
+GroupedByY [1] : X = 10.500000 Y = 42.910000 Text = 1075
+
+GroupedByY [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+GroupedByY [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+GroupedByY [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+GroupedByY [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+GroupedByY [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+GroupedByY [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+GroupedByY [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+GroupedByY [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+GroupedByY [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+GroupedByY [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+GroupedByY [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+GroupedByY [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+GroupedByY [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+GroupedByY [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+GroupedByY [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+GroupedByY [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+GroupedByY [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+GroupedByY [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+GroupedByY [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+GroupedByY [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+GroupedByY [5] : X = 11.250000 Y = 79.660000 Text = D20
+
+GroupedByY [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+GroupedByY [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+GroupedByY [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+GroupedByY [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+GroupedByY [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+GroupedByY [7] : X = 435.750000 Y = 91.400000 Text = Page No: 1 of 5
+
+GroupedByY [7] : X = 435.750000 Y = 91.400000 Text = Page No: 2 of 5
+
+GroupedByY [7] : X = 435.750000 Y = 91.400000 Text = Page No: 3 of 5
+
+GroupedByY [7] : X = 435.750000 Y = 91.400000 Text = Page No: 4 of 5
+
+GroupedByY [7] : X = 435.750000 Y = 91.400000 Text = Page No: 5 of 5
+
+GroupedByY [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+GroupedByY [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+GroupedByY [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+GroupedByY [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+GroupedByY [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+GroupedByY [9] : X = 47.500000 Y = 118.400000 Text = Digit Private Car Parts Depreciation ProtectCover Unlimited ClaimsIRDAN158RP0005V01201718/A0009V01201718
+
+GroupedByY [10] : X = 47.500000 Y = 132.900000 Text = Digit Private Car Engine and Gear Box ProtectMaximum of one claim would be payableIRDAN158RP0005V01201718/A0010V01201718
+
+GroupedByY [10] : X = 46.000000 Y = 134.040000 Text = remaining period of policy .
+
+GroupedByY [11] : X = 46.000000 Y = 139.230000 Text = If the “Own Damage Cover” under your policy is cancelled during the policy period, then your policy shall be governed by the standard terms and conditions of “Act only” policy for the Third Party Cover during the 
+
+GroupedByY [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+GroupedByY [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+GroupedByY [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+GroupedByY [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+GroupedByY [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+GroupedByY [12] : X = 46.000000 Y = 146.060000 Text = Loss and/or Theft claim, applicable subsidy amount availed as per government policy will be reduced from IDV for claim settlement.
+
+GroupedByY [12] : X = 47.500000 Y = 147.400000 Text = Digit Private Car Breakdown Assistance IRDAN158RP0005V01201718/A0014V02201718
+
+GroupedByY [13] : X = 46.000000 Y = 152.970000 Text = In case of an accident to your vehicle, please intimate us immediately for SPOT SURVEY. Failure to intimate in time could prejudice your claim. In case of Total 
+
+GroupedByY [14] : X = 46.000000 Y = 160.880000 Text = vehicle inspection
+
+GroupedByY [14] : X = 47.500000 Y = 161.900000 Text = Digit Private Car Consumable CoverCover Unlimited ClaimsIRDAN158RP0005V01201718/A0008V01201718
+
+GroupedByY [15] : X = 46.000000 Y = 167.790000 Text = handicap person, driver tuition, fiber glass, CNG/ LPG unit, geographical extension, imported vehicle etc., wherever applicable). GDD -  Subject to successful 
+
+GroupedByY [16] : X = 46.000000 Y = 174.700000 Text = Note: 
+
+GroupedByY [16] : X = 63.790000 Y = 174.700000 Text = The above total OD premium is inclusive of all applicable loading / discounts viz (automobile association memberships, voluntary excess, anti-theft 
+
+GroupedByY [16] : X = 458.150000 Y = 176.200000 Text = UIN
+
+GroupedByY [16] : X = 108.530000 Y = 176.960000 Text = Optional CoverOptional Coverage Details
+
+GroupedByY [17] : X = 4.500000 Y = 188.410000 Text = 1003
+
+GroupedByY [18] : X = 45.000000 Y = 192.910000 Text = Note: The policy is issued in utmost good faith, relying on the information shared by insured at the time of obtaining the policy. The terms and conditions detailed in this policy schedule as well as the policy document sent by Digit shall prevail in case of any dispute.
+
+GroupedByY [18] : X = 278.250000 Y = 193.100000 Text = 11623.29
+
+GroupedByY [18] : X = 46.500000 Y = 193.100000 Text = Final Premium
+
+GroupedByY [18] : X = 133.930000 Y = 194.400000 Text = H NO-WB-120 A GALI NO-5 SHAKARPUR  EAST DELHI 110092,New Delhi-110001
+
+GroupedByY [18] : X = 99.750000 Y = 195.310000 Text = (`)
+
+GroupedByY [18] : X = 49.000000 Y = 195.900000 Text = Address
+
+GroupedByY [19] : X = 45.000000 Y = 202.780000 Text = inspection of the vehicle and in such a case, Own Damage cover (Section -I) of the policy would not commence unless the pre-inspection of the vehicle has been done and the acceptance of risk is subject to evaluation of the vehicle inspection report. In case of any adverse findings in the report, the Company, at its discretion, may cancel the Policy as per the Motor Tariff. 
+
+GroupedByY [20] : X = 518.450000 Y = 211.850000 Text = 1233.51
+
+GroupedByY [20] : X = 336.140000 Y = 212.490000 Text =   
+
+GroupedByY [20] : X = 45.000000 Y = 212.650000 Text = claim settlement,as per the attached images. Important Notice: The company may cancel the policy by sending 7 days notice in case of fraud, misrepresentation, non disclosure of material fact or non co-operation of the insured. This policy is subject to the standard policy wordings, warranties and conditions applicable for this product in addition to Indian Motor Tariff. Break in Insurance: In case of a break-in, the company may conduct pre-
+
+GroupedByY [20] : X = 209.760000 Y = 213.200000 Text = 18-Sep-202723:59:59
+
+GroupedByY [21] : X = 46.500000 Y = 215.650000 Text = IGST @18%=(
+
+GroupedByY [21] : X = 90.570000 Y = 215.650000 Text = `
+
+GroupedByY [21] : X = 94.070000 Y = 215.650000 Text = 1773.04)
+
+GroupedByY [22] : X = 48.000000 Y = 217.750000 Text = PA Owner-DriverTo
+
+GroupedByY [22] : X = 278.250000 Y = 219.350000 Text = 1773.04
+
+GroupedByY [22] : X = 512.450000 Y = 220.100000 Text = 1009.24
+
+GroupedByY [23] : X = 45.000000 Y = 222.520000 Text = or driven otherwise than in accordance with this Schedule. Any payment made by the Company by reason of wider terms appearing in Certificate in order to comply with the Motor Vehicle Act, 1988 is recoverable from the insured. See the Clause headed (Avoidance Of Certain Terms And Right Of Recovery) in the policy. Pre-existing Damages: All types of pre-existing damages or cost of repair of such damage will be excluded at the time of 
+
+GroupedByY [23] : X = 507.000000 Y = 223.510000 Text = 50
+
+GroupedByY [23] : X = 48.000000 Y = 225.150000 Text = Period of Policy for
+
+GroupedByY [24] : X = 336.140000 Y = 228.690000 Text =   
+
+GroupedByY [24] : X = 144.050000 Y = 229.700000 Text = From
+
+GroupedByY [24] : X = 209.760000 Y = 229.700000 Text = 19-Sep-202600:00:01
+
+GroupedByY [24] : X = 47.250000 Y = 230.600000 Text = Net Premium 
+
+GroupedByY [24] : X = 98.250000 Y = 230.910000 Text = (`)
+
+GroupedByY [24] : X = 278.250000 Y = 231.350000 Text = 9850.25
+
+GroupedByY [24] : X = 531.180000 Y = 232.100000 Text = 3416
+
+GroupedByY [24] : X = 45.000000 Y = 232.390000 Text = dishonor / Non-receipt of payment premium paid through Cheque, the policy is void ab-initio in case of dishonor of Cheque or non-receipt of payment. Violation of Motor Vehicle Act: This policy is issued in accordance with the provision of Chapter X and Chapter XI of MV act, 1988 and any subsequent amendment as applicable. Any violation will forfeit all benefits and coverages under the Policy. The insured is not indemnified if the vehicle is used 
+
+GroupedByY [24] : X = 481.680000 Y = 233.660000 Text = 1234
+
+GroupedByY [25] : X = 45.000000 Y = 242.260000 Text = and coverages under the Policy in respect of section I of the Policy will stand forfeited. If there is any disagreement, write to us within 7 days from the date of issuance of policy or before the start date of period of insurance whichever is earlier.PUC Declaration: The Policy has been issued subject to valid Pollution Under Control (PUC) Certificate disclosed by you as an insured on or before the date of commencement of the Policy . Cheque 
+
+GroupedByY [25] : X = 245.450000 Y = 243.350000 Text = 6054.25
+
+GroupedByY [25] : X = 478.700000 Y = 243.350000 Text = 3796.00
+
+GroupedByY [25] : X = 47.250000 Y = 243.350000 Text = Total OD Premium Total Act Premium 
+
+GroupedByY [25] : X = 111.000000 Y = 244.410000 Text = (`)
+
+GroupedByY [25] : X = 340.500000 Y = 245.560000 Text = (`)
+
+GroupedByY [25] : X = 209.760000 Y = 246.200000 Text = 18-Sep-202723:59:59
+
+GroupedByY [25] : X = 336.140000 Y = 246.200000 Text = Compulsory Deductible (
+
+GroupedByY [25] : X = 423.740000 Y = 246.200000 Text = `
+
+GroupedByY [25] : X = 427.490000 Y = 246.200000 Text = )
+
+GroupedByY [25] : X = 457.460000 Y = 246.960000 Text = 1000
+
+GroupedByY [25] : X = 9.750000 Y = 247.510000 Text = IUA
+
+GroupedByY [26] : X = 48.000000 Y = 250.750000 Text = Third Party LiabilityTo
+
+GroupedByY [26] : X = 45.000000 Y = 252.140000 Text =  NCB Declaration: The premium has been charged and policy has been issued subject to NCB declared by you as an insured. In the event of NCB found wrongly declared at any point of time during policy period, all benefits 
+
+GroupedByY [27] : X = 276.750000 Y = 256.150000 Text = PA cover for Paid Driver (
+
+GroupedByY [27] : X = 356.800000 Y = 256.150000 Text = `
+
+GroupedByY [27] : X = 360.300000 Y = 256.150000 Text = )
+
+GroupedByY [27] : X = 48.000000 Y = 258.150000 Text = Period of Policy for
+
+GroupedByY [28] : X = 45.000000 Y = 262.010000 Text = amendment as applicable. Limits of Liability: 1) Under Section I of the policy _ IDV as shown in the schedule. 2) Under Section II - 1 (i)of the policy: Death of or bodily injury _ Such amount as is necessary to meet the requirements of the Motor Vehicles Act, 1988. 3) Under Section II _ 1 (ii)of the policy: Damage to Third Party Property _ `750000 4) P.A. Cover for Owner Driver under Section III (CSI) - `1500000 
+
+GroupedByY [28] : X = 144.050000 Y = 262.700000 Text = From
+
+GroupedByY [28] : X = 209.760000 Y = 262.700000 Text = 19-Sep-202600:00:01
+
+GroupedByY [28] : X = 336.140000 Y = 262.700000 Text = Voluntary Deductible (
+
+GroupedByY [28] : X = 416.430000 Y = 262.700000 Text = `
+
+GroupedByY [28] : X = 420.180000 Y = 262.700000 Text = )
+
+GroupedByY [28] : X = 457.460000 Y = 262.700000 Text = 0.00
+
+GroupedByY [28] : X = 4.500000 Y = 263.410000 Text = 10
+
+GroupedByY [29] : X = 343.500000 Y = 268.150000 Text = (
+
+GroupedByY [29] : X = 345.600000 Y = 268.150000 Text = `
+
+GroupedByY [29] : X = 349.100000 Y = 268.150000 Text = )
+
+GroupedByY [29] : X = 276.750000 Y = 268.850000 Text = CNG/LPG Premium
+
+GroupedByY [30] : X = 45.000000 Y = 271.880000 Text = entitled to drive: Any person including the insured 1) Provided that a person driving holds a valid &  effective driving license at the time of the accident and is not disqualified from holding or obtaining such a license. 2) Provided also that the person holding a valid &  effective Learner’s License may also drive the vehicle and that such a person satisfies the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989 and any subsequent 
+
+GroupedByY [30] : X = 6.750000 Y = 272.410000 Text = 46
+
+GroupedByY [30] : X = 0.000000 Y = 272.410000 Text = 136
+
+GroupedByY [31] : X = 0.000000 Y = 275.410000 Text = 32
+
+GroupedByY [32] : X = 457.460000 Y = 278.590000 Text = --
+
+GroupedByY [32] : X = 209.760000 Y = 279.200000 Text = 18-Sep-202723:59:59
+
+GroupedByY [32] : X = 336.140000 Y = 279.200000 Text = Additional Excess (
+
+GroupedByY [32] : X = 404.120000 Y = 279.200000 Text = `
+
+GroupedByY [32] : X = 407.870000 Y = 279.200000 Text = )
+
+GroupedByY [32] : X = 276.750000 Y = 279.780000 Text = PA cover for 5 passengers 0 (
+
+GroupedByY [32] : X = 370.370000 Y = 279.780000 Text = `
+
+GroupedByY [32] : X = 373.870000 Y = 279.780000 Text = )
+
+GroupedByY [32] : X = 498.670000 Y = 279.800000 Text = --
+
+GroupedByY [32] : X = 45.000000 Y = 281.750000 Text = Geographical Area: Any accidental loss, damage and/or liability caused, sustained or incurred within India  shall be covered subject to Policy Terms and Conditions, unless specifically agreed and endorsed.. Limitation as to use The policy covers use of the vehicle for any purpose other than hire or reward, racing, pace making, reliability trial, speed testing and use for any purpose in connection with the Motor Trade. Person or Class of persons 
+
+GroupedByY [32] : X = 48.000000 Y = 283.750000 Text = Own Damage CoverTo
+
+GroupedByY [33] : X = 9.750000 Y = 290.410000 Text = 13
+
+GroupedByY [33] : X = 48.000000 Y = 291.150000 Text = Period of Policy for
+
+GroupedByY [33] : X = 276.750000 Y = 291.400000 Text = Legal Liability to Paid Driver (
+
+GroupedByY [33] : X = 369.490000 Y = 291.400000 Text = `
+
+GroupedByY [33] : X = 372.990000 Y = 291.400000 Text = )
+
+GroupedByY [33] : X = 245.450000 Y = 291.730000 Text = 6054.25
+
+GroupedByY [33] : X = 46.500000 Y = 292.100000 Text = Own Damage Premium 
+
+GroupedByY [33] : X = 45.000000 Y = 292.410000 Text = Follow these rules like you follow the rules of the road.
+
+GroupedByY [33] : X = 128.250000 Y = 293.560000 Text = (`)
+
+GroupedByY [33] : X = 487.240000 Y = 294.410000 Text = 50.00
+
+GroupedByY [33] : X = 144.050000 Y = 295.700000 Text = From
+
+GroupedByY [33] : X = 209.760000 Y = 295.700000 Text = 19-Sep-202600:00:01
+
+GroupedByY [33] : X = 336.140000 Y = 295.700000 Text = NCB % (Current Policy)
+
+GroupedByY [33] : X = 457.460000 Y = 295.700000 Text = 45%
+
+GroupedByY [33] : X = 7.500000 Y = 296.410000 Text = 100
+
+GroupedByY [34] : X = 238.480000 Y = 303.350000 Text = -16387.49
+
+GroupedByY [34] : X = 276.750000 Y = 303.350000 Text = Legal Liability to Employees 
+
+GroupedByY [34] : X = 46.500000 Y = 303.350000 Text = Others
+
+GroupedByY [34] : X = 74.250000 Y = 303.660000 Text = (`)
+
+GroupedByY [34] : X = 371.250000 Y = 303.660000 Text = (`)
+
+GroupedByY [34] : X = 3.000000 Y = 304.510000 Text = A
+
+GroupedByY [35] : X = 48.000000 Y = 312.200000 Text = Policy Issue Date
+
+GroupedByY [35] : X = 144.050000 Y = 312.200000 Text = 10-Sep-2026
+
+GroupedByY [35] : X = 209.760000 Y = 312.200000 Text = Invoice No.
+
+GroupedByY [35] : X = 270.420000 Y = 312.200000 Text = IA263463879
+
+GroupedByY [35] : X = 336.140000 Y = 312.200000 Text = Invoice Date
+
+GroupedByY [35] : X = 457.460000 Y = 312.200000 Text = 10-Sep-2026
+
+GroupedByY [35] : X = 159.210000 Y = 314.150000 Text = --
+
+GroupedByY [35] : X = 48.000000 Y = 314.450000 Text = Details of Existing Damages
+
+GroupedByY [35] : X = 276.750000 Y = 314.600000 Text = PA cover for Owner-Driver
+
+GroupedByY [35] : X = 367.500000 Y = 314.910000 Text = (`)
+
+GroupedByY [35] : X = 129.000000 Y = 316.810000 Text = (`)
+
+GroupedByY [35] : X = 46.500000 Y = 316.910000 Text = NCB Discount Amount
+
+GroupedByY [35] : X = 238.480000 Y = 316.910000 Text = -14418.00
+
+GroupedByY [35] : X = 482.590000 Y = 317.660000 Text = 330.00
+
+GroupedByY [36] : X = 46.500000 Y = 325.100000 Text = Total Basic Own Damage Premium
+
+GroupedByY [36] : X = 478.700000 Y = 325.850000 Text = 3416.0032039.00
+
+GroupedByY [36] : X = 276.750000 Y = 325.850000 Text = Basic Third-Party Liability 
+
+GroupedByY [36] : X = 365.250000 Y = 326.160000 Text = (`)
+
+GroupedByY [36] : X = 167.250000 Y = 328.060000 Text = (`)
+
+GroupedByY [36] : X = 48.000000 Y = 329.590000 Text = YOUR POLICY DETAILS
+
+GroupedByY [36] : X = 159.210000 Y = 330.650000 Text = --
+
+GroupedByY [36] : X = 48.000000 Y = 330.950000 Text = Other Details
+
+GroupedByY [37] : X = 276.750000 Y = 334.090000 Text = LIABILITY PREMIUM [B]
+
+GroupedByY [37] : X = 160.500000 Y = 334.800000 Text = (`)(`)
+
+GroupedByY [38] : X = 46.500000 Y = 339.500000 Text = OWN DAMAGE PREMIUM [A] 
+
+GroupedByY [39] : X = 154.500000 Y = 346.560000 Text = 1974-05-02
+
+GroupedByY [40] : X = 1.500000 Y = 349.510000 Text = A
+
+GroupedByY [40] : X = 3.000000 Y = 349.510000 Text = A
+
+GroupedByY [41] : X = 47.500000 Y = 351.550000 Text = Year 3--------------
+
+GroupedByY [42] : X = 155.250000 Y = 354.350000 Text = Spouse
+
+GroupedByY [43] : X = 9.750000 Y = 361.510000 Text = 14418
+
+GroupedByY [43] : X = 47.250000 Y = 361.850000 Text = Nominee Details
+
+GroupedByY [43] : X = 2.250000 Y = 363.010000 Text = A
+
+GroupedByY [43] : X = 155.250000 Y = 363.350000 Text = JAISHREE SINGH .
+
+GroupedByY [44] : X = 82.880000 Y = 366.470000 Text = --
+
+GroupedByY [44] : X = 47.500000 Y = 366.550000 Text = Year 2
+
+GroupedByY [44] : X = 133.430000 Y = 366.550000 Text = ------------
+
+GroupedByY [45] : X = 0.750000 Y = 369.010000 Text = A
+
+GroupedByY [45] : X = 0.000000 Y = 369.250000 Text = IGST
+
+GroupedByY [45] : X = 2.250000 Y = 370.510000 Text = A1
+
+GroupedByY [46] : X = 222.750000 Y = 373.100000 Text = RA314737726Receipt Number
+
+GroupedByY [46] : X = 329.250000 Y = 373.850000 Text = Receipt DatePremium Payment Details
+
+GroupedByY [47] : X = 429.000000 Y = 376.160000 Text = 10-Sep-2026
+
+GroupedByY [48] : X = 0.000000 Y = 380.410000 Text = 13
+
+GroupedByY [48] : X = 6.000000 Y = 381.010000 Text = A
+
+GroupedByY [48] : X = 133.430000 Y = 381.470000 Text = --------
+
+GroupedByY [48] : X = 47.500000 Y = 381.550000 Text = Year 1929485
+
+GroupedByY [48] : X = 446.850000 Y = 381.550000 Text = 929485.001500000
+
+GroupedByY [49] : X = 429.000000 Y = 384.720000 Text = --
+
+GroupedByY [49] : X = 329.250000 Y = 385.100000 Text = IFSC/MICR No
+
+GroupedByY [49] : X = 47.250000 Y = 385.100000 Text = Bank Name
+
+GroupedByY [50] : X = 133.430000 Y = 396.600000 Text = Accessories IDV 
+
+GroupedByY [50] : X = 192.790000 Y = 396.600000 Text = (`)
+
+GroupedByY [50] : X = 244.640000 Y = 396.600000 Text = Accessories IDV 
+
+GroupedByY [50] : X = 304.000000 Y = 396.600000 Text = (`)
+
+GroupedByY [50] : X = 340.690000 Y = 396.600000 Text = IDV 
+
+GroupedByY [50] : X = 355.990000 Y = 396.600000 Text = (`)
+
+GroupedByY [50] : X = 401.350000 Y = 396.600000 Text = IDV 
+
+GroupedByY [50] : X = 416.650000 Y = 396.600000 Text = (`)
+
+GroupedByY [50] : X = 446.850000 Y = 396.600000 Text = IDV
+
+GroupedByY [50] : X = 460.090000 Y = 396.600000 Text =  
+
+GroupedByY [50] : X = 461.620000 Y = 396.600000 Text = (`)
+
+GroupedByY [50] : X = 492.340000 Y = 396.600000 Text = Driver
+
+GroupedByY [50] : X = 155.250000 Y = 396.720000 Text = Online
+
+GroupedByY [50] : X = 429.000000 Y = 397.100000 Text = 12_dp-DIC996A9077F24-1
+
+GroupedByY [50] : X = 329.250000 Y = 397.100000 Text = Cheque/Transation No
+
+GroupedByY [50] : X = 47.250000 Y = 397.100000 Text = Payment Mode
+
+GroupedByY [50] : X = 82.880000 Y = 397.570000 Text = (`)
+
+GroupedByY [51] : X = 47.500000 Y = 400.300000 Text = YearVechicle IDV
+
+GroupedByY [52] : X = 133.430000 Y = 404.000000 Text = Non-Electrical 
+
+GroupedByY [52] : X = 244.640000 Y = 404.000000 Text = Electrical 
+
+GroupedByY [52] : X = 340.690000 Y = 404.000000 Text = CNG/LPG 
+
+GroupedByY [52] : X = 401.350000 Y = 404.000000 Text = Trailer 
+
+GroupedByY [52] : X = 446.850000 Y = 404.000000 Text = Total 
+
+GroupedByY [52] : X = 492.340000 Y = 404.000000 Text = PA Owner 
+
+GroupedByY [53] : X = 430.500000 Y = 412.850000 Text = 7
+
+GroupedByY [53] : X = 47.250000 Y = 412.850000 Text = GSTIN/UIN No. 
+
+GroupedByY [53] : X = 329.250000 Y = 412.850000 Text = State Code
+
+GroupedByY [53] : X = 155.250000 Y = 413.680000 Text = Unregistered
+
+GroupedByY [54] : X = 45.000000 Y = 418.850000 Text = YOUR VEHICLE IDV 
+
+GroupedByY [55] : X = 155.250000 Y = 427.850000 Text = IMT-22,IMT-28
+
+GroupedByY [55] : X = 47.250000 Y = 427.850000 Text = IMT - Endorsements
+
+GroupedByY [56] : X = 0.000000 Y = 441.160000 Text = 1
+
+GroupedByY [56] : X = 155.250000 Y = 441.350000 Text = D207592836
+
+GroupedByY [56] : X = 47.250000 Y = 441.350000 Text = Previous Policy No.Previous Policy Expiry Date
+
+GroupedByY [56] : X = 429.000000 Y = 441.350000 Text = 18-Sep-2026
+
+GroupedByY [57] : X = 3.750000 Y = 447.910000 Text = Br
+
+GroupedByY [58] : X = 155.250000 Y = 452.600000 Text = Go Digit General Insurance Limited
+
+GroupedByY [58] : X = 47.250000 Y = 452.600000 Text = Previous Insurer
+
+GroupedByY [59] : X = 2.250000 Y = 455.060000 Text = 22
+
+GroupedByY [60] : X = 46.500000 Y = 463.850000 Text = OTHER DETAILS
+
+GroupedByY [61] : X = 45.750000 Y = 466.920000 Text = from Policy Issue Date. 
+
+GroupedByY [62] : X = 45.750000 Y = 473.830000 Text = 4. In case you have any queries or note any discrepancies in the photographs/RC/any other document, please reach out to us at 1800-258-5956 within 7 days 
+
+GroupedByY [62] : X = 6.000000 Y = 474.910000 Text = fal
+
+GroupedByY [63] : X = 45.750000 Y = 480.740000 Text = fact as per policy terms and conditions. 
+
+GroupedByY [64] : X = 48.000000 Y = 485.250000 Text = IA2634638792026-09-109850.251773.040.000.000.000.0011623.29
+
+GroupedByY [65] : X = 45.750000 Y = 487.650000 Text = 3. Please note that the Company reserves the right to deny a claim as well as cancel the policy in case of fraud, misrepresentation, non-disclosure of material 
+
+GroupedByY [65] : X = 0.000000 Y = 488.600000 Text = 9
+
+GroupedByY [66] : X = 45.750000 Y = 494.560000 Text = 2. Pre-existing Damages: All types of pre-existing damages or cost of repair of such damage shall be excluded at the time of claim settlement. 
+
+GroupedByY [67] : X = 45.750000 Y = 501.470000 Text = below. 
+
+GroupedByY [67] : X = 48.000000 Y = 501.950000 Text = Invoice NumberInvoice DateNet Premium    Igst   Cgst   Sgst   Utgst   CessGross Premium
+
+GroupedByY [68] : X = 45.750000 Y = 508.380000 Text = 1. Images of photographs of Insured Vehicle, RTO Registration Certificate (RC) and any other document submitted by you during pre-inspection are reproduced 
+
+GroupedByY [68] : X = 0.000000 Y = 509.500000 Text = 844.15
+
+GroupedByY [69] : X = 45.750000 Y = 515.290000 Text =  
+
+GroupedByY [70] : X = 48.000000 Y = 519.950000 Text = ENDORSEMENT
+
+GroupedByY [71] : X = 45.750000 Y = 522.200000 Text = Photographs and documents submitted by you 
+
+GroupedByY [71] : X = 204.030000 Y = 522.200000 Text =  
+
+GroupedByY [71] : X = 45.000000 Y = 524.000000 Text = Call us at 
+
+GroupedByY [71] : X = 89.870000 Y = 524.000000 Text = 1800-258-5956
+
+GroupedByY [71] : X = 164.640000 Y = 524.000000 Text =  to update your contact details. This will help us give you a smooth claim process.
+
+GroupedByY [72] : X = 3.750000 Y = 534.160000 Text = MA
+
+GroupedByY [73] : X = 452.900000 Y = 537.800000 Text = iv. Bank Name : 
+
+GroupedByY [74] : X = 452.900000 Y = 545.200000 Text = iii. Branch : 
+
+GroupedByY [74] : X = 48.000000 Y = 546.400000 Text = The Policy has been issued subject to your affirmative declaration that a valid FASTag has been affixed on the insured vehicle.
+
+GroupedByY [74] : X = 351.800000 Y = 548.190000 Text =  
+
+GroupedByY [74] : X = 48.500000 Y = 548.900000 Text =    
+
+GroupedByY [75] : X = 452.900000 Y = 552.600000 Text = ii. IFSC code : 
+
+GroupedByY [76] : X = 53.250000 Y = 554.840000 Text = Email:
+
+GroupedByY [76] : X = 82.500000 Y = 555.170000 Text = mxxxxxxxxxx4@gxxxxxcom
+
+GroupedByY [77] : X = 0.000000 Y = 559.000000 Text = 59.4
+
+GroupedByY [77] : X = 452.900000 Y = 560.010000 Text = i. Bank a/c no : 
+
+GroupedByY [77] : X = 321.000000 Y = 560.840000 Text = Partner Email :
+
+GroupedByY [77] : X = 384.750000 Y = 561.170000 Text = contactus@heuteandmorgen.com
+
+GroupedByY [78] : X = 48.000000 Y = 564.200000 Text = FASTag NUMBER DECLARATION
+
+GroupedByY [78] : X = 8.250000 Y = 565.310000 Text = 614.8
+
+GroupedByY [79] : X = 452.900000 Y = 573.910000 Text = iv. Bank Name : 
+
+GroupedByY [80] : X = 452.900000 Y = 581.310000 Text = iii. Branch : 
+
+GroupedByY [80] : X = 126.750000 Y = 582.920000 Text = xxxxxxxxx3771
+
+GroupedByY [80] : X = 0.750000 Y = 583.000000 Text = 23.58
+
+GroupedByY [80] : X = 53.250000 Y = 583.340000 Text = Mobile Number:
+
+GroupedByY [80] : X = 205.460000 Y = 583.580000 Text = Number.
+
+GroupedByY [80] : X = 351.800000 Y = 584.300000 Text =  
+
+GroupedByY [80] : X = 4.500000 Y = 585.010000 Text = 1
+
+GroupedByY [80] : X = 48.500000 Y = 585.020000 Text =    
+
+GroupedByY [81] : X = 48.750000 Y = 587.040000 Text = Odometer
+
+GroupedByY [81] : X = 114.460000 Y = 587.040000 Text = 58512
+
+GroupedByY [81] : X = 256.010000 Y = 587.040000 Text = NA
+
+GroupedByY [81] : X = 341.940000 Y = 587.040000 Text = Financier Details
+
+GroupedByY [81] : X = 452.900000 Y = 588.720000 Text = ii. IFSC code : 
+
+GroupedByY [81] : X = 46.500000 Y = 588.880000 Text = call on 1800-258-5956 in case you require further help.
+
+GroupedByY [81] : X = 205.460000 Y = 590.490000 Text = FASTag 
+
+GroupedByY [82] : X = 426.000000 Y = 595.670000 Text = 8601654647
+
+GroupedByY [82] : X = 321.000000 Y = 596.090000 Text = Partner Mobile Number:
+
+GroupedByY [82] : X = 452.900000 Y = 596.120000 Text = i. Bank a/c no : 
+
+GroupedByY [82] : X = 46.500000 Y = 597.520000 Text = *Facilities mentioned above are offered by the garages. List of garages is subject to change in future. Please 
+
+GroupedByY [83] : X = 0.750000 Y = 600.910000 Text = 10
+
+GroupedByY [83] : X = 3.000000 Y = 602.260000 Text = 1
+
+GroupedByY [83] : X = 256.010000 Y = 603.900000 Text = L
+
+GroupedByY [83] : X = 0.000000 Y = 603.910000 Text = M
+
+GroupedByY [84] : X = 48.750000 Y = 607.360000 Text = Engine No.
+
+GroupedByY [84] : X = 114.460000 Y = 607.360000 Text = 2719485
+
+GroupedByY [84] : X = 205.460000 Y = 607.360000 Text = Chassis No.
+
+GroupedByY [84] : X = 341.940000 Y = 607.360000 Text = Cubic Capacity
+
+GroupedByY [84] : X = 443.040000 Y = 607.360000 Text = 1368 CC
+
+GroupedByY [84] : X = 411.750000 Y = 608.100000 Text = WhatsApp at 
+
+GroupedByY [84] : X = 450.470000 Y = 608.100000 Text = 702 606 1234
+
+GroupedByY [84] : X = 452.900000 Y = 610.020000 Text = iv. Bank Name : 
+
+GroupedByY [84] : X = 120.750000 Y = 610.670000 Text = D272363175 / 10092026
+
+GroupedByY [84] : X = 256.010000 Y = 610.810000 Text = MCAAJPBH8LFA655468
+
+GroupedByY [84] : X = 53.250000 Y = 611.090000 Text = Policy Number:
+
+GroupedByY [84] : X = 46.500000 Y = 611.700000 Text = • Complete cashless facility                   • 6 Months warranty on repairs                • Complimentary Pick-up & Drop
+
+GroupedByY [84] : X = 6.000000 Y = 612.160000 Text = P
+
+GroupedByY [84] : X = 411.750000 Y = 614.030000 Text =  For instant resolution, you can ping us “Hi” on 
+
+GroupedByY [85] : X = 48.500000 Y = 617.430000 Text = SINGH .   - -   - -Spouse
+
+GroupedByY [85] : X = 452.900000 Y = 617.430000 Text = iii. Branch : 
+
+GroupedByY [86] : X = 411.750000 Y = 619.950000 Text = Click here to view the certificate. 
+
+GroupedByY [86] : X = 351.800000 Y = 620.420000 Text =  
+
+GroupedByY [86] : X = 402.350000 Y = 621.130000 Text = 100
+
+GroupedByY [86] : X = 0.000000 Y = 622.750000 Text = 4689.74
+
+GroupedByY [86] : X = 341.940000 Y = 624.220000 Text = Manufacturing
+
+GroupedByY [86] : X = 48.500000 Y = 624.830000 Text = JAISHREE 
+
+GroupedByY [86] : X = 452.900000 Y = 624.830000 Text = ii. IFSC code : 
+
+GroupedByY [86] : X = 411.750000 Y = 625.870000 Text = Hey, our document is now digitally signed 
+
+GroupedByY [86] : X = 48.750000 Y = 627.670000 Text = Seating Capacity
+
+GroupedByY [86] : X = 114.460000 Y = 627.670000 Text = 5
+
+GroupedByY [86] : X = 205.460000 Y = 627.670000 Text = Fuel Type
+
+GroupedByY [86] : X = 256.010000 Y = 627.670000 Text = Petrol
+
+GroupedByY [86] : X = 443.040000 Y = 627.670000 Text = 2020/0001-01-01
+
+GroupedByY [86] : X = 387.000000 Y = 629.420000 Text = 1075248
+
+GroupedByY [86] : X = 321.000000 Y = 629.840000 Text = Partner Code :
+
+GroupedByY [86] : X = 341.940000 Y = 631.130000 Text = Year of Regn./ 
+
+GroupedByY [86] : X = 411.750000 Y = 631.800000 Text = KARNATAKA. 
+
+GroupedByY [86] : X = 452.900000 Y = 632.230000 Text = i. Bank a/c no : 
+
+GroupedByY [87] : X = 0.000000 Y = 634.660000 Text = G0
+
+GroupedByY [88] : X = 411.750000 Y = 637.720000 Text = and Registration , Bengaluru- 560009  - 
+
+GroupedByY [88] : X = 141.000000 Y = 638.420000 Text = DL2CBB8461
+
+GroupedByY [88] : X = 53.250000 Y = 638.590000 Text = Registration Number:
+
+GroupedByY [89] : X = 46.500000 Y = 640.610000 Text = process.
+
+GroupedByY [90] : X = 411.750000 Y = 643.640000 Text = 30th May 2017 issued by Department of Stamps 
+
+GroupedByY [90] : X = 341.940000 Y = 644.540000 Text = Type)
+
+GroupedByY [90] : X = 443.040000 Y = 644.540000 Text = DDCT
+
+GroupedByY [90] : X = 240.590000 Y = 646.200000 Text = address)
+
+GroupedByY [90] : X = 48.750000 Y = 647.990000 Text = RTO Location
+
+GroupedByY [90] : X = 205.460000 Y = 647.990000 Text = Make
+
+GroupedByY [90] : X = 256.010000 Y = 647.990000 Text = JEEP
+
+GroupedByY [90] : X = 46.500000 Y = 648.380000 Text = You can take your car to any of the listed network garages in case anything happens, and we assure you a hassle-free claim 
+
+GroupedByY [90] : X = 114.460000 Y = 648.710000 Text = DL2C
+
+GroupedByY [90] : X = 411.750000 Y = 649.560000 Text = Letter of Authorization No.67-B/04/2017-18 Date: 
+
+GroupedByY [90] : X = 341.940000 Y = 651.450000 Text = Model/Vehicle Variant (Sub-
+
+GroupedByY [90] : X = 443.040000 Y = 651.450000 Text = COMPASS/1.4 SPORT MAIR 
+
+GroupedByY [91] : X = 240.590000 Y = 654.350000 Text = present 
+
+GroupedByY [91] : X = 411.750000 Y = 655.490000 Text = Consolidated Stamp Duty has been paid as per 
+
+GroupedByY [91] : X = 46.500000 Y = 656.160000 Text = Stay Calm and just relax! We will take care of everything!
+
+GroupedByY [91] : X = 384.000000 Y = 656.920000 Text = BROKER PRIVATE LIMITED
+
+GroupedByY [91] : X = 2.250000 Y = 657.010000 Text = 01
+
+GroupedByY [91] : X = 46.500000 Y = 657.710000 Text = For Claims Notification and Procedure click here.
+
+GroupedByY [92] : X = 411.750000 Y = 661.410000 Text = Printed, Signed, and Executed at Bengaluru 
+
+GroupedByY [92] : X = 90.750000 Y = 661.770000 Text = MAAN SINGH
+
+GroupedByY [92] : X = 240.590000 Y = 662.490000 Text = same as 
+
+GroupedByY [92] : X = 321.000000 Y = 662.840000 Text = Partner Name:
+
+GroupedByY [92] : X = 384.000000 Y = 662.870000 Text = HEUTE AND MORGEN INSURANCE 
+
+GroupedByY [92] : X = 46.500000 Y = 663.630000 Text = 702 606 1234 
+
+GroupedByY [92] : X = 46.500000 Y = 663.930000 Text = you. That’s a promise!
+
+GroupedByY [92] : X = 53.250000 Y = 665.090000 Text = Name: 
+
+GroupedByY [93] : X = 42.750000 Y = 667.100000 Text = YOUR VEHICLE DETAILS
+
+GroupedByY [93] : X = 411.750000 Y = 667.330000 Text = Authorized Signatory 
+
+GroupedByY [94] : X = 46.500000 Y = 669.550000 Text = For instant resolution, you can ping us “Hi” on WhatsApp at 
+
+GroupedByY [94] : X = 240.590000 Y = 670.630000 Text = required, if
+
+GroupedByY [94] : X = 351.800000 Y = 670.630000 Text = minor)
+
+GroupedByY [94] : X = 46.500000 Y = 671.700000 Text = We hope that you do not get in a situation when you have to file a claim. However, if that happens, we are always there for 
+
+GroupedByY [94] : X = 411.750000 Y = 673.250000 Text = praveen.bhat@godigit.com 
+
+GroupedByY [95] : X = 46.500000 Y = 675.470000 Text = Bike, Health & Travel Insurance Online . 
+
+GroupedByY [96] : X = 94.000000 Y = 678.780000 Text = Nominee
+
+GroupedByY [96] : X = 190.040000 Y = 678.780000 Text = Nominee
+
+GroupedByY [96] : X = 240.590000 Y = 678.780000 Text = (Not 
+
+GroupedByY [96] : X = 291.140000 Y = 678.780000 Text = Person
+
+GroupedByY [96] : X = 351.800000 Y = 678.780000 Text = Nominee is
+
+GroupedByY [96] : X = 411.750000 Y = 679.180000 Text = Senior Vice President - Customer Experience 
+
+GroupedByY [96] : X = 0.000000 Y = 679.850000 Text = N
+
+GroupedByY [96] : X = 46.500000 Y = 681.400000 Text = hello@godigit.com or visit our website Digit Insurance: Car, 
+
+GroupedByY [97] : X = 411.750000 Y = 685.100000 Text = Praveen Bhat 
+
+GroupedByY [97] : X = 94.000000 Y = 686.920000 Text = of 
+
+GroupedByY [97] : X = 139.490000 Y = 686.920000 Text = Nominee
+
+GroupedByY [97] : X = 190.040000 Y = 686.920000 Text = the 
+
+GroupedByY [97] : X = 240.590000 Y = 686.920000 Text = Nominee 
+
+GroupedByY [97] : X = 291.140000 Y = 686.920000 Text = with Insured 
+
+GroupedByY [97] : X = 351.800000 Y = 686.920000 Text = person (If 
+
+GroupedByY [97] : X = 402.350000 Y = 686.920000 Text = amount
+
+GroupedByY [97] : X = 46.500000 Y = 687.320000 Text = Call Centre at 1800-258-5956 or email us at 
+
+GroupedByY [98] : X = 47.250000 Y = 691.870000 Text = Digit Private Car Pay As You Drive and 12000 KM plan (IRDAN158RP0005V01201718/A0036V01202425) also comes under the above Addon cover
+
+GroupedByY [98] : X = 46.500000 Y = 693.240000 Text = In case of claim or any other query, please contact our 24-hour 
+
+GroupedByY [98] : X = 48.500000 Y = 695.070000 Text = Nominee
+
+GroupedByY [98] : X = 94.000000 Y = 695.070000 Text = number 
+
+GroupedByY [98] : X = 139.490000 Y = 695.070000 Text = of 
+
+GroupedByY [98] : X = 190.040000 Y = 695.070000 Text = Address of
+
+GroupedByY [98] : X = 240.590000 Y = 695.070000 Text = Address of
+
+GroupedByY [98] : X = 291.140000 Y = 695.070000 Text = of Nominee 
+
+GroupedByY [98] : X = 351.800000 Y = 695.070000 Text = authorized
+
+GroupedByY [98] : X = 402.350000 Y = 695.070000 Text = e of claim 
+
+GroupedByY [98] : X = 452.900000 Y = 695.070000 Text = Account of Nominee
+
+GroupedByY [98] : X = 113.210000 Y = 695.940000 Text = This is the end of the document and the beginning of a wonderful relationship.
+
+GroupedByY [99] : X = 373.280000 Y = 699.130000 Text = PARTNER DETAILSYOUR DETAILS
+
+GroupedByY [99] : X = 46.500000 Y = 699.170000 Text = Wish to go through your detailed policy wordings, click here. 
+
+GroupedByY [100] : X = 48.500000 Y = 703.210000 Text = Name of 
+
+GroupedByY [100] : X = 94.000000 Y = 703.210000 Text = Mobile 
+
+GroupedByY [100] : X = 139.490000 Y = 703.210000 Text = E-mail Id 
+
+GroupedByY [100] : X = 190.040000 Y = 703.210000 Text = Present 
+
+GroupedByY [100] : X = 240.590000 Y = 703.210000 Text = Permanent
+
+GroupedByY [100] : X = 291.140000 Y = 703.210000 Text = Relationship 
+
+GroupedByY [100] : X = 351.800000 Y = 703.210000 Text = Details of 
+
+GroupedByY [100] : X = 402.350000 Y = 703.210000 Text = Percentag
+
+GroupedByY [100] : X = 452.900000 Y = 703.210000 Text = Details of Bank 
+
+GroupedByY [101] : X = 47.500000 Y = 705.650000 Text = Digit Private Car Key & Lock ProtectCover Only 1 Claims Per Year/Max SI-30000IRDAN158RP0005V01201718/A0068V01202021
+
+GroupedByY [102] : X = 48.250000 Y = 718.050000 Text = Nominee Details
+
+GroupedByY [103] : X = 47.500000 Y = 720.150000 Text = Digit Private Car Loss of Personal BelongingsCover Only 1 Claims Per Year/Max SI-30000IRDAN158RP0005V01201718/A0069V01202021
+
+GroupedByY [104] : X = 411.750000 Y = 723.220000 Text = For & On Behalf of Go Digit General Insurance Ltd.
+
+GroupedByY [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+GroupedByY [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+GroupedByY [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+GroupedByY [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+GroupedByY [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+GroupedByY [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+GroupedByY [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+GroupedByY [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+GroupedByY [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+GroupedByY [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+GroupedByY [107] : X = 3.750000 Y = 815.260000 Text = PB
+
+GroupedByY [107] : X = 3.750000 Y = 815.260000 Text = PB
+
+GroupedByY [107] : X = 3.750000 Y = 815.260000 Text = PB
+
+GroupedByY [107] : X = 3.750000 Y = 815.260000 Text = PB
+
+GroupedByY [107] : X = 3.750000 Y = 815.260000 Text = PB
+
+SortedByX [0] : X = 12.000000 Y = 13.510000 Text = 1
+
+SortedByX [1] : X = 10.500000 Y = 42.910000 Text = 1075
+
+SortedByX [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+SortedByX [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+SortedByX [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+SortedByX [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+SortedByX [2] : X = 12.000000 Y = 59.910000 Text = www.godigit.com
+
+SortedByX [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+SortedByX [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+SortedByX [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+SortedByX [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+SortedByX [3] : X = 12.000000 Y = 65.830000 Text = HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 | 
+
+SortedByX [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+SortedByX [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+SortedByX [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+SortedByX [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+SortedByX [4] : X = 12.000000 Y = 71.750000 Text = belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q, 
+
+SortedByX [5] : X = 11.250000 Y = 79.660000 Text = D20
+
+SortedByX [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+SortedByX [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+SortedByX [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+SortedByX [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+SortedByX [5] : X = 12.000000 Y = 77.680000 Text = Bengaluru 560095 | Registered Office Address: 1 to 6 floors, Ananta One (AR One), Pride Hotel Lane, Narveer Tanaji Wadi, Shivajinagar, Pune-411005, Maharashtra | Trade logo of GDGIL displayed above 
+
+SortedByX [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+SortedByX [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+SortedByX [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+SortedByX [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+SortedByX [6] : X = 12.000000 Y = 83.600000 Text = Go Digit General Insurance Limited (“GDGIL”) | CIN: L66010PN2016PLC167410 | IRDAI Regn. No. 158 | Corporate Office Address: Atlantis, 95, 4th B Cross Road, Koramangala Industrial Layout, 5th Block, 
+
+SortedByX [7] : X = 435.750000 Y = 91.400000 Text = Page No: 1 of 5
+
+SortedByX [7] : X = 435.750000 Y = 91.400000 Text = Page No: 2 of 5
+
+SortedByX [7] : X = 435.750000 Y = 91.400000 Text = Page No: 3 of 5
+
+SortedByX [7] : X = 435.750000 Y = 91.400000 Text = Page No: 4 of 5
+
+SortedByX [7] : X = 435.750000 Y = 91.400000 Text = Page No: 5 of 5
+
+SortedByX [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+SortedByX [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+SortedByX [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+SortedByX [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+SortedByX [8] : X = 434.250000 Y = 98.900000 Text = Policy No: D272363175
+
+SortedByX [9] : X = 47.500000 Y = 118.400000 Text = Digit Private Car Parts Depreciation ProtectCover Unlimited ClaimsIRDAN158RP0005V01201718/A0009V01201718
+
+SortedByX [10] : X = 46.000000 Y = 134.040000 Text = remaining period of policy .
+
+SortedByX [10] : X = 47.500000 Y = 132.900000 Text = Digit Private Car Engine and Gear Box ProtectMaximum of one claim would be payableIRDAN158RP0005V01201718/A0010V01201718
+
+SortedByX [11] : X = 46.000000 Y = 139.230000 Text = If the “Own Damage Cover” under your policy is cancelled during the policy period, then your policy shall be governed by the standard terms and conditions of “Act only” policy for the Third Party Cover during the 
+
+SortedByX [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+SortedByX [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+SortedByX [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+SortedByX [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+SortedByX [12] : X = 37.281701 Y = 144.954312 Text = MAAN SINGH DL2CBB8461 JEEP COMPASS 2026-09-19 2027-09-18 Digit Private Car Policy
+
+SortedByX [12] : X = 46.000000 Y = 146.060000 Text = Loss and/or Theft claim, applicable subsidy amount availed as per government policy will be reduced from IDV for claim settlement.
+
+SortedByX [12] : X = 47.500000 Y = 147.400000 Text = Digit Private Car Breakdown Assistance IRDAN158RP0005V01201718/A0014V02201718
+
+SortedByX [13] : X = 46.000000 Y = 152.970000 Text = In case of an accident to your vehicle, please intimate us immediately for SPOT SURVEY. Failure to intimate in time could prejudice your claim. In case of Total 
+
+SortedByX [14] : X = 46.000000 Y = 160.880000 Text = vehicle inspection
+
+SortedByX [14] : X = 47.500000 Y = 161.900000 Text = Digit Private Car Consumable CoverCover Unlimited ClaimsIRDAN158RP0005V01201718/A0008V01201718
+
+SortedByX [15] : X = 46.000000 Y = 167.790000 Text = handicap person, driver tuition, fiber glass, CNG/ LPG unit, geographical extension, imported vehicle etc., wherever applicable). GDD -  Subject to successful 
+
+SortedByX [16] : X = 46.000000 Y = 174.700000 Text = Note: 
+
+SortedByX [16] : X = 63.790000 Y = 174.700000 Text = The above total OD premium is inclusive of all applicable loading / discounts viz (automobile association memberships, voluntary excess, anti-theft 
+
+SortedByX [16] : X = 108.530000 Y = 176.960000 Text = Optional CoverOptional Coverage Details
+
+SortedByX [16] : X = 458.150000 Y = 176.200000 Text = UIN
+
+SortedByX [17] : X = 4.500000 Y = 188.410000 Text = 1003
+
+SortedByX [18] : X = 45.000000 Y = 192.910000 Text = Note: The policy is issued in utmost good faith, relying on the information shared by insured at the time of obtaining the policy. The terms and conditions detailed in this policy schedule as well as the policy document sent by Digit shall prevail in case of any dispute.
+
+SortedByX [18] : X = 46.500000 Y = 193.100000 Text = Final Premium
+
+SortedByX [18] : X = 49.000000 Y = 195.900000 Text = Address
+
+SortedByX [18] : X = 99.750000 Y = 195.310000 Text = (`)
+
+SortedByX [18] : X = 133.930000 Y = 194.400000 Text = H NO-WB-120 A GALI NO-5 SHAKARPUR  EAST DELHI 110092,New Delhi-110001
+
+SortedByX [18] : X = 278.250000 Y = 193.100000 Text = 11623.29
+
+SortedByX [19] : X = 45.000000 Y = 202.780000 Text = inspection of the vehicle and in such a case, Own Damage cover (Section -I) of the policy would not commence unless the pre-inspection of the vehicle has been done and the acceptance of risk is subject to evaluation of the vehicle inspection report. In case of any adverse findings in the report, the Company, at its discretion, may cancel the Policy as per the Motor Tariff. 
+
+SortedByX [20] : X = 45.000000 Y = 212.650000 Text = claim settlement,as per the attached images. Important Notice: The company may cancel the policy by sending 7 days notice in case of fraud, misrepresentation, non disclosure of material fact or non co-operation of the insured. This policy is subject to the standard policy wordings, warranties and conditions applicable for this product in addition to Indian Motor Tariff. Break in Insurance: In case of a break-in, the company may conduct pre-
+
+SortedByX [20] : X = 209.760000 Y = 213.200000 Text = 18-Sep-202723:59:59
+
+SortedByX [20] : X = 336.140000 Y = 212.490000 Text =   
+
+SortedByX [20] : X = 518.450000 Y = 211.850000 Text = 1233.51
+
+SortedByX [21] : X = 46.500000 Y = 215.650000 Text = IGST @18%=(
+
+SortedByX [21] : X = 90.570000 Y = 215.650000 Text = `
+
+SortedByX [21] : X = 94.070000 Y = 215.650000 Text = 1773.04)
+
+SortedByX [22] : X = 48.000000 Y = 217.750000 Text = PA Owner-DriverTo
+
+SortedByX [22] : X = 278.250000 Y = 219.350000 Text = 1773.04
+
+SortedByX [22] : X = 512.450000 Y = 220.100000 Text = 1009.24
+
+SortedByX [23] : X = 45.000000 Y = 222.520000 Text = or driven otherwise than in accordance with this Schedule. Any payment made by the Company by reason of wider terms appearing in Certificate in order to comply with the Motor Vehicle Act, 1988 is recoverable from the insured. See the Clause headed (Avoidance Of Certain Terms And Right Of Recovery) in the policy. Pre-existing Damages: All types of pre-existing damages or cost of repair of such damage will be excluded at the time of 
+
+SortedByX [23] : X = 48.000000 Y = 225.150000 Text = Period of Policy for
+
+SortedByX [23] : X = 507.000000 Y = 223.510000 Text = 50
+
+SortedByX [24] : X = 45.000000 Y = 232.390000 Text = dishonor / Non-receipt of payment premium paid through Cheque, the policy is void ab-initio in case of dishonor of Cheque or non-receipt of payment. Violation of Motor Vehicle Act: This policy is issued in accordance with the provision of Chapter X and Chapter XI of MV act, 1988 and any subsequent amendment as applicable. Any violation will forfeit all benefits and coverages under the Policy. The insured is not indemnified if the vehicle is used 
+
+SortedByX [24] : X = 47.250000 Y = 230.600000 Text = Net Premium 
+
+SortedByX [24] : X = 98.250000 Y = 230.910000 Text = (`)
+
+SortedByX [24] : X = 144.050000 Y = 229.700000 Text = From
+
+SortedByX [24] : X = 209.760000 Y = 229.700000 Text = 19-Sep-202600:00:01
+
+SortedByX [24] : X = 278.250000 Y = 231.350000 Text = 9850.25
+
+SortedByX [24] : X = 336.140000 Y = 228.690000 Text =   
+
+SortedByX [24] : X = 481.680000 Y = 233.660000 Text = 1234
+
+SortedByX [24] : X = 531.180000 Y = 232.100000 Text = 3416
+
+SortedByX [25] : X = 9.750000 Y = 247.510000 Text = IUA
+
+SortedByX [25] : X = 45.000000 Y = 242.260000 Text = and coverages under the Policy in respect of section I of the Policy will stand forfeited. If there is any disagreement, write to us within 7 days from the date of issuance of policy or before the start date of period of insurance whichever is earlier.PUC Declaration: The Policy has been issued subject to valid Pollution Under Control (PUC) Certificate disclosed by you as an insured on or before the date of commencement of the Policy . Cheque 
+
+SortedByX [25] : X = 47.250000 Y = 243.350000 Text = Total OD Premium Total Act Premium 
+
+SortedByX [25] : X = 111.000000 Y = 244.410000 Text = (`)
+
+SortedByX [25] : X = 209.760000 Y = 246.200000 Text = 18-Sep-202723:59:59
+
+SortedByX [25] : X = 245.450000 Y = 243.350000 Text = 6054.25
+
+SortedByX [25] : X = 336.140000 Y = 246.200000 Text = Compulsory Deductible (
+
+SortedByX [25] : X = 340.500000 Y = 245.560000 Text = (`)
+
+SortedByX [25] : X = 423.740000 Y = 246.200000 Text = `
+
+SortedByX [25] : X = 427.490000 Y = 246.200000 Text = )
+
+SortedByX [25] : X = 457.460000 Y = 246.960000 Text = 1000
+
+SortedByX [25] : X = 478.700000 Y = 243.350000 Text = 3796.00
+
+SortedByX [26] : X = 45.000000 Y = 252.140000 Text =  NCB Declaration: The premium has been charged and policy has been issued subject to NCB declared by you as an insured. In the event of NCB found wrongly declared at any point of time during policy period, all benefits 
+
+SortedByX [26] : X = 48.000000 Y = 250.750000 Text = Third Party LiabilityTo
+
+SortedByX [27] : X = 48.000000 Y = 258.150000 Text = Period of Policy for
+
+SortedByX [27] : X = 276.750000 Y = 256.150000 Text = PA cover for Paid Driver (
+
+SortedByX [27] : X = 356.800000 Y = 256.150000 Text = `
+
+SortedByX [27] : X = 360.300000 Y = 256.150000 Text = )
+
+SortedByX [28] : X = 4.500000 Y = 263.410000 Text = 10
+
+SortedByX [28] : X = 45.000000 Y = 262.010000 Text = amendment as applicable. Limits of Liability: 1) Under Section I of the policy _ IDV as shown in the schedule. 2) Under Section II - 1 (i)of the policy: Death of or bodily injury _ Such amount as is necessary to meet the requirements of the Motor Vehicles Act, 1988. 3) Under Section II _ 1 (ii)of the policy: Damage to Third Party Property _ `750000 4) P.A. Cover for Owner Driver under Section III (CSI) - `1500000 
+
+SortedByX [28] : X = 144.050000 Y = 262.700000 Text = From
+
+SortedByX [28] : X = 209.760000 Y = 262.700000 Text = 19-Sep-202600:00:01
+
+SortedByX [28] : X = 336.140000 Y = 262.700000 Text = Voluntary Deductible (
+
+SortedByX [28] : X = 416.430000 Y = 262.700000 Text = `
+
+SortedByX [28] : X = 420.180000 Y = 262.700000 Text = )
+
+SortedByX [28] : X = 457.460000 Y = 262.700000 Text = 0.00
+
+SortedByX [29] : X = 276.750000 Y = 268.850000 Text = CNG/LPG Premium
+
+SortedByX [29] : X = 343.500000 Y = 268.150000 Text = (
+
+SortedByX [29] : X = 345.600000 Y = 268.150000 Text = `
+
+SortedByX [29] : X = 349.100000 Y = 268.150000 Text = )
+
+SortedByX [30] : X = 0.000000 Y = 272.410000 Text = 136
+
+SortedByX [30] : X = 6.750000 Y = 272.410000 Text = 46
+
+SortedByX [30] : X = 45.000000 Y = 271.880000 Text = entitled to drive: Any person including the insured 1) Provided that a person driving holds a valid &  effective driving license at the time of the accident and is not disqualified from holding or obtaining such a license. 2) Provided also that the person holding a valid &  effective Learner’s License may also drive the vehicle and that such a person satisfies the requirements of Rule 3 of the Central Motor Vehicles Rules, 1989 and any subsequent 
+
+SortedByX [31] : X = 0.000000 Y = 275.410000 Text = 32
+
+SortedByX [32] : X = 45.000000 Y = 281.750000 Text = Geographical Area: Any accidental loss, damage and/or liability caused, sustained or incurred within India  shall be covered subject to Policy Terms and Conditions, unless specifically agreed and endorsed.. Limitation as to use The policy covers use of the vehicle for any purpose other than hire or reward, racing, pace making, reliability trial, speed testing and use for any purpose in connection with the Motor Trade. Person or Class of persons 
+
+SortedByX [32] : X = 48.000000 Y = 283.750000 Text = Own Damage CoverTo
+
+SortedByX [32] : X = 209.760000 Y = 279.200000 Text = 18-Sep-202723:59:59
+
+SortedByX [32] : X = 276.750000 Y = 279.780000 Text = PA cover for 5 passengers 0 (
+
+SortedByX [32] : X = 336.140000 Y = 279.200000 Text = Additional Excess (
+
+SortedByX [32] : X = 370.370000 Y = 279.780000 Text = `
+
+SortedByX [32] : X = 373.870000 Y = 279.780000 Text = )
+
+SortedByX [32] : X = 404.120000 Y = 279.200000 Text = `
+
+SortedByX [32] : X = 407.870000 Y = 279.200000 Text = )
+
+SortedByX [32] : X = 457.460000 Y = 278.590000 Text = --
+
+SortedByX [32] : X = 498.670000 Y = 279.800000 Text = --
+
+SortedByX [33] : X = 7.500000 Y = 296.410000 Text = 100
+
+SortedByX [33] : X = 9.750000 Y = 290.410000 Text = 13
+
+SortedByX [33] : X = 45.000000 Y = 292.410000 Text = Follow these rules like you follow the rules of the road.
+
+SortedByX [33] : X = 46.500000 Y = 292.100000 Text = Own Damage Premium 
+
+SortedByX [33] : X = 48.000000 Y = 291.150000 Text = Period of Policy for
+
+SortedByX [33] : X = 128.250000 Y = 293.560000 Text = (`)
+
+SortedByX [33] : X = 144.050000 Y = 295.700000 Text = From
+
+SortedByX [33] : X = 209.760000 Y = 295.700000 Text = 19-Sep-202600:00:01
+
+SortedByX [33] : X = 245.450000 Y = 291.730000 Text = 6054.25
+
+SortedByX [33] : X = 276.750000 Y = 291.400000 Text = Legal Liability to Paid Driver (
+
+SortedByX [33] : X = 336.140000 Y = 295.700000 Text = NCB % (Current Policy)
+
+SortedByX [33] : X = 369.490000 Y = 291.400000 Text = `
+
+SortedByX [33] : X = 372.990000 Y = 291.400000 Text = )
+
+SortedByX [33] : X = 457.460000 Y = 295.700000 Text = 45%
+
+SortedByX [33] : X = 487.240000 Y = 294.410000 Text = 50.00
+
+SortedByX [34] : X = 3.000000 Y = 304.510000 Text = A
+
+SortedByX [34] : X = 46.500000 Y = 303.350000 Text = Others
+
+SortedByX [34] : X = 74.250000 Y = 303.660000 Text = (`)
+
+SortedByX [34] : X = 238.480000 Y = 303.350000 Text = -16387.49
+
+SortedByX [34] : X = 276.750000 Y = 303.350000 Text = Legal Liability to Employees 
+
+SortedByX [34] : X = 371.250000 Y = 303.660000 Text = (`)
+
+SortedByX [35] : X = 46.500000 Y = 316.910000 Text = NCB Discount Amount
+
+SortedByX [35] : X = 48.000000 Y = 312.200000 Text = Policy Issue Date
+
+SortedByX [35] : X = 48.000000 Y = 314.450000 Text = Details of Existing Damages
+
+SortedByX [35] : X = 129.000000 Y = 316.810000 Text = (`)
+
+SortedByX [35] : X = 144.050000 Y = 312.200000 Text = 10-Sep-2026
+
+SortedByX [35] : X = 159.210000 Y = 314.150000 Text = --
+
+SortedByX [35] : X = 209.760000 Y = 312.200000 Text = Invoice No.
+
+SortedByX [35] : X = 238.480000 Y = 316.910000 Text = -14418.00
+
+SortedByX [35] : X = 270.420000 Y = 312.200000 Text = IA263463879
+
+SortedByX [35] : X = 276.750000 Y = 314.600000 Text = PA cover for Owner-Driver
+
+SortedByX [35] : X = 336.140000 Y = 312.200000 Text = Invoice Date
+
+SortedByX [35] : X = 367.500000 Y = 314.910000 Text = (`)
+
+SortedByX [35] : X = 457.460000 Y = 312.200000 Text = 10-Sep-2026
+
+SortedByX [35] : X = 482.590000 Y = 317.660000 Text = 330.00
+
+SortedByX [36] : X = 46.500000 Y = 325.100000 Text = Total Basic Own Damage Premium
+
+SortedByX [36] : X = 48.000000 Y = 329.590000 Text = YOUR POLICY DETAILS
+
+SortedByX [36] : X = 48.000000 Y = 330.950000 Text = Other Details
+
+SortedByX [36] : X = 159.210000 Y = 330.650000 Text = --
+
+SortedByX [36] : X = 167.250000 Y = 328.060000 Text = (`)
+
+SortedByX [36] : X = 276.750000 Y = 325.850000 Text = Basic Third-Party Liability 
+
+SortedByX [36] : X = 365.250000 Y = 326.160000 Text = (`)
+
+SortedByX [36] : X = 478.700000 Y = 325.850000 Text = 3416.0032039.00
+
+SortedByX [37] : X = 160.500000 Y = 334.800000 Text = (`)(`)
+
+SortedByX [37] : X = 276.750000 Y = 334.090000 Text = LIABILITY PREMIUM [B]
+
+SortedByX [38] : X = 46.500000 Y = 339.500000 Text = OWN DAMAGE PREMIUM [A] 
+
+SortedByX [39] : X = 154.500000 Y = 346.560000 Text = 1974-05-02
+
+SortedByX [40] : X = 1.500000 Y = 349.510000 Text = A
+
+SortedByX [40] : X = 3.000000 Y = 349.510000 Text = A
+
+SortedByX [41] : X = 47.500000 Y = 351.550000 Text = Year 3--------------
+
+SortedByX [42] : X = 155.250000 Y = 354.350000 Text = Spouse
+
+SortedByX [43] : X = 2.250000 Y = 363.010000 Text = A
+
+SortedByX [43] : X = 9.750000 Y = 361.510000 Text = 14418
+
+SortedByX [43] : X = 47.250000 Y = 361.850000 Text = Nominee Details
+
+SortedByX [43] : X = 155.250000 Y = 363.350000 Text = JAISHREE SINGH .
+
+SortedByX [44] : X = 47.500000 Y = 366.550000 Text = Year 2
+
+SortedByX [44] : X = 82.880000 Y = 366.470000 Text = --
+
+SortedByX [44] : X = 133.430000 Y = 366.550000 Text = ------------
+
+SortedByX [45] : X = 0.000000 Y = 369.250000 Text = IGST
+
+SortedByX [45] : X = 0.750000 Y = 369.010000 Text = A
+
+SortedByX [45] : X = 2.250000 Y = 370.510000 Text = A1
+
+SortedByX [46] : X = 222.750000 Y = 373.100000 Text = RA314737726Receipt Number
+
+SortedByX [46] : X = 329.250000 Y = 373.850000 Text = Receipt DatePremium Payment Details
+
+SortedByX [47] : X = 429.000000 Y = 376.160000 Text = 10-Sep-2026
+
+SortedByX [48] : X = 0.000000 Y = 380.410000 Text = 13
+
+SortedByX [48] : X = 6.000000 Y = 381.010000 Text = A
+
+SortedByX [48] : X = 47.500000 Y = 381.550000 Text = Year 1929485
+
+SortedByX [48] : X = 133.430000 Y = 381.470000 Text = --------
+
+SortedByX [48] : X = 446.850000 Y = 381.550000 Text = 929485.001500000
+
+SortedByX [49] : X = 47.250000 Y = 385.100000 Text = Bank Name
+
+SortedByX [49] : X = 329.250000 Y = 385.100000 Text = IFSC/MICR No
+
+SortedByX [49] : X = 429.000000 Y = 384.720000 Text = --
+
+SortedByX [50] : X = 47.250000 Y = 397.100000 Text = Payment Mode
+
+SortedByX [50] : X = 82.880000 Y = 397.570000 Text = (`)
+
+SortedByX [50] : X = 133.430000 Y = 396.600000 Text = Accessories IDV 
+
+SortedByX [50] : X = 155.250000 Y = 396.720000 Text = Online
+
+SortedByX [50] : X = 192.790000 Y = 396.600000 Text = (`)
+
+SortedByX [50] : X = 244.640000 Y = 396.600000 Text = Accessories IDV 
+
+SortedByX [50] : X = 304.000000 Y = 396.600000 Text = (`)
+
+SortedByX [50] : X = 329.250000 Y = 397.100000 Text = Cheque/Transation No
+
+SortedByX [50] : X = 340.690000 Y = 396.600000 Text = IDV 
+
+SortedByX [50] : X = 355.990000 Y = 396.600000 Text = (`)
+
+SortedByX [50] : X = 401.350000 Y = 396.600000 Text = IDV 
+
+SortedByX [50] : X = 416.650000 Y = 396.600000 Text = (`)
+
+SortedByX [50] : X = 429.000000 Y = 397.100000 Text = 12_dp-DIC996A9077F24-1
+
+SortedByX [50] : X = 446.850000 Y = 396.600000 Text = IDV
+
+SortedByX [50] : X = 460.090000 Y = 396.600000 Text =  
+
+SortedByX [50] : X = 461.620000 Y = 396.600000 Text = (`)
+
+SortedByX [50] : X = 492.340000 Y = 396.600000 Text = Driver
+
+SortedByX [51] : X = 47.500000 Y = 400.300000 Text = YearVechicle IDV
+
+SortedByX [52] : X = 133.430000 Y = 404.000000 Text = Non-Electrical 
+
+SortedByX [52] : X = 244.640000 Y = 404.000000 Text = Electrical 
+
+SortedByX [52] : X = 340.690000 Y = 404.000000 Text = CNG/LPG 
+
+SortedByX [52] : X = 401.350000 Y = 404.000000 Text = Trailer 
+
+SortedByX [52] : X = 446.850000 Y = 404.000000 Text = Total 
+
+SortedByX [52] : X = 492.340000 Y = 404.000000 Text = PA Owner 
+
+SortedByX [53] : X = 47.250000 Y = 412.850000 Text = GSTIN/UIN No. 
+
+SortedByX [53] : X = 155.250000 Y = 413.680000 Text = Unregistered
+
+SortedByX [53] : X = 329.250000 Y = 412.850000 Text = State Code
+
+SortedByX [53] : X = 430.500000 Y = 412.850000 Text = 7
+
+SortedByX [54] : X = 45.000000 Y = 418.850000 Text = YOUR VEHICLE IDV 
+
+SortedByX [55] : X = 47.250000 Y = 427.850000 Text = IMT - Endorsements
+
+SortedByX [55] : X = 155.250000 Y = 427.850000 Text = IMT-22,IMT-28
+
+SortedByX [56] : X = 0.000000 Y = 441.160000 Text = 1
+
+SortedByX [56] : X = 47.250000 Y = 441.350000 Text = Previous Policy No.Previous Policy Expiry Date
+
+SortedByX [56] : X = 155.250000 Y = 441.350000 Text = D207592836
+
+SortedByX [56] : X = 429.000000 Y = 441.350000 Text = 18-Sep-2026
+
+SortedByX [57] : X = 3.750000 Y = 447.910000 Text = Br
+
+SortedByX [58] : X = 47.250000 Y = 452.600000 Text = Previous Insurer
+
+SortedByX [58] : X = 155.250000 Y = 452.600000 Text = Go Digit General Insurance Limited
+
+SortedByX [59] : X = 2.250000 Y = 455.060000 Text = 22
+
+SortedByX [60] : X = 46.500000 Y = 463.850000 Text = OTHER DETAILS
+
+SortedByX [61] : X = 45.750000 Y = 466.920000 Text = from Policy Issue Date. 
+
+SortedByX [62] : X = 6.000000 Y = 474.910000 Text = fal
+
+SortedByX [62] : X = 45.750000 Y = 473.830000 Text = 4. In case you have any queries or note any discrepancies in the photographs/RC/any other document, please reach out to us at 1800-258-5956 within 7 days 
+
+SortedByX [63] : X = 45.750000 Y = 480.740000 Text = fact as per policy terms and conditions. 
+
+SortedByX [64] : X = 48.000000 Y = 485.250000 Text = IA2634638792026-09-109850.251773.040.000.000.000.0011623.29
+
+SortedByX [65] : X = 0.000000 Y = 488.600000 Text = 9
+
+SortedByX [65] : X = 45.750000 Y = 487.650000 Text = 3. Please note that the Company reserves the right to deny a claim as well as cancel the policy in case of fraud, misrepresentation, non-disclosure of material 
+
+SortedByX [66] : X = 45.750000 Y = 494.560000 Text = 2. Pre-existing Damages: All types of pre-existing damages or cost of repair of such damage shall be excluded at the time of claim settlement. 
+
+SortedByX [67] : X = 45.750000 Y = 501.470000 Text = below. 
+
+SortedByX [67] : X = 48.000000 Y = 501.950000 Text = Invoice NumberInvoice DateNet Premium    Igst   Cgst   Sgst   Utgst   CessGross Premium
+
+SortedByX [68] : X = 0.000000 Y = 509.500000 Text = 844.15
+
+SortedByX [68] : X = 45.750000 Y = 508.380000 Text = 1. Images of photographs of Insured Vehicle, RTO Registration Certificate (RC) and any other document submitted by you during pre-inspection are reproduced 
+
+SortedByX [69] : X = 45.750000 Y = 515.290000 Text =  
+
+SortedByX [70] : X = 48.000000 Y = 519.950000 Text = ENDORSEMENT
+
+SortedByX [71] : X = 45.000000 Y = 524.000000 Text = Call us at 
+
+SortedByX [71] : X = 45.750000 Y = 522.200000 Text = Photographs and documents submitted by you 
+
+SortedByX [71] : X = 89.870000 Y = 524.000000 Text = 1800-258-5956
+
+SortedByX [71] : X = 164.640000 Y = 524.000000 Text =  to update your contact details. This will help us give you a smooth claim process.
+
+SortedByX [71] : X = 204.030000 Y = 522.200000 Text =  
+
+SortedByX [72] : X = 3.750000 Y = 534.160000 Text = MA
+
+SortedByX [73] : X = 452.900000 Y = 537.800000 Text = iv. Bank Name : 
+
+SortedByX [74] : X = 48.000000 Y = 546.400000 Text = The Policy has been issued subject to your affirmative declaration that a valid FASTag has been affixed on the insured vehicle.
+
+SortedByX [74] : X = 48.500000 Y = 548.900000 Text =    
+
+SortedByX [74] : X = 351.800000 Y = 548.190000 Text =  
+
+SortedByX [74] : X = 452.900000 Y = 545.200000 Text = iii. Branch : 
+
+SortedByX [75] : X = 452.900000 Y = 552.600000 Text = ii. IFSC code : 
+
+SortedByX [76] : X = 53.250000 Y = 554.840000 Text = Email:
+
+SortedByX [76] : X = 82.500000 Y = 555.170000 Text = mxxxxxxxxxx4@gxxxxxcom
+
+SortedByX [77] : X = 0.000000 Y = 559.000000 Text = 59.4
+
+SortedByX [77] : X = 321.000000 Y = 560.840000 Text = Partner Email :
+
+SortedByX [77] : X = 384.750000 Y = 561.170000 Text = contactus@heuteandmorgen.com
+
+SortedByX [77] : X = 452.900000 Y = 560.010000 Text = i. Bank a/c no : 
+
+SortedByX [78] : X = 8.250000 Y = 565.310000 Text = 614.8
+
+SortedByX [78] : X = 48.000000 Y = 564.200000 Text = FASTag NUMBER DECLARATION
+
+SortedByX [79] : X = 452.900000 Y = 573.910000 Text = iv. Bank Name : 
+
+SortedByX [80] : X = 0.750000 Y = 583.000000 Text = 23.58
+
+SortedByX [80] : X = 4.500000 Y = 585.010000 Text = 1
+
+SortedByX [80] : X = 48.500000 Y = 585.020000 Text =    
+
+SortedByX [80] : X = 53.250000 Y = 583.340000 Text = Mobile Number:
+
+SortedByX [80] : X = 126.750000 Y = 582.920000 Text = xxxxxxxxx3771
+
+SortedByX [80] : X = 205.460000 Y = 583.580000 Text = Number.
+
+SortedByX [80] : X = 351.800000 Y = 584.300000 Text =  
+
+SortedByX [80] : X = 452.900000 Y = 581.310000 Text = iii. Branch : 
+
+SortedByX [81] : X = 46.500000 Y = 588.880000 Text = call on 1800-258-5956 in case you require further help.
+
+SortedByX [81] : X = 48.750000 Y = 587.040000 Text = Odometer
+
+SortedByX [81] : X = 114.460000 Y = 587.040000 Text = 58512
+
+SortedByX [81] : X = 205.460000 Y = 590.490000 Text = FASTag 
+
+SortedByX [81] : X = 256.010000 Y = 587.040000 Text = NA
+
+SortedByX [81] : X = 341.940000 Y = 587.040000 Text = Financier Details
+
+SortedByX [81] : X = 452.900000 Y = 588.720000 Text = ii. IFSC code : 
+
+SortedByX [82] : X = 46.500000 Y = 597.520000 Text = *Facilities mentioned above are offered by the garages. List of garages is subject to change in future. Please 
+
+SortedByX [82] : X = 321.000000 Y = 596.090000 Text = Partner Mobile Number:
+
+SortedByX [82] : X = 426.000000 Y = 595.670000 Text = 8601654647
+
+SortedByX [82] : X = 452.900000 Y = 596.120000 Text = i. Bank a/c no : 
+
+SortedByX [83] : X = 0.000000 Y = 603.910000 Text = M
+
+SortedByX [83] : X = 0.750000 Y = 600.910000 Text = 10
+
+SortedByX [83] : X = 3.000000 Y = 602.260000 Text = 1
+
+SortedByX [83] : X = 256.010000 Y = 603.900000 Text = L
+
+SortedByX [84] : X = 6.000000 Y = 612.160000 Text = P
+
+SortedByX [84] : X = 46.500000 Y = 611.700000 Text = • Complete cashless facility                   • 6 Months warranty on repairs                • Complimentary Pick-up & Drop
+
+SortedByX [84] : X = 48.750000 Y = 607.360000 Text = Engine No.
+
+SortedByX [84] : X = 53.250000 Y = 611.090000 Text = Policy Number:
+
+SortedByX [84] : X = 114.460000 Y = 607.360000 Text = 2719485
+
+SortedByX [84] : X = 120.750000 Y = 610.670000 Text = D272363175 / 10092026
+
+SortedByX [84] : X = 205.460000 Y = 607.360000 Text = Chassis No.
+
+SortedByX [84] : X = 256.010000 Y = 610.810000 Text = MCAAJPBH8LFA655468
+
+SortedByX [84] : X = 341.940000 Y = 607.360000 Text = Cubic Capacity
+
+SortedByX [84] : X = 411.750000 Y = 608.100000 Text = WhatsApp at 
+
+SortedByX [84] : X = 411.750000 Y = 614.030000 Text =  For instant resolution, you can ping us “Hi” on 
+
+SortedByX [84] : X = 443.040000 Y = 607.360000 Text = 1368 CC
+
+SortedByX [84] : X = 450.470000 Y = 608.100000 Text = 702 606 1234
+
+SortedByX [84] : X = 452.900000 Y = 610.020000 Text = iv. Bank Name : 
+
+SortedByX [85] : X = 48.500000 Y = 617.430000 Text = SINGH .   - -   - -Spouse
+
+SortedByX [85] : X = 452.900000 Y = 617.430000 Text = iii. Branch : 
+
+SortedByX [86] : X = 0.000000 Y = 622.750000 Text = 4689.74
+
+SortedByX [86] : X = 48.500000 Y = 624.830000 Text = JAISHREE 
+
+SortedByX [86] : X = 48.750000 Y = 627.670000 Text = Seating Capacity
+
+SortedByX [86] : X = 114.460000 Y = 627.670000 Text = 5
+
+SortedByX [86] : X = 205.460000 Y = 627.670000 Text = Fuel Type
+
+SortedByX [86] : X = 256.010000 Y = 627.670000 Text = Petrol
+
+SortedByX [86] : X = 321.000000 Y = 629.840000 Text = Partner Code :
+
+SortedByX [86] : X = 341.940000 Y = 624.220000 Text = Manufacturing
+
+SortedByX [86] : X = 341.940000 Y = 631.130000 Text = Year of Regn./ 
+
+SortedByX [86] : X = 351.800000 Y = 620.420000 Text =  
+
+SortedByX [86] : X = 387.000000 Y = 629.420000 Text = 1075248
+
+SortedByX [86] : X = 402.350000 Y = 621.130000 Text = 100
+
+SortedByX [86] : X = 411.750000 Y = 619.950000 Text = Click here to view the certificate. 
+
+SortedByX [86] : X = 411.750000 Y = 625.870000 Text = Hey, our document is now digitally signed 
+
+SortedByX [86] : X = 411.750000 Y = 631.800000 Text = KARNATAKA. 
+
+SortedByX [86] : X = 443.040000 Y = 627.670000 Text = 2020/0001-01-01
+
+SortedByX [86] : X = 452.900000 Y = 624.830000 Text = ii. IFSC code : 
+
+SortedByX [86] : X = 452.900000 Y = 632.230000 Text = i. Bank a/c no : 
+
+SortedByX [87] : X = 0.000000 Y = 634.660000 Text = G0
+
+SortedByX [88] : X = 53.250000 Y = 638.590000 Text = Registration Number:
+
+SortedByX [88] : X = 141.000000 Y = 638.420000 Text = DL2CBB8461
+
+SortedByX [88] : X = 411.750000 Y = 637.720000 Text = and Registration , Bengaluru- 560009  - 
+
+SortedByX [89] : X = 46.500000 Y = 640.610000 Text = process.
+
+SortedByX [90] : X = 46.500000 Y = 648.380000 Text = You can take your car to any of the listed network garages in case anything happens, and we assure you a hassle-free claim 
+
+SortedByX [90] : X = 48.750000 Y = 647.990000 Text = RTO Location
+
+SortedByX [90] : X = 114.460000 Y = 648.710000 Text = DL2C
+
+SortedByX [90] : X = 205.460000 Y = 647.990000 Text = Make
+
+SortedByX [90] : X = 240.590000 Y = 646.200000 Text = address)
+
+SortedByX [90] : X = 256.010000 Y = 647.990000 Text = JEEP
+
+SortedByX [90] : X = 341.940000 Y = 644.540000 Text = Type)
+
+SortedByX [90] : X = 341.940000 Y = 651.450000 Text = Model/Vehicle Variant (Sub-
+
+SortedByX [90] : X = 411.750000 Y = 643.640000 Text = 30th May 2017 issued by Department of Stamps 
+
+SortedByX [90] : X = 411.750000 Y = 649.560000 Text = Letter of Authorization No.67-B/04/2017-18 Date: 
+
+SortedByX [90] : X = 443.040000 Y = 644.540000 Text = DDCT
+
+SortedByX [90] : X = 443.040000 Y = 651.450000 Text = COMPASS/1.4 SPORT MAIR 
+
+SortedByX [91] : X = 2.250000 Y = 657.010000 Text = 01
+
+SortedByX [91] : X = 46.500000 Y = 656.160000 Text = Stay Calm and just relax! We will take care of everything!
+
+SortedByX [91] : X = 46.500000 Y = 657.710000 Text = For Claims Notification and Procedure click here.
+
+SortedByX [91] : X = 240.590000 Y = 654.350000 Text = present 
+
+SortedByX [91] : X = 384.000000 Y = 656.920000 Text = BROKER PRIVATE LIMITED
+
+SortedByX [91] : X = 411.750000 Y = 655.490000 Text = Consolidated Stamp Duty has been paid as per 
+
+SortedByX [92] : X = 46.500000 Y = 663.630000 Text = 702 606 1234 
+
+SortedByX [92] : X = 46.500000 Y = 663.930000 Text = you. That’s a promise!
+
+SortedByX [92] : X = 53.250000 Y = 665.090000 Text = Name: 
+
+SortedByX [92] : X = 90.750000 Y = 661.770000 Text = MAAN SINGH
+
+SortedByX [92] : X = 240.590000 Y = 662.490000 Text = same as 
+
+SortedByX [92] : X = 321.000000 Y = 662.840000 Text = Partner Name:
+
+SortedByX [92] : X = 384.000000 Y = 662.870000 Text = HEUTE AND MORGEN INSURANCE 
+
+SortedByX [92] : X = 411.750000 Y = 661.410000 Text = Printed, Signed, and Executed at Bengaluru 
+
+SortedByX [93] : X = 42.750000 Y = 667.100000 Text = YOUR VEHICLE DETAILS
+
+SortedByX [93] : X = 411.750000 Y = 667.330000 Text = Authorized Signatory 
+
+SortedByX [94] : X = 46.500000 Y = 669.550000 Text = For instant resolution, you can ping us “Hi” on WhatsApp at 
+
+SortedByX [94] : X = 46.500000 Y = 671.700000 Text = We hope that you do not get in a situation when you have to file a claim. However, if that happens, we are always there for 
+
+SortedByX [94] : X = 240.590000 Y = 670.630000 Text = required, if
+
+SortedByX [94] : X = 351.800000 Y = 670.630000 Text = minor)
+
+SortedByX [94] : X = 411.750000 Y = 673.250000 Text = praveen.bhat@godigit.com 
+
+SortedByX [95] : X = 46.500000 Y = 675.470000 Text = Bike, Health & Travel Insurance Online . 
+
+SortedByX [96] : X = 0.000000 Y = 679.850000 Text = N
+
+SortedByX [96] : X = 46.500000 Y = 681.400000 Text = hello@godigit.com or visit our website Digit Insurance: Car, 
+
+SortedByX [96] : X = 94.000000 Y = 678.780000 Text = Nominee
+
+SortedByX [96] : X = 190.040000 Y = 678.780000 Text = Nominee
+
+SortedByX [96] : X = 240.590000 Y = 678.780000 Text = (Not 
+
+SortedByX [96] : X = 291.140000 Y = 678.780000 Text = Person
+
+SortedByX [96] : X = 351.800000 Y = 678.780000 Text = Nominee is
+
+SortedByX [96] : X = 411.750000 Y = 679.180000 Text = Senior Vice President - Customer Experience 
+
+SortedByX [97] : X = 46.500000 Y = 687.320000 Text = Call Centre at 1800-258-5956 or email us at 
+
+SortedByX [97] : X = 94.000000 Y = 686.920000 Text = of 
+
+SortedByX [97] : X = 139.490000 Y = 686.920000 Text = Nominee
+
+SortedByX [97] : X = 190.040000 Y = 686.920000 Text = the 
+
+SortedByX [97] : X = 240.590000 Y = 686.920000 Text = Nominee 
+
+SortedByX [97] : X = 291.140000 Y = 686.920000 Text = with Insured 
+
+SortedByX [97] : X = 351.800000 Y = 686.920000 Text = person (If 
+
+SortedByX [97] : X = 402.350000 Y = 686.920000 Text = amount
+
+SortedByX [97] : X = 411.750000 Y = 685.100000 Text = Praveen Bhat 
+
+SortedByX [98] : X = 46.500000 Y = 693.240000 Text = In case of claim or any other query, please contact our 24-hour 
+
+SortedByX [98] : X = 47.250000 Y = 691.870000 Text = Digit Private Car Pay As You Drive and 12000 KM plan (IRDAN158RP0005V01201718/A0036V01202425) also comes under the above Addon cover
+
+SortedByX [98] : X = 48.500000 Y = 695.070000 Text = Nominee
+
+SortedByX [98] : X = 94.000000 Y = 695.070000 Text = number 
+
+SortedByX [98] : X = 113.210000 Y = 695.940000 Text = This is the end of the document and the beginning of a wonderful relationship.
+
+SortedByX [98] : X = 139.490000 Y = 695.070000 Text = of 
+
+SortedByX [98] : X = 190.040000 Y = 695.070000 Text = Address of
+
+SortedByX [98] : X = 240.590000 Y = 695.070000 Text = Address of
+
+SortedByX [98] : X = 291.140000 Y = 695.070000 Text = of Nominee 
+
+SortedByX [98] : X = 351.800000 Y = 695.070000 Text = authorized
+
+SortedByX [98] : X = 402.350000 Y = 695.070000 Text = e of claim 
+
+SortedByX [98] : X = 452.900000 Y = 695.070000 Text = Account of Nominee
+
+SortedByX [99] : X = 46.500000 Y = 699.170000 Text = Wish to go through your detailed policy wordings, click here. 
+
+SortedByX [99] : X = 373.280000 Y = 699.130000 Text = PARTNER DETAILSYOUR DETAILS
+
+SortedByX [100] : X = 48.500000 Y = 703.210000 Text = Name of 
+
+SortedByX [100] : X = 94.000000 Y = 703.210000 Text = Mobile 
+
+SortedByX [100] : X = 139.490000 Y = 703.210000 Text = E-mail Id 
+
+SortedByX [100] : X = 190.040000 Y = 703.210000 Text = Present 
+
+SortedByX [100] : X = 240.590000 Y = 703.210000 Text = Permanent
+
+SortedByX [100] : X = 291.140000 Y = 703.210000 Text = Relationship 
+
+SortedByX [100] : X = 351.800000 Y = 703.210000 Text = Details of 
+
+SortedByX [100] : X = 402.350000 Y = 703.210000 Text = Percentag
+
+SortedByX [100] : X = 452.900000 Y = 703.210000 Text = Details of Bank 
+
+SortedByX [101] : X = 47.500000 Y = 705.650000 Text = Digit Private Car Key & Lock ProtectCover Only 1 Claims Per Year/Max SI-30000IRDAN158RP0005V01201718/A0068V01202021
+
+SortedByX [102] : X = 48.250000 Y = 718.050000 Text = Nominee Details
+
+SortedByX [103] : X = 47.500000 Y = 720.150000 Text = Digit Private Car Loss of Personal BelongingsCover Only 1 Claims Per Year/Max SI-30000IRDAN158RP0005V01201718/A0069V01202021
+
+SortedByX [104] : X = 411.750000 Y = 723.220000 Text = For & On Behalf of Go Digit General Insurance Ltd.
+
+SortedByX [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+SortedByX [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+SortedByX [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+SortedByX [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+SortedByX [105] : X = 46.500000 Y = 739.340000 Text = Digit Private Car PolicyUIN No.:IRDAN158RP0005V01201718
+
+SortedByX [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+SortedByX [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+SortedByX [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+SortedByX [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+SortedByX [106] : X = 466.970000 Y = 748.240000 Text = Schedule/CertificateGo Digit General Insurance Ltd.
+
+SortedByX [107] : X = 3.750000 Y = 815.260000 Text = PB
+
+SortedByX [107] : X = 3.750000 Y = 815.260000 Text = PB
+
+SortedByX [107] : X = 3.750000 Y = 815.260000 Text = PB
+
+SortedByX [107] : X = 3.750000 Y = 815.260000 Text = PB
+
+SortedByX [107] : X = 3.750000 Y = 815.260000 Text = PB
+
