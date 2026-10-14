@@ -54,11 +54,23 @@ export function extractPdfText(pdfPath: string): Promise<PdfTextToken[]> {
   });
 }
 
-function parsePdfData(data: {
-  Pages?: Array<{ Texts?: any[] }>;
-}): PdfTextToken[] {
+interface PdfTextRun {
+  T?: string;
+}
+
+interface PdfTextBlock {
+  x?: number | string;
+  y?: number | string;
+  R?: PdfTextRun[];
+}
+
+interface PdfPage {
+  Texts?: PdfTextBlock[];
+}
+
+function parsePdfData(data: unknown): PdfTextToken[] {
   const tokens: PdfTextToken[] = [];
-  const pages = data.Pages ?? [];
+  const pages = (isRecord(data) && Array.isArray(data.Pages) ? data.Pages : []) as PdfPage[];
 
   pages.forEach((page, pageIndex) => {
     const pageNumber = pageIndex + 1;
@@ -70,7 +82,7 @@ function parsePdfData(data: {
 }
 
 function extractPageTokens(
-  page: { Texts?: any[] },
+  page: PdfPage,
   pageNumber: number,
 ): PdfTextToken[] {
   const texts = page.Texts ?? [];
@@ -91,7 +103,7 @@ function extractPageTokens(
   return tokens;
 }
 
-function extractBlockText(block: { R?: Array<{ T?: string }> }): string {
+function extractBlockText(block: PdfTextBlock): string {
   const runs = block.R ?? [];
   return runs.map((run) => safeDecodeText(run.T)).join("");
 }
@@ -103,6 +115,10 @@ function safeDecodeText(encodedText: string | undefined): string {
   } catch {
     return text;
   }
+}
+
+function isRecord(value: unknown): value is Record<string, unknown> {
+  return typeof value === "object" && value !== null;
 }
 
 /**

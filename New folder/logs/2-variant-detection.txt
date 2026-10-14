@@ -1,0 +1,4 @@
+{
+  "variant": "variant-1",
+  "source": "sample.pdf"
+}

@@ -17,8 +17,10 @@
   "include": [
     "index.ts",
     "format/**/*.ts",
-    "temp/policies/**/*.ts",
-    "temp/services/**/*.ts"
+    "insurers/**/*.ts",
+    "parsers/**/*.ts",
+    "services/**/*.ts",
+    "utils/blueprint-utils.ts"
   ],
   "exclude": ["node_modules", "dist"]
 }

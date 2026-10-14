@@ -7,9 +7,9 @@
   "scripts": {
     "build": "tsc",
     "typecheck": "tsc --noEmit",
-    "start": "tsx index.ts > log.txt 2>&1",
-    "dev": "tsx index.ts > log.txt 2>&1",
-    "test": "tsx --test policies/digit.test.ts"
+    "start": "tsx index.ts > logs/log.txt 2>&1",
+    "dev": "tsx index.ts > logs/log.txt 2>&1",
+    "test": "tsx --test insurers/go-digit/*.test.ts services/pdf-parser/*.test.ts"
   },
   "keywords": [],
   "author": "",

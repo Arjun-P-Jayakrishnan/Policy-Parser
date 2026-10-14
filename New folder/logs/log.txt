@@ -247,4 +247,9 @@ Line 17 Y [47.02] X [0.50, 35.20] Text - [Bengaluru 560095 | Registered Office A
 Line 18 Y [47.39] X [0.50, 35.52] Text - [belongs to Go Digit Solutions Private Limited and is provided and used by GDGIL under license. | Toll Free No (1800 258 5956/1800-103-4448) | GST Reg No 09AACCO4128Q1ZY , PAN No:- AACCO4128Q,  ]
 Line 19 Y [47.76] X [0.50, 35.02] Text - [HSN: 997134/General Insurance Services, GSTIN Address :Lucknow Business Centre,5th floor, Halwasiyas Commerce House, 11 Mahatma Gandhi Marg, Hazratganj,Lucknow,Uttar Pradesh,PIN-226001 |  ]
 Line 20 Y [48.13] X [0.50] Text - [www.godigit.com]
-Successfully extracted policy data to D:\Personal-Projects\Policy-Parser\New folder\output.txt
+Wrote extraction stage to D:\Personal-Projects\Policy-Parser\New folder\logs\1-extraction-output.txt
+Wrote variant detection to D:\Personal-Projects\Policy-Parser\New folder\logs\2-variant-detection.txt
+Wrote parser stage to D:\Personal-Projects\Policy-Parser\New folder\logs\3-parser-output.txt
+Wrote normalized record to D:\Personal-Projects\Policy-Parser\New folder\logs\4-normalizer-output.txt
+Wrote final record to D:\Personal-Projects\Policy-Parser\New folder\logs\5-final-output.txt
+Wrote CSV record to D:\Personal-Projects\Policy-Parser\New folder\output\policies.csv

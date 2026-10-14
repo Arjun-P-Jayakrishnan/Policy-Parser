@@ -4,7 +4,7 @@ TypeScript project for PDF text extraction and layout inspection, with typed pol
 
 ## Install and run
 
-Requires Node.js 20.18 or later. Install dependencies with `npm install`, then run `npm start` or `npm run dev`. Run `npm run typecheck` to validate types or `npm run build` to emit JavaScript and declarations to `dist/`. The application processes the root-level `sample.pdf`. `log.txt` contains page-by-page extracted lines and token positions; `output.txt` contains the parsed policy fields grouped by source page, followed by the final policy JSON.
+Requires Node.js 20.18 or later. Install dependencies with `npm install`, then run `npm start` or `npm run dev`. Run `npm run typecheck` to validate types or `npm run build` to emit JavaScript and declarations to `dist/`. The application processes the root-level `sample.pdf` as Variant 1.
 
 ## PDF tokens and layout
 
@@ -26,11 +26,11 @@ const policy = createPolicy();
 await exportPoliciesToCsv([policy], './output/policies.csv');
 ```
 
-## Modules
+## Parsing pipeline
 
-- `policies/detect.ts` detects supported policy document markers across token boundaries.
-- `policies/digit.ts` parses the currently implemented Go Digit fields. The CSV contains recognized policies; fields without matching extraction rules remain blank.
-- `output/` is for generated files; `pdfs/` contains input documents and is not ignored by Git.
+The active path targets `sample.pdf` as Go Digit **Variant 1**: PDF extraction → insurer detection → layout detection → Variant 1 blueprint → raw PDF-labeled fields → normalization → CSV. `services/pdf-parser/extractor.ts` extracts positional tokens and reconstructs page-local lines. `insurers/detect.ts` identifies Go Digit, `insurers/go-digit/variants/detect.ts` identifies Variant 1, and `insurers/go-digit/variants/variant-1/blueprint.ts` defines page-specific field rules using shared token utilities. The blueprint output preserves PDF labels; `insurers/go-digit/normalizer.ts` maps those raw fields into `PolicyData`. `services/csv/convert.ts` writes the existing 36-column schema.
+
+Running `npm start` writes ordered stage snapshots under `logs/`: `1-extraction-output.txt`, `2-variant-detection.txt`, `3-parser-output.txt`, `4-normalizer-output.txt`, and `5-final-output.txt`. The run log is `logs/log.txt`; the CSV is `output/policies.csv`.
 
 ## TypeScript layout
 
