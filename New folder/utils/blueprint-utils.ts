@@ -12,10 +12,12 @@ export interface BlueprintRule {
   extractValue?: (tokens: readonly PdfTextToken[], match: TokenMatch) => string;
 }
 
+/** Collects tokens from the requested pages in page order. */
 export function selectPages(context: BlueprintContext, pages: readonly number[]): PdfTextToken[] {
   return pages.flatMap((page) => context.pages.get(page) ?? []);
 }
 
+/** Finds the first token whose text matches the regular expression. */
 export function findToken(tokens: readonly PdfTextToken[], regex: RegExp): TokenMatch | undefined {
   for (let index = 0; index < tokens.length; index += 1) {
     regex.lastIndex = 0;
@@ -25,10 +27,12 @@ export function findToken(tokens: readonly PdfTextToken[], regex: RegExp): Token
   return undefined;
 }
 
+/** Creates a locator that finds the first token matching a regular expression. */
 export function locateByRegex(regex: RegExp): (tokens: readonly PdfTextToken[]) => TokenMatch | undefined {
   return (tokens) => findToken(tokens, regex);
 }
 
+/** Locates a start/end pair, optionally requiring a preceding marker. */
 export function locateGeneric(tokens: readonly PdfTextToken[], start: RegExp, end: RegExp, before?: RegExp): TokenMatch | undefined {
   for (let index = 0; index < tokens.length; index += 1) {
     start.lastIndex = 0;
@@ -53,6 +57,7 @@ function findEndingToken(tokens: readonly PdfTextToken[], start: TokenMatch, end
   return candidate ? { token: candidate.token, index: candidate.index, match: candidate.match! } : undefined;
 }
 
+/** Extracts the text between a matched start token and its end token. */
 export function extractBetweenTokens(tokens: readonly PdfTextToken[], match: TokenMatch): string {
   if (!match.end) return "";
   const values: string[] = [];
@@ -66,6 +71,7 @@ export function extractBetweenTokens(tokens: readonly PdfTextToken[], match: Tok
   return values.join(" ");
 }
 
+/** Applies blueprint rules and returns the extracted field values. */
 export function extractBlueprintFields(context: BlueprintContext, blueprint: readonly BlueprintRule[]): Record<string, string> {
   const fields: Record<string, string> = {};
   for (const rule of blueprint) {
