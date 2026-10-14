@@ -1,0 +1,25 @@
+{
+  "name": "policy-parser",
+  "version": "1.0.0",
+  "description": "Generic PDF policy text and layout inspection tools",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "typecheck": "tsc --noEmit",
+    "start": "tsx index.ts > log.txt 2>&1",
+    "dev": "tsx index.ts > log.txt 2>&1",
+    "test": "tsx --test policies/digit.test.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdf2json": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
