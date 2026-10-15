@@ -1,46 +1,41 @@
-import PDFParser from "pdf2json";
+import PDFParser, { Output } from "pdf2json";
 import type {
-    LayoutLine,
-    LayoutOptions,
-    PdfTextToken,
-    ReconstructedLayout,
+  LayoutOptions,
+  PdfTextToken,
+  PositionedLine,
+  PositionedPage,
+  PositionedText,
+  ReconstructedLayout,
 } from "./types.js";
 
 /**
- * Extracts PDF text into library-independent tokens and reconstructs them
- * into page-local layout lines sorted in logical reading order.
+ * Extracts PDF text and reconstructs it into a page → y → x layout.
  */
 export async function extractAndReconstructPdf(
   pdfPath: string,
   options: LayoutOptions = {},
 ): Promise<ReconstructedLayout> {
-  const rawTokens = await extractPdfText(pdfPath);
-  return reconstructLayout(rawTokens, options);
+  // Get the Raw Tokens with Layout information
+  const tokens = await extractPdfText(pdfPath);
+
+  // Classify and Reconstruct token layer
+  return reconstructLayout(tokens, options);
 }
 
 /**
- * ============================================================================
- *  RAW EXTRACTION (pdf2json wrapper)
- * ============================================================================
- */
-
-/**
- * Extracts raw text tokens from a PDF file using pdf2json with 1-based page numbers.
+ * Extracts raw text fragments with page numbers and spatial coordinates.
  */
 export function extractPdfText(pdfPath: string): Promise<PdfTextToken[]> {
   return new Promise((resolve, reject) => {
     const parser = new PDFParser();
 
     parser.on("pdfParser_dataError", (error) => {
-      const normalizedError =
-        error instanceof Error ? error : error.parserError;
-      reject(normalizedError);
+      reject(error instanceof Error ? error : error.parserError);
     });
 
-    parser.on("pdfParser_dataReady", (data) => {
+    parser.on("pdfParser_dataReady", (data: Output) => {
       try {
-        const tokens = parsePdfData(data);
-        resolve(tokens);
+        resolve(parsePdfData(data));
       } catch (error) {
         reject(error);
       }
@@ -52,6 +47,190 @@ export function extractPdfText(pdfPath: string): Promise<PdfTextToken[]> {
       reject(error);
     }
   });
+}
+
+/**
+ * Groups extracted fragments by page and vertical position,
+ * then sorts pages, lines, and fragments into reading order.
+ */
+export function reconstructLayout(
+  tokens: readonly PdfTextToken[],
+  { yTolerance = 0.3 }: LayoutOptions = {},
+): ReconstructedLayout {
+  validateTolerance(yTolerance);
+
+  const pages = groupTokensByPage(tokens).map(
+    ([page, pageTokens]): PositionedPage => ({
+      page,
+      y: reconstructPageLines(pageTokens, yTolerance),
+    }),
+  );
+
+  return { pages };
+}
+
+/**
+ * Converts pdf2json page data into library-independent text fragments.
+ */
+function parsePdfData(data: Output): PdfTextToken[] {
+  const tokens: PdfTextToken[] = [];
+  const pages = getPdfPages(data);
+
+  pages.forEach((page, index) => {
+    tokens.push(...extractPageTokens(page, index + 1));
+  });
+
+  return tokens;
+}
+
+/**
+ * Returns the pages contained in the parsed PDF data.
+ */
+function getPdfPages(data: Output): PdfPage[] {
+  if (!isRecord(data) || !Array.isArray(data.Pages)) {
+    return [];
+  }
+
+  return data.Pages.filter(isPdfPage);
+}
+
+/**
+ * Extracts positioned text fragments from a single page.
+ */
+function extractPageTokens(page: PdfPage, pageNumber: number): PdfTextToken[] {
+  const tokens: PdfTextToken[] = [];
+
+  for (const block of page.Texts ?? []) {
+    const text = extractBlockText(block);
+
+    if (!text.trim()) continue;
+
+    const x = Number(block.x);
+    const y = Number(block.y);
+
+    if (!Number.isFinite(x) || !Number.isFinite(y)) {
+      continue;
+    }
+
+    tokens.push({
+      page: pageNumber,
+      x,
+      y,
+      text,
+    });
+  }
+
+  return tokens;
+}
+
+/**
+ * Combines and decodes the text runs belonging to one PDF block.
+ */
+function extractBlockText(block: PdfTextBlock): string {
+  return (block.R ?? []).map((run) => decodeText(run.T)).join("");
+}
+
+/**
+ * Decodes URI-encoded text without failing on malformed input.
+ */
+function decodeText(text: string | undefined): string {
+  try {
+    return decodeURIComponent(text ?? "");
+  } catch {
+    return text ?? "";
+  }
+}
+
+/**
+ * Groups text fragments by page in ascending page-number order.
+ */
+function groupTokensByPage(
+  tokens: readonly PdfTextToken[],
+): [number, PdfTextToken[]][] {
+  const pages = new Map<number, PdfTextToken[]>();
+
+  for (const token of tokens) {
+    const pageTokens = pages.get(token.page) ?? [];
+    pageTokens.push(token);
+    pages.set(token.page, pageTokens);
+  }
+
+  return [...pages.entries()].sort(([a], [b]) => a - b);
+}
+
+/**
+ * Reconstructs the lines of a page and sorts their text fragments by x.
+ */
+function reconstructPageLines(
+  tokens: readonly PdfTextToken[],
+  yTolerance: number,
+): PositionedLine[] {
+  const sortedTokens = [...tokens].sort((a, b) => a.y - b.y || a.x - b.x);
+
+  const lines = groupTokensByY(sortedTokens, yTolerance);
+
+  return lines
+    .map(
+      (line): PositionedLine => ({
+        y: line.y,
+        x: sortTokensByX(line.tokens),
+      }),
+    )
+    .sort((a, b) => a.y - b.y);
+}
+
+/**
+ * Groups vertically aligned fragments using their average y position.
+ */
+function groupTokensByY(
+  tokens: readonly PdfTextToken[],
+  yTolerance: number,
+): { y: number; tokens: PdfTextToken[] }[] {
+  const lines: { y: number; tokens: PdfTextToken[] }[] = [];
+
+  for (const token of tokens) {
+    const line = lines.find(
+      (candidate) => Math.abs(candidate.y - token.y) <= yTolerance,
+    );
+
+    if (line) {
+      line.tokens.push(token);
+      line.y = averageY(line.tokens);
+      continue;
+    }
+
+    lines.push({
+      y: token.y,
+      tokens: [token],
+    });
+  }
+
+  return lines;
+}
+
+/**
+ * Calculates the average vertical position of a line's fragments.
+ */
+function averageY(tokens: readonly PdfTextToken[]): number {
+  return tokens.reduce((sum, token) => sum + token.y, 0) / tokens.length;
+}
+
+/**
+ * Converts text fragments into x/text pairs sorted from left to right.
+ */
+function sortTokensByX(tokens: readonly PdfTextToken[]): PositionedText[] {
+  return [...tokens]
+    .sort((a, b) => a.x - b.x)
+    .map(({ x, text }) => ({ x, text }));
+}
+
+/**
+ * Rejects invalid vertical grouping tolerances.
+ */
+function validateTolerance(yTolerance: number): void {
+  if (!Number.isFinite(yTolerance) || yTolerance < 0) {
+    throw new TypeError("yTolerance must be a non-negative number");
+  }
 }
 
 interface PdfTextRun {
@@ -68,155 +247,10 @@ interface PdfPage {
   Texts?: PdfTextBlock[];
 }
 
-function parsePdfData(data: unknown): PdfTextToken[] {
-  const tokens: PdfTextToken[] = [];
-  const pages = (isRecord(data) && Array.isArray(data.Pages) ? data.Pages : []) as PdfPage[];
-
-  pages.forEach((page, pageIndex) => {
-    const pageNumber = pageIndex + 1;
-    const pageTokens = extractPageTokens(page, pageNumber);
-    tokens.push(...pageTokens);
-  });
-
-  return tokens;
-}
-
-function extractPageTokens(
-  page: PdfPage,
-  pageNumber: number,
-): PdfTextToken[] {
-  const texts = page.Texts ?? [];
-  const tokens: PdfTextToken[] = [];
-
-  for (const block of texts) {
-    const text = extractBlockText(block);
-    if (!text) continue;
-
-    tokens.push({
-      page: pageNumber,
-      x: Number(block.x),
-      y: Number(block.y),
-      text,
-    });
-  }
-
-  return tokens;
-}
-
-function extractBlockText(block: PdfTextBlock): string {
-  const runs = block.R ?? [];
-  return runs.map((run) => safeDecodeText(run.T)).join("");
-}
-
-function safeDecodeText(encodedText: string | undefined): string {
-  const text = encodedText ?? "";
-  try {
-    return decodeURIComponent(text);
-  } catch {
-    return text;
-  }
-}
-
 function isRecord(value: unknown): value is Record<string, unknown> {
   return typeof value === "object" && value !== null;
 }
 
-/**
- * ============================================================================
- * STEP 2: SPATIAL LAYOUT RECONSTRUCTION
- * ============================================================================
- */
-
-/**
- * Groups raw tokens into page-local lines in reading order based on spatial coordinates.
- */
-export function reconstructLayout(
-  tokens: readonly PdfTextToken[],
-  { yTolerance = 0.3 }: LayoutOptions = {},
-): ReconstructedLayout {
-  validateTolerance(yTolerance);
-
-  const tokensByPage = groupTokensByPage(tokens);
-  const allLines: LayoutLine[] = [];
-
-  for (const [pageNumber, pageTokens] of tokensByPage.entries()) {
-    const pageLines = reconstructPageLines(pageNumber, pageTokens, yTolerance);
-    allLines.push(...pageLines);
-  }
-
-  const sortedTokens = allLines.flatMap((line) => line.tokens);
-
-  return {
-    lines: allLines,
-    tokens: sortedTokens,
-  };
-}
-
-function validateTolerance(yTolerance: number): void {
-  if (!Number.isFinite(yTolerance) || yTolerance < 0) {
-    throw new TypeError("yTolerance must be a non-negative number");
-  }
-}
-
-function groupTokensByPage(
-  tokens: readonly PdfTextToken[],
-): Map<number, PdfTextToken[]> {
-  const pages = new Map<number, PdfTextToken[]>();
-
-  for (const token of tokens) {
-    const pageTokens = pages.get(token.page) ?? [];
-    pageTokens.push({ ...token });
-    pages.set(token.page, pageTokens);
-  }
-
-  return pages;
-}
-
-function reconstructPageLines(
-  pageNumber: number,
-  tokens: readonly PdfTextToken[],
-  yTolerance: number,
-): LayoutLine[] {
-  const sortedTokens = [...tokens].sort((a, b) => a.y - b.y || a.x - b.x);
-  const rawLines = clusterTokensIntoLines(sortedTokens, pageNumber, yTolerance);
-  return sortAndFormatLines(rawLines);
-}
-
-function clusterTokensIntoLines(
-  sortedTokens: readonly PdfTextToken[],
-  pageNumber: number,
-  yTolerance: number,
-): LayoutLine[] {
-  const pageLines: LayoutLine[] = [];
-
-  for (const token of sortedTokens) {
-    let line = pageLines.find(
-      (candidate) => Math.abs(candidate.y - token.y) <= yTolerance,
-    );
-
-    if (!line) {
-      line = { page: pageNumber, y: token.y, text: "", tokens: [] };
-      pageLines.push(line);
-    }
-
-    line.tokens.push(token);
-    line.y =
-      line.tokens.reduce((sum, item) => sum + item.y, 0) / line.tokens.length;
-  }
-
-  return pageLines;
-}
-
-function sortAndFormatLines(pageLines: readonly LayoutLine[]): LayoutLine[] {
-  const sortedLines = [...pageLines].sort((a, b) => a.y - b.y);
-
-  return sortedLines.map((line) => {
-    const sortedTokens = [...line.tokens].sort((a, b) => a.x - b.x);
-
-    return {
-      ...line,
-      tokens: sortedTokens,
-      text: sortedTokens.map((token) => token.text).join(" "),
-    };
-  });
+function isPdfPage(value: unknown): value is PdfPage {
+  return isRecord(value);
 }
