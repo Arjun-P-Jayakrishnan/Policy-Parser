@@ -1,0 +1,62 @@
+Processing policy: D:\Personal-Projects\Policy-Parser\New folder\pdfs\DG_20201AGENT_SCHEDULEHC_D294887956_D294887956_1788961383298 (1).pdf
+Warning: Setting up fake worker.
+Warning: TT: undefined function: 32
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Failed to parse DG_20201AGENT_SCHEDULEHC_D294887956_D294887956_1788961383298 (1).pdf: Unsupported Go Digit layout
+Processing policy: D:\Personal-Projects\Policy-Parser\New folder\pdfs\DG_20201AGENT_SCHEDULESC_D294874144_D294874144_1788952549497 (1).pdf
+Warning: Setting up fake worker.
+Warning: TT: undefined function: 32
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Failed to parse DG_20201AGENT_SCHEDULESC_D294874144_D294874144_1788952549497 (1).pdf: Unsupported Go Digit layout
+Processing policy: D:\Personal-Projects\Policy-Parser\New folder\pdfs\DG_20201AGENT_SCHEDULESC_D294878264_D294878264_1788953238804 (1).pdf
+Warning: Setting up fake worker.
+Warning: TT: undefined function: 32
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Failed to parse DG_20201AGENT_SCHEDULESC_D294878264_D294878264_1788953238804 (1).pdf: Unsupported Go Digit layout
+Processing policy: D:\Personal-Projects\Policy-Parser\New folder\pdfs\DG_4WAG_SCHEDULEHC_D272363175_D272363175_1789032950184-1.pdf
+Warning: Setting up fake worker.
+Warning: TT: undefined function: 32
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Processing policy: D:\Personal-Projects\Policy-Parser\New folder\pdfs\DG_4WAG_SCHEDULEHC_D273223792_D273223792_1789023090870.pdf
+Warning: Setting up fake worker.
+Warning: TT: undefined function: 32
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Processing policy: D:\Personal-Projects\Policy-Parser\New folder\pdfs\sample.pdf
+Warning: Setting up fake worker.
+Warning: TT: undefined function: 32
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Warning: Unsupported: field.type of Link
+Warning: NOT valid form element
+Wrote 3 parsed policy record(s) to D:\Personal-Projects\Policy-Parser\New folder\output\output.csv
+Skipped 3 PDF(s):
+DG_20201AGENT_SCHEDULEHC_D294887956_D294887956_1788961383298 (1).pdf: Unsupported Go Digit layout
+DG_20201AGENT_SCHEDULESC_D294874144_D294874144_1788952549497 (1).pdf: Unsupported Go Digit layout
+DG_20201AGENT_SCHEDULESC_D294878264_D294878264_1788953238804 (1).pdf: Unsupported Go Digit layout

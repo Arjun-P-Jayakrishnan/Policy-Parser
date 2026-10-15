@@ -1,2 +1,5 @@
-sample.pdf
-/pdfs
+node_modules/
+.env
+dist/
+output/*
+!output/.gitkeep

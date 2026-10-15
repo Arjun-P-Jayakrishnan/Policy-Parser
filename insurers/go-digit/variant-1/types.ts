@@ -56,6 +56,7 @@ export interface Variant1Data {
   paymentMode: string;
   transactionNumber: string;
   receiptNumber: string;
+  receiptDate: string;
   invoiceNumber: string;
   invoiceDate: string;
 

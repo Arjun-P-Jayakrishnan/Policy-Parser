@@ -1,8 +1,19 @@
 import { PolicyData, createPolicy } from "../../../format/policy.js";
+import {
+  normalizeAmount,
+  normalizeDate,
+  normalizeRegistration,
+  normalizeText,
+} from "../../../utils/normalization.js";
 import type { Variant1Data } from "./types.js";
 
 export function normalize(data: Variant1Data): PolicyData {
   const policy = createPolicy();
+  policy.InsuranceCompany = "Go Digit General Insurance";
+  policy.Vertical = "Motor";
+  policy.LOB = "Private Car";
+  policy.Package = normalizeText(data.policyType);
+  policy.Filename = "";
 
   // Insured details
   policy.CustomerName = normalizeText(data.customerName);
@@ -14,12 +25,15 @@ export function normalize(data: Variant1Data): PolicyData {
 
   // Policy details
   policy.PolicyNumber = normalizeText(data.policyNumber);
-  policy.Date = normalizeText(data.policyIssueDate);
+  policy.Date = normalizeDate(data.policyIssueDate);
   policy.PrePolicyNo = normalizeText(data.previousPolicyNumber);
+  policy.RiskStartDate = normalizeDate(data.riskStartDate);
+  policy.RenewalDate = normalizeDate(data.riskEndDate);
+  policy.Renewal = data.previousPolicyNumber ? "Renewal" : "New";
 
   // Vehicle details
-  policy.RegistrationNumber = normalizeText(data.registrationNumber);
-  policy.RTOCode = normalizeText(data.rtoLocation);
+  policy.RegistrationNumber = normalizeRegistration(data.registrationNumber);
+  policy.RTOCode = normalizeText(data.rtoLocation).toUpperCase();
   policy.VehicleMake = normalizeText(data.vehicleMake);
   policy.VehicleModel = normalizeText(data.vehicleModel);
   policy.EngineNumber = normalizeText(data.engineNumber);
@@ -30,12 +44,13 @@ export function normalize(data: Variant1Data): PolicyData {
   policy.CubicCapacity = normalizeText(data.cubicCapacity);
 
   // Coverage and premium details
-  policy.IDV = normalizeText(data.idv);
+  policy.IDV = normalizeAmount(data.idv ?? "");
   policy.NCB = normalizeText(data.ncb);
-  policy.ODPremium = normalizeText(data.totalOdPremium);
-  policy.TPOnlyPremium = normalizeText(data.totalActPremium);
-  policy.NetPremium = normalizeText(data.netPremium);
-  policy.TotalAmount = normalizeText(data.totalAmount);
+  policy.ODPremium = normalizeAmount(data.totalOdPremium ?? "");
+  policy.TPOnlyPremium = normalizeAmount(data.tpOnlyPremium || data.totalActPremium || "");
+  policy.AddOnPremium = normalizeAmount(data.addOnPremium ?? "");
+  policy.NetPremium = normalizeAmount(data.netPremium ?? "");
+  policy.TotalAmount = normalizeAmount(data.totalAmount || data.grossPremium || "");
 
   // Payment details
   policy.ModeOfPayment = normalizeText(data.paymentMode);
@@ -43,6 +58,3 @@ export function normalize(data: Variant1Data): PolicyData {
   return policy;
 }
 
-function normalizeText(value: string): string {
-  return value.trim();
-}

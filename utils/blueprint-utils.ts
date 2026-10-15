@@ -12,6 +12,8 @@ export interface RawDataMatch {
   match: RegExpExecArray;
   lineIndex: number;
   textIndex: number;
+  nextLabelLineIndex?: number;
+  nextLabelTextIndex?: number;
 }
 
 export type ValueFormatter = (value: string) => string;
@@ -46,9 +48,10 @@ export function getRawData(
     return candidates.slice(0, 1);
   }
 
-  return candidates.filter((candidate) =>
+  const matching = candidates.filter((candidate) =>
     hasFollowingPattern(page, candidate, nextToken),
   );
+  return matching.length ? matching : candidates.slice(0, 1);
 }
 
 /**
@@ -67,7 +70,17 @@ export function extractValue(
 
   if (!candidate) return "";
 
-  let value = collectValue(page, candidate, nextToken);
+  const nextTokenMatch = nextToken
+    ? findLabelMatches(page, nextToken)[0]
+    : undefined;
+  const effectiveCandidate = nextTokenMatch
+    ? {
+        ...candidate,
+        nextLabelLineIndex: nextTokenMatch.lineIndex,
+        nextLabelTextIndex: nextTokenMatch.textIndex,
+      }
+    : candidate;
+  let value = collectValue(page, effectiveCandidate, nextToken);
 
   for (const formatter of formatters) {
     value = formatter(value);
@@ -83,7 +96,8 @@ function findLabelMatches(page: PositionedPage, label: RegExp): RawDataMatch[] {
   const matches: RawDataMatch[] = [];
 
   page.y.forEach((line, lineIndex) => {
-    line.x.forEach((fragment, textIndex) => {
+    const sorted = [...line.x].sort((a, b) => a.x - b.x);
+    sorted.forEach((fragment, textIndex) => {
       const match = execRegex(label, fragment.text);
 
       if (!match) return;
@@ -129,6 +143,24 @@ function getSearchFragments(
 
   if (!currentLine) return [];
 
+  const currentLineFragments = currentLine.x
+    .map((fragment, index) => ({ fragment, index }))
+    .filter(({ index }) => index >= candidate.textIndex);
+  const nextLabelOnLine = currentLineFragments
+    .find(({ fragment, index }) =>
+      index > candidate.textIndex && looksLikeLabel(fragment.text),
+    )?.fragment.x;
+  const inlineFragments = currentLineFragments
+    .filter(({ fragment, index }) => index > candidate.textIndex)
+    .filter(({ index }) =>
+      candidate.nextLabelLineIndex !== candidate.lineIndex ||
+      candidate.nextLabelTextIndex === undefined ||
+      index < candidate.nextLabelTextIndex,
+    )
+    .map(({ fragment }) => fragment)
+    .filter((fragment) =>
+      nextLabelOnLine === undefined || fragment.x < nextLabelOnLine,
+    );
   const fragments: PositionedText[] = [
     {
       x: candidate.x,
@@ -136,16 +168,15 @@ function getSearchFragments(
         candidate.match.index + candidate.match[0].length,
       ),
     },
-    ...currentLine.x.slice(candidate.textIndex + 1),
+    ...inlineFragments,
   ];
-
-  const nextLine = page.y[candidate.lineIndex + 1];
-
-  if (nextLine) {
-    fragments.push(...nextLine.x);
-  }
-
   return fragments.filter((fragment) => fragment.text.trim().length > 0);
+}
+
+function looksLikeLabel(text: string): boolean {
+  const trimmed = text.trim();
+  return /:$/.test(trimmed) ||
+    /^(?:Partner Name|Partner Code|Partner Mobile Number|Partner Email|Mobile Number|Email|Address|Registration Number|Policy Number|Policy Issue Date|Invoice No\.|Invoice Date|Previous Insurer|Previous Policy No\.|Previous Policy Expiry Date|RTO Location|Make|Model\/Vehicle Variant|Seating Capacity|Fuel Type|Year of Regn\.|Manufacturing|Engine No\.|Chassis No\.|Cubic Capacity|Odometer|FASTag|Total OD Premium|Total Act Premium|Net Premium|Final Premium|Payment Mode|Cheque\/Transation No|Receipt Number|NCB %|IGST|CGST|SGST|UTGST|Cess|Gross Premium|State Code|IMT\s*-\s*Endorsements|GSTIN\/UIN No\.)\b/i.test(trimmed);
 }
 
 /**
@@ -175,6 +206,24 @@ function collectValue(
     }
 
     values.push(text);
+  }
+
+  if (
+    candidate.nextLabelLineIndex !== undefined &&
+    candidate.nextLabelLineIndex > candidate.lineIndex
+  ) {
+    for (
+      let lineIndex = candidate.lineIndex + 1;
+      lineIndex < candidate.nextLabelLineIndex;
+      lineIndex++
+    ) {
+      const line = page.y[lineIndex];
+      if (!line) continue;
+      for (const fragment of line.x) {
+        if (fragment.x < candidate.x || looksLikeLabel(fragment.text)) break;
+        if (fragment.text.trim()) values.push(fragment.text.trim());
+      }
+    }
   }
 
   return values.join(" ").trim();
