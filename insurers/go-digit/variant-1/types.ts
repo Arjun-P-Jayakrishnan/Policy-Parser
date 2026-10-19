@@ -1,4 +1,5 @@
 export interface Variant1Data {
+  LOB: "PVT";
   // Insured details
   customerName: string;
   mobileNumber: string;
@@ -44,6 +45,7 @@ export interface Variant1Data {
   tpOnlyPremium: string;
   addOnPremium: string;
   netPremium: string;
+  finalPremium: string;
   igst: string;
   cgst: string;
   sgst: string;

@@ -26,6 +26,11 @@ export async function extractAndReconstructPdf(
  * Extracts raw text fragments with page numbers and spatial coordinates.
  */
 export function extractPdfText(pdfPath: string): Promise<PdfTextToken[]> {
+  return extractPdfData(pdfPath).then(parsePdfData);
+}
+
+/** Extracts the unmodified pdf2json document output. */
+export function extractPdfData(pdfPath: string): Promise<Output> {
   return new Promise((resolve, reject) => {
     const parser = new PDFParser();
 
@@ -34,11 +39,7 @@ export function extractPdfText(pdfPath: string): Promise<PdfTextToken[]> {
     });
 
     parser.on("pdfParser_dataReady", (data: Output) => {
-      try {
-        resolve(parsePdfData(data));
-      } catch (error) {
-        reject(error);
-      }
+      resolve(data);
     });
 
     try {
@@ -72,7 +73,7 @@ export function reconstructLayout(
 /**
  * Converts pdf2json page data into library-independent text fragments.
  */
-function parsePdfData(data: Output): PdfTextToken[] {
+export function parsePdfData(data: Output): PdfTextToken[] {
   const tokens: PdfTextToken[] = [];
   const pages = getPdfPages(data);
 

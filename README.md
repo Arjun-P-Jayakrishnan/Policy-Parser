@@ -30,7 +30,7 @@ await exportPoliciesToCsv([policy], './output/policies.csv');
 
 The active path targets `sample.pdf` as Go Digit **Variant 1**: PDF extraction → insurer detection → layout detection → Variant 1 blueprint → raw PDF-labeled fields → normalization → CSV. `services/pdf-parser/extractor.ts` extracts positional tokens and reconstructs page-local lines. `insurers/detect.ts` identifies Go Digit, `insurers/go-digit/variants/detect.ts` identifies Variant 1, and `insurers/go-digit/variants/variant-1/blueprint.ts` defines page-specific field rules using shared token utilities. The blueprint output preserves PDF labels; `insurers/go-digit/normalizer.ts` maps those raw fields into `PolicyData`. `services/csv/convert.ts` writes the existing 36-column schema.
 
-Running `npm start` writes ordered stage snapshots under `logs/`: `1-extraction-output.txt`, `2-variant-detection.txt`, `3-parser-output.txt`, `4-normalizer-output.txt`, and `5-final-output.txt`. The run log is `logs/log.txt`; the CSV is `output/policies.csv`.
+Running `npm start` writes JSON snapshots named after each PDF into `logs/extraction/` (raw pdf2json data), `logs/variant detection/` (selected insurer and variant), `logs/variant/<variant>/` (parsed variant object), and `logs/normaliser/` (normalized policy object). The run log is `logs/log.txt`; the CSV is `output/output.csv`.
 
 ## TypeScript layout
 

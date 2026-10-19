@@ -1,11 +1,11 @@
 {
-  "Filename": "",
+  "Filename": "DG_4WAG_SCHEDULEHC_D272363175_D272363175_1789032950184-1.pdf",
   "Status": false,
   "Date": "2026-09-10",
   "InsuranceCompany": "Go Digit General Insurance",
   "Vertical": "Motor",
   "IMDCode": "1075248",
-  "LOB": "Private Car",
+  "LOB": "PVT",
   "Package": "Digit Private Car Policy",
   "FuelType": "Petrol",
   "Renewal": "Renewal",
@@ -13,9 +13,9 @@
   "MobileNumber": "xxxxxxxxx3771",
   "Location": "H NO-WB-120 A GALI NO-5 SHAKARPUR EAST DELHI 110092,New Delhi-110001",
   "RegistrationNumber": "DL2CBB8461",
-  "RTOCode": "DL2C",
+  "RTOCode": "",
   "VehicleMake": "JEEP",
-  "VehicleModel": "(Sub- Type) COMPASS/1.4 SPORT MAIR DDCT",
+  "VehicleModel": "(Sub- Type) COMPASS/1.4 SPORT MAIR",
   "CubicCapacity": "1368 CC",
   "GVW": "",
   "Bike_Scooter": "",
@@ -33,6 +33,6 @@
   "TPOnlyPremium": "3796.00",
   "AddOnPremium": "",
   "NetPremium": "9850.25",
-  "TotalAmount": "11623.29",
+  "TotalAmount": "",
   "ModeOfPayment": "Online"
 }

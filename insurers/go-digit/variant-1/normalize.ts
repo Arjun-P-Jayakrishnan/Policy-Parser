@@ -11,7 +11,7 @@ export function normalize(data: Variant1Data): PolicyData {
   const policy = createPolicy();
   policy.InsuranceCompany = "Go Digit General Insurance";
   policy.Vertical = "Motor";
-  policy.LOB = "Private Car";
+  policy.LOB = "PVT";
   policy.Package = normalizeText(data.policyType);
   policy.Filename = "";
 
@@ -33,7 +33,7 @@ export function normalize(data: Variant1Data): PolicyData {
 
   // Vehicle details
   policy.RegistrationNumber = normalizeRegistration(data.registrationNumber);
-  policy.RTOCode = normalizeText(data.rtoLocation).toUpperCase();
+  policy.RTOCode = "";
   policy.VehicleMake = normalizeText(data.vehicleMake);
   policy.VehicleModel = normalizeText(data.vehicleModel);
   policy.EngineNumber = normalizeText(data.engineNumber);
@@ -47,14 +47,15 @@ export function normalize(data: Variant1Data): PolicyData {
   policy.IDV = normalizeAmount(data.idv ?? "");
   policy.NCB = normalizeText(data.ncb);
   policy.ODPremium = normalizeAmount(data.totalOdPremium ?? "");
-  policy.TPOnlyPremium = normalizeAmount(data.tpOnlyPremium || data.totalActPremium || "");
+  policy.TPOnlyPremium = normalizeAmount(
+    data.tpOnlyPremium || data.totalActPremium || "",
+  );
   policy.AddOnPremium = normalizeAmount(data.addOnPremium ?? "");
   policy.NetPremium = normalizeAmount(data.netPremium ?? "");
-  policy.TotalAmount = normalizeAmount(data.totalAmount || data.grossPremium || "");
+  policy.TotalAmount = normalizeAmount(data.finalPremium);
 
   // Payment details
   policy.ModeOfPayment = normalizeText(data.paymentMode);
 
   return policy;
 }
-

@@ -1,6 +1,6 @@
 import { PdfTextToken } from "../../services/pdf-parser/types.js";
 
-export type GoDigitLayoutVariant = "variant-1";
+export type GoDigitLayoutVariant = "variant-1" | "variant-2";
 
 export function detectGoDigitLayout(
   pages: ReadonlyMap<number, readonly PdfTextToken[]>,
@@ -9,5 +9,7 @@ export function detectGoDigitLayout(
     .flat()
     .map((line) => line.text)
     .join(" ");
-  return /Digit Private Car Policy/i.test(text) ? "variant-1" : undefined;
+  if (/Digit Private Car Policy/i.test(text)) return "variant-1";
+  if (/Digit Two-Wheeler Insurance/i.test(text)) return "variant-2";
+  return undefined;
 }

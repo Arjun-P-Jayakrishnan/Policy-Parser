@@ -1,4 +1,4 @@
-import { mkdir, readdir } from "node:fs/promises";
+import { mkdir, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { detectInsurer } from "./insurers/detect_insurer.js";
 import {
@@ -8,6 +8,9 @@ import {
 import { blueprint as goDigitVariant1Blueprint } from "./insurers/go-digit/variant-1/blueprint.js";
 import { normalize as normalizeGoDigitVariant1 } from "./insurers/go-digit/variant-1/normalize.js";
 import type { Variant1Data } from "./insurers/go-digit/variant-1/types.js";
+import { blueprint as goDigitVariant2Blueprint } from "./insurers/go-digit/variant-2/blueprint.js";
+import { normalize as normalizeGoDigitVariant2 } from "./insurers/go-digit/variant-2/normalize.js";
+import type { Variant2Data } from "./insurers/go-digit/variant-2/types.js";
 import type { PolicyData } from "./format/policy.js";
 import { exportPoliciesToCsv } from "./services/csv/convert.js";
 import { parseDocument } from "./services/blueprint/parser.js";
@@ -15,12 +18,15 @@ import { extractAndReconstructPdf } from "./services/pdf-parser/extractor.js";
 import type { PdfTextToken, ReconstructedLayout } from "./services/pdf-parser/types.js";
 
 const pdfsDirectory = path.resolve("pdfs");
+const logsDirectory = path.resolve("logs");
+const logStages = ["extraction", "variant detection", "variant", "normaliser"];
 const outputPath = path.resolve("output", "output.csv");
 
 /** Main entry point to run the policy parser pipeline on a target PDF file. */
 async function main(): Promise<void> {
   try {
     await mkdir(path.dirname(outputPath), { recursive: true });
+    await Promise.all(logStages.map((stage) => mkdir(path.join(logsDirectory, stage), { recursive: true })));
     const pdfFiles = (await readdir(pdfsDirectory, { withFileTypes: true }))
       .filter((entry) => entry.isFile() && path.extname(entry.name).toLowerCase() === ".pdf")
       .map((entry) => entry.name)
@@ -35,10 +41,15 @@ async function main(): Promise<void> {
       console.log(`Processing policy: ${sourcePath}`);
 
       try {
+        const baseName = path.parse(filename).name;
         const layout = await extractAndReconstructPdf(sourcePath);
+        await writeJsonLog("extraction", baseName, layout);
         const { insurer, variant } = detectDocument(layout);
-        const { policy } = parseAndNormalize(layout, variant);
+        await writeJsonLog("variant detection", baseName, { insurer, variant });
+        const { parsed, policy } = parseAndNormalize(layout, variant);
+        await writeJsonLog(`variant/${variant}`, baseName, parsed);
         policy.Filename = filename;
+        await writeJsonLog("normaliser", baseName, policy);
         policies.push(policy);
       } catch (error) {
         const message = error instanceof Error ? error.message : String(error);
@@ -54,6 +65,12 @@ async function main(): Promise<void> {
     console.error("Failed to parse policy:", error);
     process.exit(1);
   }
+}
+
+async function writeJsonLog(stage: string, baseName: string, value: unknown): Promise<void> {
+  const stageDirectory = path.join(logsDirectory, stage);
+  await mkdir(stageDirectory, { recursive: true });
+  await writeFile(path.join(stageDirectory, `${baseName}.json`), `${JSON.stringify(value, null, 2)}\n`, "utf8");
 }
 
 /** Detects the insurer and dispatches to that insurer's variant detector. */
@@ -83,11 +100,15 @@ function detectDocument(layout: ReconstructedLayout): {
 function parseAndNormalize(
   layout: ReconstructedLayout,
   variant: GoDigitLayoutVariant,
-): { parsed: Variant1Data; policy: PolicyData } {
+): { parsed: Variant1Data | Variant2Data; policy: PolicyData } {
   switch (variant) {
     case "variant-1": {
       const parsed = parseDocument(layout, goDigitVariant1Blueprint);
       return { parsed, policy: normalizeGoDigitVariant1(parsed) };
+    }
+    case "variant-2": {
+      const parsed = parseDocument(layout, goDigitVariant2Blueprint);
+      return { parsed, policy: normalizeGoDigitVariant2(parsed) };
     }
   }
 }
