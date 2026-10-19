@@ -1,5 +1,6 @@
 import { mkdir, readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
+import type { PolicyData } from "./format/policy.js";
 import { detectInsurer } from "./insurers/detect_insurer.js";
 import {
   detectGoDigitLayout,
@@ -11,11 +12,16 @@ import type { Variant1Data } from "./insurers/go-digit/variant-1/types.js";
 import { blueprint as goDigitVariant2Blueprint } from "./insurers/go-digit/variant-2/blueprint.js";
 import { normalize as normalizeGoDigitVariant2 } from "./insurers/go-digit/variant-2/normalize.js";
 import type { Variant2Data } from "./insurers/go-digit/variant-2/types.js";
-import type { PolicyData } from "./format/policy.js";
-import { exportPoliciesToCsv } from "./services/csv/convert.js";
+import { blueprint as goDigitVariant3Blueprint } from "./insurers/go-digit/variant-3/blueprint.js";
+import { normalize as normalizeGoDigitVariant3 } from "./insurers/go-digit/variant-3/normalize.js";
+import type { Variant3Data } from "./insurers/go-digit/variant-3/types.js";
 import { parseDocument } from "./services/blueprint/parser.js";
+import { exportPoliciesToCsv } from "./services/csv/convert.js";
 import { extractAndReconstructPdf } from "./services/pdf-parser/extractor.js";
-import type { PdfTextToken, ReconstructedLayout } from "./services/pdf-parser/types.js";
+import type {
+  PdfTextToken,
+  ReconstructedLayout,
+} from "./services/pdf-parser/types.js";
 
 const pdfsDirectory = path.resolve("pdfs");
 const logsDirectory = path.resolve("logs");
@@ -26,13 +32,21 @@ const outputPath = path.resolve("output", "output.csv");
 async function main(): Promise<void> {
   try {
     await mkdir(path.dirname(outputPath), { recursive: true });
-    await Promise.all(logStages.map((stage) => mkdir(path.join(logsDirectory, stage), { recursive: true })));
+    await Promise.all(
+      logStages.map((stage) =>
+        mkdir(path.join(logsDirectory, stage), { recursive: true }),
+      ),
+    );
     const pdfFiles = (await readdir(pdfsDirectory, { withFileTypes: true }))
-      .filter((entry) => entry.isFile() && path.extname(entry.name).toLowerCase() === ".pdf")
+      .filter(
+        (entry) =>
+          entry.isFile() && path.extname(entry.name).toLowerCase() === ".pdf",
+      )
       .map((entry) => entry.name)
       .sort((a, b) => a.localeCompare(b));
 
-    if (pdfFiles.length === 0) throw new Error(`No PDF files found in ${pdfsDirectory}`);
+    if (pdfFiles.length === 0)
+      throw new Error(`No PDF files found in ${pdfsDirectory}`);
 
     const policies: PolicyData[] = [];
     const failures: string[] = [];
@@ -59,18 +73,31 @@ async function main(): Promise<void> {
     }
 
     await exportPoliciesToCsv(policies, outputPath);
-    console.log(`Wrote ${policies.length} parsed policy record(s) to ${outputPath}`);
-    if (failures.length > 0) console.error(`Skipped ${failures.length} PDF(s):\n${failures.join("\n")}`);
+    console.log(
+      `Wrote ${policies.length} parsed policy record(s) to ${outputPath}`,
+    );
+    if (failures.length > 0)
+      console.error(
+        `Skipped ${failures.length} PDF(s):\n${failures.join("\n")}`,
+      );
   } catch (error) {
     console.error("Failed to parse policy:", error);
     process.exit(1);
   }
 }
 
-async function writeJsonLog(stage: string, baseName: string, value: unknown): Promise<void> {
+async function writeJsonLog(
+  stage: string,
+  baseName: string,
+  value: unknown,
+): Promise<void> {
   const stageDirectory = path.join(logsDirectory, stage);
   await mkdir(stageDirectory, { recursive: true });
-  await writeFile(path.join(stageDirectory, `${baseName}.json`), `${JSON.stringify(value, null, 2)}\n`, "utf8");
+  await writeFile(
+    path.join(stageDirectory, `${baseName}.json`),
+    `${JSON.stringify(value, null, 2)}\n`,
+    "utf8",
+  );
 }
 
 /** Detects the insurer and dispatches to that insurer's variant detector. */
@@ -100,7 +127,7 @@ function detectDocument(layout: ReconstructedLayout): {
 function parseAndNormalize(
   layout: ReconstructedLayout,
   variant: GoDigitLayoutVariant,
-): { parsed: Variant1Data | Variant2Data; policy: PolicyData } {
+): { parsed: Variant1Data | Variant2Data | Variant3Data; policy: PolicyData } {
   switch (variant) {
     case "variant-1": {
       const parsed = parseDocument(layout, goDigitVariant1Blueprint);
@@ -109,6 +136,10 @@ function parseAndNormalize(
     case "variant-2": {
       const parsed = parseDocument(layout, goDigitVariant2Blueprint);
       return { parsed, policy: normalizeGoDigitVariant2(parsed) };
+    }
+    case "variant-3": {
+      const parsed = parseDocument(layout, goDigitVariant3Blueprint);
+      return { parsed, policy: normalizeGoDigitVariant3(parsed) };
     }
   }
 }
