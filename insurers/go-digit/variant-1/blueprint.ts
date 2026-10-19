@@ -171,6 +171,10 @@ export const blueprint: BlueprintEntry<Variant1Data>[] = [
     locateAndExtract: (tokens) => valueAtX(tokens, /Net Premium/, 17),
   },
   {
+    field: "finalPremium",
+    locateAndExtract: (tokens) => valueAtX(tokens, /Final Premium/, 17),
+  },
+  {
     field: "igst",
     locateAndExtract: (tokens) =>
       valueAtX(tokens, /IGST @18%=/i, 5.6)
