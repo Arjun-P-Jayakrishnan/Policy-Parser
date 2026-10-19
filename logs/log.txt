@@ -34,7 +34,6 @@ Warning: Unsupported: field.type of Link
 Warning: NOT valid form element
 Warning: Unsupported: field.type of Link
 Warning: NOT valid form element
-Failed to parse DG_4WAG_SCHEDULEHC_D272363175_D272363175_1789032950184-1.pdf: Cannot read properties of undefined (reading 'replace')
 Processing policy: D:\Personal-Projects\Policy-Parser\pdfs\DG_4WAG_SCHEDULEHC_D273223792_D273223792_1789023090870.pdf
 Warning: Setting up fake worker.
 Warning: TT: undefined function: 32
@@ -44,7 +43,6 @@ Warning: Unsupported: field.type of Link
 Warning: NOT valid form element
 Warning: Unsupported: field.type of Link
 Warning: NOT valid form element
-Failed to parse DG_4WAG_SCHEDULEHC_D273223792_D273223792_1789023090870.pdf: Cannot read properties of undefined (reading 'replace')
 Processing policy: D:\Personal-Projects\Policy-Parser\pdfs\sample.pdf
 Warning: Setting up fake worker.
 Warning: TT: undefined function: 32
@@ -54,9 +52,4 @@ Warning: Unsupported: field.type of Link
 Warning: NOT valid form element
 Warning: Unsupported: field.type of Link
 Warning: NOT valid form element
-Failed to parse sample.pdf: Cannot read properties of undefined (reading 'replace')
-Wrote 3 parsed policy record(s) to D:\Personal-Projects\Policy-Parser\output\output.csv
-Skipped 3 PDF(s):
-DG_4WAG_SCHEDULEHC_D272363175_D272363175_1789032950184-1.pdf: Cannot read properties of undefined (reading 'replace')
-DG_4WAG_SCHEDULEHC_D273223792_D273223792_1789023090870.pdf: Cannot read properties of undefined (reading 'replace')
-sample.pdf: Cannot read properties of undefined (reading 'replace')
+Wrote 6 parsed policy record(s) to D:\Personal-Projects\Policy-Parser\output\output.csv

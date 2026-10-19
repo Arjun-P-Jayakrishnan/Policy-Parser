@@ -112,7 +112,7 @@ export const blueprint: BlueprintEntry<Variant1Data>[] = [
   {
     field: "vehicleModel",
     locateAndExtract: (tokens) =>
-      value(tokens, /Model\/Vehicle Variant/, undefined, 3),
+      value(tokens, /Model\/Vehicle Variant/, undefined, 3, true),
   },
   {
     field: "seatingCapacity",
@@ -238,6 +238,7 @@ function value(
   label: RegExp,
   boundary?: RegExp,
   tokenCount = 1,
+  includeNextY = false,
 ): string {
   const lines = toLines(tokens);
   for (let lineIndex = 0; lineIndex < lines.length; lineIndex++) {
@@ -255,11 +256,18 @@ function value(
 
     // A numeric count means take that many complete fragments after the label.
     if (!boundary) {
-      return [labelRemainder, ...following.map((token) => token.text)]
+      const fragments = [labelRemainder, ...following.map((token) => token.text)]
         .map((text) => text.trim())
-        .filter(Boolean)
-        .slice(0, Math.max(0, tokenCount))
-        .join(" ");
+        .filter(Boolean);
+      if (includeNextY && fragments.length < tokenCount) {
+        for (const nextLine of lines.slice(lineIndex + 1)) {
+          if (nextLine.page !== line.page) break;
+          if (looksLikeLabel(nextLine.tokens[0]?.text ?? "")) break;
+          fragments.push(...nextLine.tokens.map((token) => token.text.trim()).filter(Boolean));
+          if (fragments.length >= tokenCount) break;
+        }
+      }
+      return fragments.slice(0, Math.max(0, tokenCount)).join(" ");
     }
 
     // A boundary regex means collect text until the next matching label/value.
@@ -298,6 +306,47 @@ function valueRightOf(
         }) + 1
       : labelIndex + 1;
     return fragments[valueIndex]?.text.trim() ?? "";
+  }
+  return "";
+}
+
+/** Returns fragments immediately before a label, optionally spanning prior y lines. */
+function valueLeftOf(
+  tokens: readonly PdfTextToken[],
+  label: RegExp,
+  tokenCount = 1,
+  includePreviousY = false,
+): string {
+  const lines = toLines(tokens);
+  for (let lineIndex = 0; lineIndex < lines.length; lineIndex++) {
+    const line = lines[lineIndex];
+    const labelIndex = line.tokens.findIndex((token) => test(label, token.text));
+    if (labelIndex < 0) continue;
+
+    const fragments = line.tokens
+      .slice(0, labelIndex)
+      .map((token) => token.text.trim())
+      .filter(Boolean)
+      .reverse();
+
+    if (includePreviousY && fragments.length < tokenCount) {
+      for (const previousLine of lines.slice(0, lineIndex).reverse()) {
+        if (previousLine.page !== line.page) break;
+        if (looksLikeLabel(previousLine.tokens.at(-1)?.text ?? "")) break;
+        fragments.push(
+          ...previousLine.tokens
+            .map((token) => token.text.trim())
+            .filter(Boolean)
+            .reverse(),
+        );
+        if (fragments.length >= tokenCount) break;
+      }
+    }
+
+    return fragments
+      .slice(0, Math.max(0, tokenCount))
+      .reverse()
+      .join(" ");
   }
   return "";
 }

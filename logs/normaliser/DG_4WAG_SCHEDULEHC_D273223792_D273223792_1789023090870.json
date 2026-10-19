@@ -3,7 +3,7 @@
   "Status": false,
   "Date": "2026-09-10",
   "InsuranceCompany": "Go Digit General Insurance",
-  "Vertical": "Motor",
+  "Vertical": "HEUTE AND MORGEN",
   "IMDCode": "1075248",
   "LOB": "PVT",
   "Package": "Digit Private Car Policy",
@@ -33,6 +33,6 @@
   "TPOnlyPremium": "2474.00",
   "AddOnPremium": "",
   "NetPremium": "2883.20",
-  "TotalAmount": "",
+  "TotalAmount": "3402.18",
   "ModeOfPayment": "Online"
 }

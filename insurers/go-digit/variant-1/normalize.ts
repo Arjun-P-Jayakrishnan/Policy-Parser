@@ -10,7 +10,7 @@ import type { Variant1Data } from "./types.js";
 export function normalize(data: Variant1Data): PolicyData {
   const policy = createPolicy();
   policy.InsuranceCompany = "Go Digit General Insurance";
-  policy.Vertical = "Motor";
+  policy.Vertical = "HEUTE AND MORGEN";
   policy.LOB = "PVT";
   policy.Package = normalizeText(data.policyType);
   policy.Filename = "";
